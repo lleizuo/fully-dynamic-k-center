@@ -1,0 +1,14 @@
+{
+    "dataset": "../datasets/FB",
+    "dimension": 2,
+    "recluster-method-list": ["random-selection", 
+                              "closest-point", 
+                              "newest-point", 
+                              "oldest-point"],
+    "recluster-method": 0,
+    "number-insertions": 100,
+    "number-deletions": 100,
+    "timeout-seconds": 5,
+    "visualize": false,
+    "operation-file": "../datasets/operations"
+}
