@@ -1,6 +1,6 @@
-#!/usr/bin/python
 import sys
-import thread
+import threading
+sys.path.append("../../")
 from Base.temp import MsgType
 
 class DataRetriver:
@@ -50,4 +50,4 @@ class DataRetriver:
         try:
             thread.start_new_thread(self.dataCache.insert, (dataType, data))
         except:
-            print "Error: unable to create thread"
+            print("Error: unable to create thread")
