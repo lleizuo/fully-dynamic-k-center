@@ -1,16 +1,33 @@
 from Impl.ClusterEngine.Cluster import Cluster
 from Impl.ClusterEngine.UnClustered import UnClustered
+import random
 
 class DataStructure(object):
-    def __init__(self, r):
+    def __init__(self, r: float, k: int):
         self.radius = r
+        self.numOfClusters = k
         self.Clusters = []
         self.unClustered = set()
         self.centers = []
     
-    def createCluster(self, p):     # p is a DataPoint
-        self.Clusters.append(Cluster(p.id))
     
+    # the 2-appximation clustering algorithm. X is the set of points
+    def simpleClustering(self, X):
+        unclusteredPoints = X
+        counter = 0
+        print(unclusteredPoints)
+        while len(unclusteredPoints) > 0 and counter<self.numOfClusters:
+            c = random.sample(unclusteredPoints,1)[0]                                # the random selected center
+            withIn2r = set(filter(lambda p: p.distanceTo(c)<=2*self.radius, 
+                                  unclusteredPoints))
+            newCluster = Cluster(c.id, withIn2r)    
+            self.Clusters.append(newCluster)
+            self.centers.append(c)
+            unclusteredPoints = unclusteredPoints.difference(withIn2r)
+            counter += 1
+        if len(unclusteredPoints) > 0:
+            self.unClustered = unclusteredPoints
+
     def insert(self, p):
         for c in self.centers:
             if p.distanceTo(c) <= 2*self.radius:
@@ -18,13 +35,13 @@ class DataStructure(object):
                 return
         self.unClustered.add(p)
 
-    def delete(self, pid):
+    def delete(self, pid: int):
         for cluster in self.Clusters:
             if cluster.contains(pid):
                 cluster.remove(pid)
                 break
         for i in range(0,len(self.centers)):
-            if self.centers[i] == pid:
+            if self.centers[i].id == pid:
                 del self.centers[i:]
                 self.reCluster(self.Clusters[i:])
                 break

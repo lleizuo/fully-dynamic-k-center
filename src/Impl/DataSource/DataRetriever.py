@@ -1,22 +1,28 @@
-import sys
+import os
 import threading
-sys.path.append("../../")
+import re
 from Base.temp import MsgType
+from Impl.DataCache.Cache import Cache
 
 class DataRetriver:
-    def __init__(self, config, dataCache):
-        self.dataCache = dataCache
+    def __init__(self, config):
+        # self.dataCache = dataCache
         self.filePath = config['dataset']
         self.operationPath = config['operation-file']
         self.dataDimension = config['dimension']
 
 
     # load data from dataset file
-    def loadData(self):  
-        dataFile = open(self.filePath, "r")
+    def loadData(self, cache):  
+        script_dir = os.path.dirname(__file__)
+        rel_path = "../../Data/dataset1"
+        abs_file_path = os.path.join(script_dir, rel_path)
+        dataFile = open(abs_file_path, "r")
         line = dataFile.readline()
         while line:
-            self.parseData(line)
+            (x,y) = self.parseData(line)
+            if (x,y) is not None:
+                self.feedCache(x, y, cache)
             line = dataFile.readline()
         dataFile.close()
 
@@ -31,23 +37,20 @@ class DataRetriver:
         operationFile.close()
 
 
-    # parse data
+    # use regular expression to parse data
     def parseData(self, line):
-        # use regex or something else to parse data to data points
-        dp = None
-        self.feedCache(MsgType.FULL, dp)
+        r = re.match(r"^\((.*),(.*)\)$", line)
+        if r:
+            return (float(r.groups()[0]), float(r.groups()[1]))
+        return None
         
-
-
     # parse operation
     def parseOperation(self, line):
         dp = None
-        self.feedCache(MsgType.DELTA, dp)
+        return dp
+
+    # add the data point into cache
+    def feedCache(self, x, y, cache):
+        print(x, y)
+        cache.feed(x, y)
         pass
-
-
-    def feedCache(self, dataType, data):
-        try:
-            thread.start_new_thread(self.dataCache.insert, (dataType, data))
-        except:
-            print("Error: unable to create thread")

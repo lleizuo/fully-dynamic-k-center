@@ -5,6 +5,7 @@
                               "closest-point", 
                               "newest-point", 
                               "oldest-point"],
+    "k": 2,
     "recluster-method": 0,
     "number-insertions": 100,
     "number-deletions": 100,
