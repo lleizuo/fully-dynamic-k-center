@@ -51,6 +51,5 @@ class DataRetriver:
 
     # add the data point into cache
     def feedCache(self, x, y, cache):
-        print(x, y)
+        # print(x, y)
         cache.feed(x, y)
-        pass

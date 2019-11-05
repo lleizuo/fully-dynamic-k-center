@@ -1,10 +1,13 @@
 from Base.SetBase import SetBase
 from Impl.DataCache import DataPoint as DP
 class Cluster(object):
-    def __init__(self, pid:int, points:set):
+    def __init__(self, p:DP, points:set):
         super().__init__()
-        self.center = pid
+        self.center = p
         self.points = points
+
+    def __repr__(self):
+        return "Cluster with center %s, points: %s" % (self.center, self.points)
 
     # insert a point to the cluster
     def insert(self,p):
