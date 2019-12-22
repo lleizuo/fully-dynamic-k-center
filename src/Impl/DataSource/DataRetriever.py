@@ -1,28 +1,28 @@
 import os
 import threading
 import re
-from Base.temp import MsgType
-from Impl.DataCache.Cache import Cache
+# from Base.temp import MsgType
+# from Impl.DataCache.Cache import Cache
 
 class DataRetriver:
-    def __init__(self, config):
+    def __init__(self, filePath, operationPath):
         # self.dataCache = dataCache
-        self.filePath = config['dataset']
-        self.operationPath = config['operation-file']
-        self.dataDimension = config['dimension']
+        self.filePath = filePath
+        self.operationPath = operationPath
+        # self.dataDimension = config['dimension']
 
 
     # load data from dataset file
     def loadData(self, cache):  
         script_dir = os.path.dirname(__file__)
-        rel_path = "../../Data/dataset1"
+        rel_path = "../../" + self.filePath
         abs_file_path = os.path.join(script_dir, rel_path)
         dataFile = open(abs_file_path, "r")
         line = dataFile.readline()
         while line:
             (x,y) = self.parseData(line)
             if (x,y) is not None:
-                self.feedCache(x, y, cache)
+                cache.feed(x, y)
             line = dataFile.readline()
         dataFile.close()
 
@@ -48,8 +48,3 @@ class DataRetriver:
     def parseOperation(self, line):
         dp = None
         return dp
-
-    # add the data point into cache
-    def feedCache(self, x, y, cache):
-        # print(x, y)
-        cache.feed(x, y)
