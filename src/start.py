@@ -10,6 +10,7 @@ def main():
     dataSource.loadData(cache)
     dataStructure = DataStructure(config['radius'], config['k'])
     dataStructure.simpleClustering(cache.allPoints)
+    dataStructure.show()
     
     pid = int(input())
     dataStructure.delete(pid)

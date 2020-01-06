@@ -2,12 +2,13 @@ from Impl.ClusterEngine.Cluster import Cluster
 from Impl.ClusterEngine.UnClustered import UnClustered
 from Impl.DataCache.DataPoint import DataPoint
 import random
+from typing import List
 
 class DataStructure(object):
     def __init__(self, r: float, k: int):
         self.radius = r
         self.numOfClusters = k
-        self.Clusters = []              # list of clusters
+        self.Clusters : List[Cluster] = []              # list of clusters
         self.unClustered = set()        # set of unclustered points
         self.centers = []               # list of centers
     
@@ -28,7 +29,7 @@ class DataStructure(object):
             counter += 1
         if len(unclusteredPoints) > 0:
             self.unClustered = unclusteredPoints
-        self.show()
+        # self.show()
 
     # insert a datapoint
     def insert(self, p):
@@ -71,6 +72,24 @@ class DataStructure(object):
         # if len(unclusteredPoints) > 0:
         #     self.unClustered = unclusteredPoints
 
+    # refine for Hamming distance calculation. Include centers in corresponding sets
+    def refineForHam(self):
+        result : List[set] = []
+        for cluster in self.Clusters:
+            s = set(p.id for p in cluster.points)
+            s.add(cluster.center.id)
+            result.append(s)
+        return result
+    
+    # add back the deleted point to obtain same cardinality for the convenience of computing stability
+    def retroAdd(self, deletedPoint:DataPoint) -> int:
+        index = self.centers.index(min(self.centers, key=lambda c: c.distanceTo(deletedPoint)))
+        if index>=0:
+            self.Clusters[index].insert(deletedPoint)
+        return index
+
+    def retroDelete(self, deletedPoint:DataPoint, index:int) -> int:
+        self.Clusters[index].remove(deletedPoint.id)
 
     def show(self):
         print("centers: ")

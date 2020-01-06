@@ -3,8 +3,8 @@ from Impl.DataCache import DataPoint as DP
 class Cluster(object):
     def __init__(self, p:DP, points:set):
         super().__init__()
-        self.center = p
-        self.points = points
+        self.center : DP = p
+        self.points : set = points
 
     def __repr__(self):
         return "Cluster with center %s, points: %s" % (self.center, self.points)
