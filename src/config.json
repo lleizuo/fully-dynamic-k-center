@@ -1,15 +1,16 @@
 {
-    "dataset": "../datasets/FB",
+    "dataset": "Data/dataset1",
     "dimension": 2,
     "recluster-method-list": ["random-selection", 
                               "closest-point", 
                               "newest-point", 
                               "oldest-point"],
-    "k": 2,
+    "k": 3,
+    "radius": 2,
     "recluster-method": 0,
     "number-insertions": 100,
     "number-deletions": 100,
     "timeout-seconds": 5,
     "visualize": false,
-    "operation-file": "../datasets/operations"
+    "operation-file": "Data/operation1"
 }
