@@ -1,6 +1,7 @@
 from Impl.ClusterEngine.DataStructure import DataStructure
 from Impl.DataSource.DataRetriever import DataRetriver
 from Impl.DataCache.Cache import Cache
+from Impl.Stability import HammingDist as Ham
 import json
 def main():
     cache = Cache()
@@ -12,8 +13,17 @@ def main():
     dataStructure.simpleClustering(cache.allPoints)
     dataStructure.show()
     
-    pid = int(input())
-    dataStructure.delete(pid)
+    if len(dataStructure.unClustered) == 0:
+        pid = int(input("input pid of point to be deleted: "))
+        c1 = dataStructure.refineForHam()
+        deletedP = dataStructure.delete(pid)
+        dataStructure.show()
+        if len(dataStructure.unClustered)==0 and not (deletedP is None):
+            index = dataStructure.retroAdd(deletedP)
+            c2 = dataStructure.refineForHam()
+            h = Ham.hammingDist(c1, c2)
+            dataStructure.retroDelete(deletedP, index)
+            print("Stability under Hamming distance is", h)
     
     dummy = input()
 

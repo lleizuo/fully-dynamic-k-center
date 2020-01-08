@@ -1,7 +1,8 @@
 from typing import List
-def hammingDist(L1:List[set], L2:List[set], N:int):    
+def hammingDist(L1:List[set], L2:List[set]):    # clustering1, clustering2, number of points
     m = len(L1)
     n = len(L2)
+    N = sum(len(s) for s in L1)
     contingencyT : List[list] = []
     for i in range(0, m):
         r : List[int] = []
