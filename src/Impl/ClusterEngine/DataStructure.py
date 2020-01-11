@@ -2,6 +2,7 @@ from Impl.ClusterEngine.Cluster import Cluster
 from Impl.ClusterEngine.UnClustered import UnClustered
 from Impl.DataCache.DataPoint import DataPoint
 import random
+from itertools import chain
 from typing import List
 
 class DataStructure(object):
@@ -107,7 +108,17 @@ class DataStructure(object):
     def npDelete(self, pid):
         pass
 
+    def dispose(self):
+        result = set(chain.from_iterable(p.points for p in self.Clusters))
+        self.Clusters = None
+        result = result.union(self.unClustered)
+        self.unClustered = None
+        result = result.union(set(self.centers))
+        self.centers = None
+        return result
+
     def show(self):
+        print("radius: %f" % self.radius)
         print("centers: ")
         print("\t%s" % self.centers)
         print("Clusters: ")
