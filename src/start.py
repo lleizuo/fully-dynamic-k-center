@@ -8,10 +8,10 @@ def main():
     with open('config.json') as config_file:
         config = json.load(config_file)
     dataSource = DataRetriver(config['dataset'], config['operation-file'])
-    dataSource.loadData(cache)
+    dataSource.loadData(cache, config['max-records'])
     dataStructure = tryCluster(config['dmin'], config['dmax'], config['sigma'], config['k'], cache.allPoints)
-    dataStructure.show()
-
+    # dataStructure.show()
+    print("done")
     cmd = input().split()
     while len(cmd) > 0:
         if cmd[0] == "insert":
@@ -22,7 +22,7 @@ def main():
             dataStructure = compute(dataStructure)
         else:
             print("invalid command")
-        dataStructure.show()
+        # dataStructure.show()
         cmd = input().split()
 
 

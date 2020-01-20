@@ -3,7 +3,7 @@ from Impl.ClusterEngine.UnClustered import UnClustered
 from Impl.DataCache.DataPoint import DataPoint
 import random
 from itertools import chain
-from typing import List
+from typing import List, Set
 
 class DataStructure(object):
     def __init__(self, r: float, k: int):
@@ -102,11 +102,39 @@ class DataStructure(object):
             self.Clusters[index].insert(deletedPoint)
         return index
 
+    # delete the point inserted in retroAdd
     def retroDelete(self, deletedPoint:DataPoint, index:int) -> int:
         self.Clusters[index].remove(deletedPoint.id)
 
-    def npDelete(self, pid):
-        pass
+    # constant factor algorithm (delete a center)
+    def cfDelete(self, pid):
+        cluster = self.Clusters[self.centers.index(pid)]
+        p = cluster.nextCenter()
+        pos = self.centers.index(pid)
+        self.centers = self.centers[:pos] + [p] + self.centers[(pos+1):]
+        for cluster in self.Clusters[pos:]:
+            self.unClustered = self.unClustered.union(cluster.points)
+        self.Clusters = self.Clusters[:pos]
+        (unclustered, newCluters) = self.cfReassign(self.centers[pos:], self.unClustered)
+        self.unClustered.union(unclustered)
+        self.Clusters += newCluters
+
+    def cfReassign(self, R:List[DataPoint], X:Set[DataPoint]):
+        clusters = []
+        unclustered = set()
+        for c in R:
+            clusters.append(Cluster(c, set()))
+        for p in X:
+            # minDist = min(c.distanceTo(p) for c in R)
+            index = R.index(min(self.centers, key=lambda c: c.distanceTo(p)))
+            if R[index].distanceTo(p) <= 2*self.radius:
+                clusters[index].insert(p)
+            elif len(self.centers) < self.numOfClusters:
+                R.append(p)
+                clusters.append(Cluster(p, set()))
+            else:
+                unclustered.add(p)
+        return (unclustered, clusters)
 
     def dispose(self):
         result = set(chain.from_iterable(p.points for p in self.Clusters))
