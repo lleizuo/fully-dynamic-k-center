@@ -24,7 +24,7 @@ class DataStructure(object):
         counter = 0
         while len(unclusteredPoints) > 0 and counter<self.numOfClusters:
             c = random.sample(unclusteredPoints,1)[0]                                # the random selected center
-            withIn2r = set(filter(lambda p: p.distanceTo(c)<=2*self.radius and p!=c, 
+            withIn2r = set(filter(lambda p: p!=c and p.sphereDist(c)<=2*self.radius, 
                                   unclusteredPoints))
             newCluster = Cluster(c, withIn2r)    
             self.Clusters.append(newCluster)
@@ -43,7 +43,7 @@ class DataStructure(object):
         self.N += 1
         i = 0
         for c in self.centers:
-            if p.distanceTo(c) <= 2*self.radius:
+            if p.sphereDist(c) <= 2*self.radius:
                 self.Clusters[i].insert(p)
                 return
             i += 1
@@ -65,6 +65,7 @@ class DataStructure(object):
             self.centers = self.centers[:pos]
             for cluster in self.Clusters[pos:]:
                 self.unClustered = self.unClustered.union(cluster.points)
+            print("ready to cluster points:", len(self.unClustered))
             self.Clusters = self.Clusters[:pos]
             self.reCluster(self.numOfClusters-pos)
             self.T += 1
@@ -75,7 +76,7 @@ class DataStructure(object):
         counter = 0
         while len(self.unClustered) > 0 and counter<numOfClusters:
             c = random.sample(self.unClustered,1)[0]                                # the random selected center
-            withIn2r = set(filter(lambda p: p.distanceTo(c)<=2*self.radius and p!=c, 
+            withIn2r = set(filter(lambda p: p.sphereDist(c)<=2*self.radius and p!=c, 
                                   self.unClustered))
             newCluster = Cluster(c, withIn2r)    
             self.Clusters.append(newCluster)
@@ -93,18 +94,30 @@ class DataStructure(object):
             s = set(p.id for p in cluster.points)
             s.add(cluster.center.id)
             result.append(s)
+        if len(self.unClustered) > 0:
+            result.append(self.unClustered)
         return result
     
     # add back the deleted point to obtain same cardinality for the convenience of computing stability
     def retroAdd(self, deletedPoint:DataPoint) -> int:
-        index = self.centers.index(min(self.centers, key=lambda c: c.distanceTo(deletedPoint)))
-        if index>=0:
-            self.Clusters[index].insert(deletedPoint)
-        return index
+        nearestCenter = min(self.centers, key=lambda c: c.sphereDist(deletedPoint))
+        if nearestCenter.sphereDist(deletedPoint) <= self.radius:
+            index = self.centers.index(nearestCenter)
+            return index
+        elif len(self.Clusters) < self.numOfClusters:
+            self.unClustered.add(DataPoint)
+            return -1
+        # index = self.centers.index(min(self.centers, key=lambda c: c.sphereDist(deletedPoint)))
+        # if index>=0:
+            # self.Clusters[index].insert(deletedPoint)
+        # return index
 
     # delete the point inserted in retroAdd
     def retroDelete(self, deletedPoint:DataPoint, index:int) -> int:
-        self.Clusters[index].remove(deletedPoint.id)
+        if index>=0:
+            self.Clusters[index].remove(deletedPoint.id)
+        else:
+            self.unClustered.remove(deletedPoint)
 
     # constant factor algorithm (delete a center)
     def cfDelete(self, pid):
@@ -125,9 +138,8 @@ class DataStructure(object):
         for c in R:
             clusters.append(Cluster(c, set()))
         for p in X:
-            # minDist = min(c.distanceTo(p) for c in R)
-            index = R.index(min(self.centers, key=lambda c: c.distanceTo(p)))
-            if R[index].distanceTo(p) <= 2*self.radius:
+            index = R.index(min(self.centers, key=lambda c: c.sphereDist(p)))
+            if R[index].sphereDist(p) <= 2*self.radius:
                 clusters[index].insert(p)
             elif len(self.centers) < self.numOfClusters:
                 R.append(p)

@@ -8,16 +8,24 @@ def main():
     with open('config.json') as config_file:
         config = json.load(config_file)
     dataSource = DataRetriver(config['dataset'], config['operation-file'])
-    dataSource.loadData(cache, config['max-records'])
+    dataSource.loadInitData(cache, config['max-records'])
+    print("finish loading")
+    dummy = input()
+
     dataStructure = tryCluster(config['dmin'], config['dmax'], config['sigma'], config['k'], cache.allPoints)
+    print("finish clustering. Radius: ", dataStructure.radius)
+    print(dataStructure.Clusters[-1])
+    print(dataStructure.centers)
     # dataStructure.show()
     print("done")
     cmd = input().split()
     while len(cmd) > 0:
         if cmd[0] == "insert":
             dataStructure = insert(dataStructure, float(cmd[1]), float(cmd[2]))
+            print(dataStructure.centers)
         elif cmd[0] == "delete":
             dataStructure = delete(dataStructure, int(cmd[1]))
+            print(dataStructure.centers, len(dataStructure.unClustered))
         elif cmd[0] == "compute":
             dataStructure = compute(dataStructure)
         else:

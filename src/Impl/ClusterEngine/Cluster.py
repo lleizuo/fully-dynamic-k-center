@@ -2,7 +2,7 @@ from Base.SetBase import SetBase
 from Impl.DataCache import DataPoint as DP
 from typing import Set
 class Cluster(object):
-    def __init__(self, p:DP, points:Set[DP]):
+    def __init__(self, p:DP, points):
         super().__init__()
         self.center : DP = p
         self.points : Set[DP] = points

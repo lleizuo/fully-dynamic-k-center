@@ -10,19 +10,30 @@ class DataRetriver:
 
 
     # load data from dataset file
-    def loadData(self, cache, maxRecords):  
+    def loadInitData(self, cache, maxRecords):  
         script_dir = os.path.dirname(__file__)
         rel_path = "../../" + self.filePath
         abs_file_path = os.path.join(script_dir, rel_path)
         dataFile = open(abs_file_path, "r")
         line = dataFile.readline()
-        i = 0
-        while line and i<maxRecords:
+        current = 0
+        oldest = 0
+        while line:
             r = self.parseData(line, r"([0-9]+)[\t ]+(.+) (.+)")
             if r is not None:
                 cache.feed(r[0], r[1])
+            if oldest+maxRecords>current:
+                oldest += 1
             line = dataFile.readline()
+            current += 1
+            yield
         dataFile.close()
+    
+    # def generateOprFile(self, maxRecords, outPath):
+        # oldest = 0
+        # current = maxRecords
+        # script_dir = os.path.dirname(__file__)
+        # rel_path = "../../" + outPath
 
 
     # load operation from operation file
