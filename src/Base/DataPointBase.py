@@ -9,8 +9,8 @@ class DataPointBase(object):
     def __eq__(self, other) -> bool:
         if self.id == other.id:
             return True
-        if self.x == other.x and self.y == other.y:
-            return True
+        # if self.x == other.x and self.y == other.y:
+        #     return True
         return False
     def __repr__(self):
         return "%d: (%.2f, %.2f)" % (self.id, self.x, self.y)

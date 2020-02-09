@@ -13,6 +13,7 @@
     "dmax": 20038000, 
     "max-records": 60000,
     "recluster-method": 0,
+    "calc-stab": false,
     "number-insertions": 100,
     "number-deletions": 100,
     "timeout-seconds": 5,

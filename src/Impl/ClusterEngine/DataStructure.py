@@ -20,7 +20,7 @@ class DataStructure(object):
     def simpleClustering(self, X:set):
         self.N = len(X)
         self.T = len(X)
-        unclusteredPoints = X
+        unclusteredPoints = X.copy()
         counter = 0
         while len(unclusteredPoints) > 0 and counter<self.numOfClusters:
             c = random.sample(unclusteredPoints,1)[0]                                # the random selected center

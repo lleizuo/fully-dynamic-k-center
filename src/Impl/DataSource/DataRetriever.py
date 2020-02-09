@@ -10,7 +10,7 @@ class DataRetriver:
 
 
     # load data from dataset file
-    def loadInitData(self, cache, maxRecords):  
+    def loadData(self, cache, maxRecords):  
         script_dir = os.path.dirname(__file__)
         rel_path = "../../" + self.filePath
         abs_file_path = os.path.join(script_dir, rel_path)
@@ -18,11 +18,19 @@ class DataRetriver:
         line = dataFile.readline()
         current = 0
         oldest = 0
+        while line and current<maxRecords:
+            r = self.parseData(line, r"([0-9]+)[\t ]+(.+) (.+)")
+            if r is not None:
+                cache.feed(r[0], r[1])
+            line = dataFile.readline()
+            current += 1
+        yield
         while line:
             r = self.parseData(line, r"([0-9]+)[\t ]+(.+) (.+)")
             if r is not None:
                 cache.feed(r[0], r[1])
-            if oldest+maxRecords>current:
+            if oldest+maxRecords>=current:
+                cache.remove(oldest)
                 oldest += 1
             line = dataFile.readline()
             current += 1

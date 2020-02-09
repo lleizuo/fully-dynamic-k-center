@@ -8,30 +8,32 @@ def main():
     with open('config.json') as config_file:
         config = json.load(config_file)
     dataSource = DataRetriver(config['dataset'], config['operation-file'])
-    dataSource.loadInitData(cache, config['max-records'])
-    print("finish loading")
+    action = dataSource.loadData(cache, config['max-records'])
+    next(action)
+    print("finish loading initial data")
     dummy = input()
 
     dataStructure = tryCluster(config['dmin'], config['dmax'], config['sigma'], config['k'], cache.allPoints)
     print("finish clustering. Radius: ", dataStructure.radius)
-    print(dataStructure.Clusters[-1])
     print(dataStructure.centers)
-    # dataStructure.show()
     print("done")
-    cmd = input().split()
-    while len(cmd) > 0:
-        if cmd[0] == "insert":
-            dataStructure = insert(dataStructure, float(cmd[1]), float(cmd[2]))
-            print(dataStructure.centers)
-        elif cmd[0] == "delete":
-            dataStructure = delete(dataStructure, int(cmd[1]))
-            print(dataStructure.centers, len(dataStructure.unClustered))
-        elif cmd[0] == "compute":
-            dataStructure = compute(dataStructure)
-        else:
-            print("invalid command")
-        # dataStructure.show()
-        cmd = input().split()
+    dummy = input()
+    if config['calc-stab'] == False:
+        while True:
+            next(action)
+            dataStructure = insert(dataStructure, cache.inserted.x, cache.inserted.y)
+            dataStructure = delete(dataStructure, cache.removed)
+            print('Removed:', cache.removed, 'Inserted:', cache.inserted)
+            dummy = input()
+    else:
+        while True:
+            next(action)
+            c1 = dataStructure.refineForHam()
+            dataStructure = insert(dataStructure, cache.inserted.x, cache.inserted.y)
+            dataStructure = delete(dataStructure, cache.removed)
+            c2 = dataStructure.refineForHam()
+            print('Removed:', cache.removed, 'Inserted:', cache.inserted, 'stab:', Ham.hammingDist(c1, c2))
+            dummy = input()
 
 
 def tryCluster(dmin:float, dmax:float, sigma:float, k:int, X:set):
@@ -44,7 +46,6 @@ def tryCluster(dmin:float, dmax:float, sigma:float, k:int, X:set):
 		dataStructure = DataStructure(r, k)
 		dataStructure.simpleClustering(X)
 		if len(dataStructure.unClustered) > 0:
-			X = dataStructure.dispose()
 			i += 1
 			r = pow(1+sigma, i)
 			continue
@@ -77,7 +78,6 @@ def compute(L:DataStructure):
     else:
         print("Unable to calculate stability")
     return L
-
 
 
 if __name__ == "__main__":

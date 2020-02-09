@@ -17,4 +17,4 @@ class DataPoint(DataPointBase):
                               math.cos(self.y)*math.cos(dp.y)*math.cos(self.x - dp.x))
         except:
             # print (self, dp)
-            return float("inf")
+            return 0
