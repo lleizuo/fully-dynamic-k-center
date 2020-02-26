@@ -37,8 +37,8 @@ class DataStructure(object):
         # self.show()
 
     # insert a datapoint
-    def insert(self, x, y):
-        p = DataPoint(self.T, x, y)
+    def insert(self, p):
+        # p = DataPoint(self.T, x, y)
         self.T += 1
         self.N += 1
         i = 0
@@ -47,6 +47,10 @@ class DataStructure(object):
                 self.Clusters[i].insert(p)
                 return
             i += 1
+        if len(self.centers) < self.numOfClusters:
+            self.centers.append(p)
+            self.Clusters.append(Cluster(p, set()))
+            return
         self.unClustered.add(p)
 
     def delete(self, pid: int) -> DataPoint:
@@ -55,22 +59,24 @@ class DataStructure(object):
                 cluster.remove(pid)
                 # self.T += 1
                 self.N -= 1
-                return None
-        pos = self.centers.index(DataPoint(pid,-1,-1))
-        if pos<0:
-            return None
-        deletedP = self.centers[pos]
+                return
+        try:
+            pos = self.centers.index(DataPoint(pid,-1,-1))
+        except:
+            pos = -1
         if pos >= 0:
+            # deletedP = self.centers[pos]
             self.unClustered = self.unClustered.union(set(self.centers[pos+1:]))
             self.centers = self.centers[:pos]
             for cluster in self.Clusters[pos:]:
                 self.unClustered = self.unClustered.union(cluster.points)
-            print("ready to cluster points:", len(self.unClustered))
+            # print("ready to recluster points:", len(self.unClustered))
             self.Clusters = self.Clusters[:pos]
             self.reCluster(self.numOfClusters-pos)
             self.T += 1
             self.N -= 1
-        return deletedP
+        elif DataPoint(pid, -1, -1) in self.unClustered:
+            self.unClustered.discard(DataPoint(pid, -1, -1))
 
     def reCluster(self, numOfClusters:int):     # self.unClustered
         counter = 0
@@ -95,7 +101,7 @@ class DataStructure(object):
             s.add(cluster.center.id)
             result.append(s)
         if len(self.unClustered) > 0:
-            result.append(self.unClustered)
+            result.append(set(p.id for p in self.unClustered))
         return result
     
     # add back the deleted point to obtain same cardinality for the convenience of computing stability

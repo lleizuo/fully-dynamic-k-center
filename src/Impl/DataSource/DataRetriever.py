@@ -60,8 +60,6 @@ class DataRetriver:
         r = re.match(p, line)
         if r:
             return (float(r.groups()[1]), float(r.groups()[2]))
-        # else:
-        #     print("\n\n\n", line, "\n\n\n")
         return None
         
     # parse operation

@@ -11,12 +11,13 @@
     "radius": 2,
     "dmin": 100,
     "dmax": 20038000, 
-    "max-records": 60000,
+    "max-records": 10000,
     "recluster-method": 0,
-    "calc-stab": false,
+    "calc-stab": true,
     "number-insertions": 100,
     "number-deletions": 100,
     "timeout-seconds": 5,
     "visualize": false,
+    "draw-interval": 5,
     "operation-file": "Data/operation1"
 }

@@ -2,7 +2,10 @@ from Impl.ClusterEngine.DataStructure import DataStructure
 from Impl.DataSource.DataRetriever import DataRetriver
 from Impl.DataCache.Cache import Cache
 from Impl.Stability import HammingDist as Ham
+from Impl.Visualization.test import Plotter
 import json
+import multiprocessing as mp
+
 def main():
     cache = Cache()
     with open('config.json') as config_file:
@@ -15,25 +18,18 @@ def main():
 
     dataStructure = tryCluster(config['dmin'], config['dmax'], config['sigma'], config['k'], cache.allPoints)
     print("finish clustering. Radius: ", dataStructure.radius)
-    print(dataStructure.centers)
-    print("done")
+    print(dataStructure.centers, "\ndone")
     dummy = input()
-    if config['calc-stab'] == False:
-        while True:
-            next(action)
-            dataStructure = insert(dataStructure, cache.inserted.x, cache.inserted.y)
-            dataStructure = delete(dataStructure, cache.removed)
-            print('Removed:', cache.removed, 'Inserted:', cache.inserted)
-            dummy = input()
+
+    if config['calc-stab']==True and config['visualize']==True:
+        processCalcVsl(action, dataStructure, cache, config['draw-interval'])
+    elif config['calc-stab']==True and config['visualize']==False:
+        processCalc(action, dataStructure, cache)
+    elif config['calc-stab']==False and config['visualize']==True:
+        processVsl(action, dataStructure, cache, config['draw-interval'])
     else:
-        while True:
-            next(action)
-            c1 = dataStructure.refineForHam()
-            dataStructure = insert(dataStructure, cache.inserted.x, cache.inserted.y)
-            dataStructure = delete(dataStructure, cache.removed)
-            c2 = dataStructure.refineForHam()
-            print('Removed:', cache.removed, 'Inserted:', cache.inserted, 'stab:', Ham.hammingDist(c1, c2))
-            dummy = input()
+        processSld(action, dataStructure, cache)
+
 
 
 def tryCluster(dmin:float, dmax:float, sigma:float, k:int, X:set):
@@ -51,33 +47,66 @@ def tryCluster(dmin:float, dmax:float, sigma:float, k:int, X:set):
 			continue
 		return dataStructure
 
-def delete(L:DataStructure, pid:int):
-    if len(L.unClustered) == 0:
-        L.delete(pid)
-    return L
-
-def insert(L:DataStructure, x:float, y:float):
-    if len(L.unClustered) == 0:
-        L.insert(x, y)
-    return L
-
-def compute(L:DataStructure):
-    if len(L.unClustered) == 0:
-        print("---------- Stability of deletion----------")
-        pid = int(input("input pid of point to be deleted: "))
+def processCalcVsl(action, L:DataStructure, cache:Cache, d:int):
+    mp.set_start_method("forkserver")
+    pl = Plotter()
+    i = 0
+    while True:
+        if i%d==0:
+            pl.plot(L)
+        i += 1
+        next(action)
         c1 = L.refineForHam()
-        deletedP = L.delete(pid)
-        if len(L.unClustered)==0 and (deletedP is not None):
-            index = L.retroAdd(deletedP)
-            c2 = L.refineForHam()
-            h = Ham.hammingDist(c1, c2)
-            L.retroDelete(deletedP, index)
-            print("Stability under Hamming distance is", h)
-        else:
-            print("Unable to calculate stability")
-    else:
-        print("Unable to calculate stability")
-    return L
+        L.insert(cache.inserted)
+        L.delete(cache.removed)
+        c2 = L.refineForHam()
+        print('Removed:', cache.removed, 'Inserted:', cache.inserted, 'stab:', Ham.hammingDist(c1, c2))
+        dummy = input()
+    pl.plot(L=None, finished=True)
+
+def processVsl(action, L:DataStructure, cache:Cache, d:int):
+    mp.set_start_method("forkserver")
+    pl = Plotter()
+    i = 0
+    while True:
+        if i%d==0:
+            print("Sending centers1:", L.centers)
+            pl.plot(L)
+        i+=1
+        next(action)
+        print('Removed:', cache.removed, 'Inserted:', cache.inserted)
+        L.insert(cache.inserted)
+        print(L.Clusters)
+        L.delete(cache.removed)
+        print(L.Clusters)
+        dummy = input()
+    pl.plot(L=None, finished=True)
+        
+
+def processCalc(action, L:DataStructure, cache:Cache):
+    while True:
+        next(action)
+        c1 = L.refineForHam()
+        L.insert(cache.inserted)
+        L.delete(cache.removed)
+        c2 = L.refineForHam()
+        # print(L.Clusters)
+        stab = Ham.ari(c1, c2)
+        if(stab>0):
+            print('Removed:', cache.removed, 'Inserted:', cache.inserted,)
+            print('stab:%.8f' % stab)
+            print(L.centers)
+        # dummy = input()
+
+def processSld(action, L:DataStructure, cache:Cache):
+    while True:
+        next(action)
+        L.insert(cache.inserted)
+        L.delete(cache.removed)
+        print('Removed:', cache.removed, 'Inserted:', cache.inserted)
+        dummy = input()
+
+
 
 
 if __name__ == "__main__":
