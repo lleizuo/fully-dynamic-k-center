@@ -1,5 +1,6 @@
 from Base.SetBase import SetBase
 from Impl.DataCache import DataPoint as DP
+from typing import Set
 class Cluster(object):
     def __init__(self, p:DP, points:set):
         super().__init__()
@@ -21,5 +22,14 @@ class Cluster(object):
 
     def remove(self,pid):
         self.points.discard(DP.DataPoint(pid,-1,-1))
+    
+    def nextCenter(self) -> DP:
+        minDist = float("inf")
+        c = None
+        for p in self.points:
+            if p.distanceTo(self.center) < minDist:
+                minDist = p.distanceTo(self.center)
+                c = p
+        return c
     
     
