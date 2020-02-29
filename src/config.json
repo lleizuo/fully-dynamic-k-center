@@ -1,5 +1,5 @@
 {
-    "dataset": "Data/timestamped_gps_coordinate.txt",
+    "dataset": "Data/dataset1",
     "dimension": 2,
     "recluster-method-list": ["random-selection", 
                               "closest-point", 
