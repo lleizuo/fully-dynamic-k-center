@@ -127,32 +127,59 @@ class DataStructure(object):
 
     # constant factor algorithm (delete a center)
     def cfDelete(self, pid):
-        cluster = self.Clusters[self.centers.index(pid)]
-        p = cluster.nextCenter()
-        pos = self.centers.index(pid)
-        self.centers = self.centers[:pos] + [p] + self.centers[(pos+1):]
-        for cluster in self.Clusters[pos:]:
-            self.unClustered = self.unClustered.union(cluster.points)
-        self.Clusters = self.Clusters[:pos]
-        (unclustered, newCluters) = self.cfReassign(self.centers[pos:], self.unClustered)
-        self.unClustered.union(unclustered)
-        self.Clusters += newCluters
+        for cluster in self.Clusters:
+            if cluster.contains(pid):
+                cluster.remove(pid)
+                self.N -= 1
+                return
+        try:
+            pos = self.centers.index(DataPoint(pid, 0, 0))
+        except:
+            pos = -1
+        if pos>=0:
+            cluster = self.Clusters[pos]
+            p = cluster.nextCenter()
+            if p is None:
+                del self.centers[pos]
+                del self.Clusters[pos]
+                return
+            self.centers = self.centers[:pos] + [p] + self.centers[(pos+1):]
+            self.Clusters[pos].center = p
+            self.Clusters[pos].points.remove(p)
+            for cluster in self.Clusters[pos:]:
+                self.unClustered = self.unClustered.union(cluster.points)
+                cluster.points = set()
+            self.cfReassign()
+        else:
+            self.unClustered.discard(DataPoint(pid, -1, -1))
 
-    def cfReassign(self, R:List[DataPoint], X:Set[DataPoint]):
-        clusters = []
-        unclustered = set()
-        for c in R:
-            clusters.append(Cluster(c, set()))
-        for p in X:
-            index = R.index(min(self.centers, key=lambda c: c.sphereDist(p)))
-            if R[index].sphereDist(p) <= 2*self.radius:
-                clusters[index].insert(p)
+    def cfReassign(self):
+        clustered = set()
+        for p in self.unClustered:
+            index = self.centers.index(min(self.centers, key=lambda c: c.sphereDist(p)))
+            if self.centers[index].sphereDist(p) <= 2*self.radius:
+                self.Clusters[index].insert(p)
+                clustered.add(p)
             elif len(self.centers) < self.numOfClusters:
-                R.append(p)
-                clusters.append(Cluster(p, set()))
-            else:
-                unclustered.add(p)
-        return (unclustered, clusters)
+                self.centers.append(p)
+                self.Clusters.append(Cluster(p, set()))
+                clustered.add(p)
+        self.unClustered = self.unClustered.difference(clustered)
+    # def cfReassign(self, R:List[DataPoint], X:Set[DataPoint]):
+    #     clusters = []
+    #     unclustered = set()
+    #     for c in R:
+    #         clusters.append(Cluster(c, set()))
+    #     for p in X:
+    #         index = R.index(min(self.centers, key=lambda c: c.sphereDist(p)))
+    #         if R[index].sphereDist(p) <= 2*self.radius:
+    #             clusters[index].insert(p)
+    #         elif len(self.centers) < self.numOfClusters:
+    #             R.append(p)
+    #             clusters.append(Cluster(p, set()))
+    #         else:
+    #             unclustered.add(p)
+    #     return (unclustered, clusters)
 
     def dispose(self):
         result = set(chain.from_iterable(p.points for p in self.Clusters))

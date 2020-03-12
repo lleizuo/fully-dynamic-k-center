@@ -20,8 +20,9 @@ def main():
     print("finish clustering. Radius: ", dataStructure.radius)
     print(dataStructure.centers, "\ndone")
     dummy = input()
-
-    if config['calc-stab']==True and config['visualize']==True:
+    if config['recluster-method']==1:
+        testCf(dataStructure, action, cache)
+    elif config['calc-stab']==True and config['visualize']==True:
         processCalcVsl(action, dataStructure, cache, config['draw-interval'])
     elif config['calc-stab']==True and config['visualize']==False:
         processCalc(action, dataStructure, cache)
@@ -86,16 +87,20 @@ def processVsl(action, L:DataStructure, cache:Cache, d:int):
 def processCalc(action, L:DataStructure, cache:Cache):
     while True:
         next(action)
-        c1 = L.refineForHam()
-        L.insert(cache.inserted)
-        L.delete(cache.removed)
-        c2 = L.refineForHam()
-        # print(L.Clusters)
-        stab = Ham.ari(c1, c2)
-        if(stab>0):
-            print('Removed:', cache.removed, 'Inserted:', cache.inserted,)
-            print('stab:%.8f' % stab)
-            print(L.centers)
+        if cache.removed in [c.id for c in L.centers]:
+            c1 = L.refineForHam()
+            L.insert(cache.inserted)
+            L.delete(cache.removed)
+            c2 = L.refineForHam()
+            # print(L.Clusters)
+            stab = Ham.ari(c1, c2)
+            if(stab<1):
+                print('Removed:', cache.removed, 'Inserted:', cache.inserted,)
+                print('stab:%.8f' % stab)
+                print(L.centers)
+        else:
+            L.insert(cache.inserted)
+            L.delete(cache.removed)
         # dummy = input()
 
 def processSld(action, L:DataStructure, cache:Cache):
@@ -106,7 +111,25 @@ def processSld(action, L:DataStructure, cache:Cache):
         print('Removed:', cache.removed, 'Inserted:', cache.inserted)
         dummy = input()
 
-
+def testCf(L:DataStructure, action, cache):
+    # print(L.centers)
+    # print([len(cluster.points) for cluster in L.Clusters])
+    # print('')
+    while True:
+        next(action)
+        if cache.removed in [c.id for c in L.centers]:
+            print('Removed:', cache.removed, 'Inserted:', cache.inserted)
+            c1 = L.refineForHam()
+            L.insert(cache.inserted)
+            L.cfDelete(cache.removed)
+            c2 = L.refineForHam()
+            print(L.centers)
+            # print([len(cluster.points) for cluster in L.Clusters])
+            print('stab:%.8f'%Ham.ari(c1,c2))
+            # dummy = input()
+        else:
+            L.insert(cache.inserted)
+            L.cfDelete(cache.removed)
 
 
 if __name__ == "__main__":

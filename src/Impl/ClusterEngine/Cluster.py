@@ -5,7 +5,7 @@ class Cluster(object):
     def __init__(self, p:DP, points):
         super().__init__()
         self.center : DP = p
-        self.points : Set[DP] = points
+        self.points : Set[DP] = points if points is not None else set()
 
     def __repr__(self):
         return "Cluster with center %s, points: %s" % (self.center, self.points)
@@ -27,9 +27,10 @@ class Cluster(object):
         minDist = float("inf")
         c = None
         for p in self.points:
-            if p.distanceTo(self.center) < minDist:
-                minDist = p.distanceTo(self.center)
+            if p.sphereDist(self.center) < minDist:
+                minDist = p.sphereDist(self.center)
                 c = p
+        print('closest point is: ', c)
         return c
     
     
