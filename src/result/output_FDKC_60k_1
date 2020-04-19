@@ -1,0 +1,3454 @@
+Config: 60k, FDKC
+Number of center deletion: 1726, Average stability: 0.97297141
+Removed: 4040, Inserted: 64040: (11.58, 48.14)
+stab:0.99999984
+Removed: 4401, Inserted: 64401: (-96.73, 43.54)
+stab:0.99999981
+Removed: 7469, Inserted: 67469: (-1.90, 52.48)
+stab:0.99551109
+Removed: 11886, Inserted: 71886: (30.41, 40.75)
+stab:1.00000000
+Removed: 13421, Inserted: 73421: (-83.22, 42.47)
+stab:0.99999973
+Removed: 16730, Inserted: 76730: (-88.28, 42.32)
+stab:0.99999912
+Removed: 17458, Inserted: 77458: (-60.06, -3.09)
+stab:0.92102920
+Removed: 20494, Inserted: 80494: (-79.48, 9.02)
+stab:0.99999854
+Removed: 25646, Inserted: 85646: (-70.65, -33.46)
+stab:1.00000000
+Removed: 27852, Inserted: 87852: (-79.93, 32.78)
+stab:0.99999846
+Removed: 35006, Inserted: 95006: (-75.84, 41.31)
+stab:0.99999966
+Removed: 37009, Inserted: 97009: (28.97, 41.04)
+stab:0.89023345
+Removed: 37160, Inserted: 97160: (28.97, 41.04)
+stab:0.86320836
+Removed: 37809, Inserted: 97809: (-90.07, 30.36)
+stab:0.99999710
+Removed: 38174, Inserted: 98174: (10.79, 45.15)
+stab:0.91790823
+Removed: 40447, Inserted: 100447: (-70.65, 41.93)
+stab:0.99999974
+Removed: 50518, Inserted: 110518: (-79.33, 42.44)
+stab:0.99999999
+Removed: 52610, Inserted: 112610: (-51.02, -30.07)
+stab:0.99960668
+Removed: 56623, Inserted: 116623: (-121.97, 37.35)
+stab:0.99999296
+Removed: 59746, Inserted: 119746: (-75.43, 6.17)
+stab:1.00000000
+Removed: 64812, Inserted: 124812: (10.63, 45.60)
+stab:0.96454252
+Removed: 64924, Inserted: 124924: (101.42, 3.04)
+stab:0.99407431
+Removed: 74641, Inserted: 134641: (-38.50, -12.95)
+stab:0.99997791
+Removed: 74943, Inserted: 134943: (135.57, 34.82)
+stab:0.99992531
+Removed: 77429, Inserted: 137429: (-46.92, -1.50)
+stab:0.87719524
+Removed: 77701, Inserted: 137701: (-77.94, 34.23)
+stab:0.99999968
+Removed: 78757, Inserted: 138757: (-74.00, 40.72)
+stab:1.00000000
+Removed: 78893, Inserted: 138893: (48.08, 29.21)
+stab:0.99999933
+Removed: 82047, Inserted: 142047: (3.37, 6.52)
+stab:0.92230984
+Removed: 83683, Inserted: 143683: (37.50, 55.82)
+stab:0.86944477
+Removed: 84930, Inserted: 144930: (24.44, 59.51)
+stab:0.99999988
+Removed: 85036, Inserted: 145036: (135.34, 34.81)
+stab:1.00000000
+Removed: 85985, Inserted: 145985: (-3.22, 55.95)
+stab:0.99999255
+Removed: 86650, Inserted: 146650: (27.17, 38.43)
+stab:0.92085052
+Removed: 90414, Inserted: 150414: (-94.09, 30.36)
+stab:0.99660093
+Removed: 91178, Inserted: 151178: (-99.13, 19.34)
+stab:0.91604982
+Removed: 99097, Inserted: 159097: (-96.70, 32.96)
+stab:0.99999850
+Removed: 101383, Inserted: 161383: (-93.53, 44.80)
+stab:0.99999891
+Removed: 101571, Inserted: 161571: (-74.74, 39.18)
+stab:1.00000000
+Removed: 103884, Inserted: 163884: (10.63, 45.60)
+stab:1.00000000
+Removed: 105032, Inserted: 165032: (-117.96, 33.78)
+stab:0.99827558
+Removed: 106276, Inserted: 166276: (-103.41, 20.72)
+stab:0.99999890
+Removed: 106612, Inserted: 166612: (31.03, 52.47)
+stab:0.99058559
+Removed: 107239, Inserted: 167239: (-75.03, 39.97)
+stab:0.93401887
+Removed: 107808, Inserted: 167808: (-44.59, -22.33)
+stab:1.00000000
+Removed: 108560, Inserted: 168560: (38.30, 38.35)
+stab:0.99999223
+Removed: 115853, Inserted: 175853: (4.66, 52.07)
+stab:0.96206904
+Removed: 116510, Inserted: 176510: (21.60, 63.10)
+stab:0.91957683
+Removed: 123652, Inserted: 183652: (8.58, 47.37)
+stab:0.96655377
+Removed: 124276, Inserted: 184276: (8.00, 58.15)
+stab:0.85742176
+Removed: 125104, Inserted: 185104: (-70.78, 43.04)
+stab:1.00000000
+Removed: 125276, Inserted: 185276: (-0.11, 49.29)
+stab:0.99999855
+Removed: 127789, Inserted: 187789: (-84.35, 33.75)
+stab:0.88306998
+Removed: 133133, Inserted: 193133: (47.99, 29.38)
+stab:0.99963554
+Removed: 136656, Inserted: 196656: (-99.07, 19.36)
+stab:0.89257295
+Removed: 143618, Inserted: 203618: (-88.11, 42.99)
+stab:0.89693045
+Removed: 143980, Inserted: 203980: (28.97, 41.04)
+stab:0.87407501
+Removed: 146288, Inserted: 206288: (29.02, 41.03)
+stab:0.97261972
+Removed: 148128, Inserted: 208128: (47.99, 29.27)
+stab:0.99996613
+Removed: 148345, Inserted: 208345: (-43.40, -22.84)
+stab:0.99999993
+Removed: 148348, Inserted: 208348: (-73.73, 41.02)
+stab:0.90100461
+Removed: 150618, Inserted: 210618: (-81.38, 28.54)
+stab:0.97162337
+Removed: 151173, Inserted: 211173: (26.99, 38.39)
+stab:0.98208573
+Removed: 153105, Inserted: 213105: (-74.62, 40.52)
+stab:1.00000000
+Removed: 153258, Inserted: 213258: (-119.71, 34.41)
+stab:0.99998201
+Removed: 153945, Inserted: 213945: (134.93, 35.33)
+stab:0.99791196
+Removed: 155607, Inserted: 215607: (-43.17, -22.96)
+stab:1.00000000
+Removed: 157902, Inserted: 217902: (-85.41, 40.20)
+stab:0.97076717
+Removed: 159710, Inserted: 219710: (55.31, 25.26)
+stab:0.99999992
+Removed: 160187, Inserted: 220187: (30.52, 50.45)
+stab:0.99999729
+Removed: 163516, Inserted: 223516: (-118.00, 33.66)
+stab:0.99999967
+Removed: 165677, Inserted: 225677: (29.93, 40.71)
+stab:0.92505895
+Removed: 166202, Inserted: 226202: (47.97, 29.36)
+stab:1.00000000
+Removed: 166948, Inserted: 226948: (46.77, 24.64)
+stab:0.99999996
+Removed: 169610, Inserted: 229610: (-93.49, 44.92)
+stab:0.95652959
+Removed: 172803, Inserted: 232803: (-77.63, 43.08)
+stab:0.93849302
+Removed: 177081, Inserted: 237081: (-71.51, 41.82)
+stab:1.00000000
+Removed: 180988, Inserted: 240988: (-73.76, 42.66)
+stab:0.94683079
+Removed: 187527, Inserted: 247527: (39.82, 21.42)
+stab:0.99998901
+Removed: 190926, Inserted: 250926: (135.95, 35.00)
+stab:0.99737416
+Removed: 194949, Inserted: 254949: (-122.40, 37.79)
+stab:0.99999973
+Removed: 196961, Inserted: 256961: (-81.92, 41.46)
+stab:0.99999981
+Removed: 200802, Inserted: 260802: (108.83, 59.46)
+stab:1.00000000
+Removed: 202303, Inserted: 262303: (6.15, 46.21)
+stab:0.93941968
+Removed: 202846, Inserted: 262846: (-0.01, 51.55)
+stab:1.00000000
+Removed: 209823, Inserted: 269823: (-79.39, 43.65)
+stab:0.99999997
+Removed: 210085, Inserted: 270085: (140.75, 40.82)
+stab:1.00000000
+Removed: 212752, Inserted: 272752: (-46.97, -22.88)
+stab:0.99980950
+Removed: 215464, Inserted: 275464: (-106.52, 39.63)
+stab:1.00000000
+Removed: 222306, Inserted: 282306: (-46.62, -23.55)
+stab:0.99991302
+Removed: 230820, Inserted: 290820: (-48.28, -18.88)
+stab:1.00000000
+Removed: 232596, Inserted: 292596: (-48.61, -26.80)
+stab:0.99999158
+Removed: 232911, Inserted: 292911: (103.86, 1.36)
+stab:0.94861164
+Removed: 239009, Inserted: 299009: (-112.37, 33.63)
+stab:0.99999118
+Removed: 239886, Inserted: 299886: (-83.39, 42.21)
+stab:1.00000000
+Removed: 240159, Inserted: 300159: (-86.78, 36.16)
+stab:0.92540111
+Removed: 241566, Inserted: 301566: (-85.77, 43.00)
+stab:1.00000000
+Removed: 242967, Inserted: 302967: (101.79, 3.05)
+stab:0.89056337
+Removed: 244780, Inserted: 304780: (138.99, 35.50)
+stab:0.99999153
+Removed: 248254, Inserted: 308254: (-87.63, 41.87)
+stab:0.99999978
+Removed: 248589, Inserted: 308589: (-41.98, -22.55)
+stab:0.97863138
+Removed: 248825, Inserted: 308825: (4.89, 52.37)
+stab:0.99920507
+Removed: 249206, Inserted: 309206: (-43.43, -22.98)
+stab:0.99913516
+Removed: 249534, Inserted: 309534: (-108.62, 39.06)
+stab:0.99999709
+Removed: 250197, Inserted: 310197: (-94.17, 38.76)
+stab:1.00000000
+Removed: 257188, Inserted: 317188: (-117.17, 32.72)
+stab:1.00000000
+Removed: 257600, Inserted: 317600: (-96.84, 33.15)
+stab:0.99959149
+Removed: 261405, Inserted: 321405: (-70.65, -33.45)
+stab:0.99627203
+Removed: 265156, Inserted: 325156: (-81.75, 30.19)
+stab:0.87754596
+Removed: 268565, Inserted: 328565: (-39.00, -14.28)
+stab:1.00000000
+Removed: 269323, Inserted: 329323: (107.54, -6.63)
+stab:0.99999849
+Removed: 272738, Inserted: 332738: (-77.09, 42.61)
+stab:0.99999559
+Removed: 275739, Inserted: 335739: (140.03, 40.21)
+stab:0.99999940
+Removed: 278370, Inserted: 338370: (-58.38, -34.60)
+stab:0.98029286
+Removed: 279746, Inserted: 339746: (135.50, 34.68)
+stab:0.99999994
+Removed: 283646, Inserted: 343646: (-114.07, 50.97)
+stab:0.99999967
+Removed: 287023, Inserted: 347023: (-72.70, 41.60)
+stab:0.99988734
+Removed: 293684, Inserted: 353684: (135.71, 34.69)
+stab:0.76890720
+Removed: 294939, Inserted: 354939: (-80.22, 25.79)
+stab:0.76511475
+Removed: 299550, Inserted: 359550: (-46.71, -23.48)
+stab:1.00000000
+Removed: 301713, Inserted: 361713: (-73.83, 40.76)
+stab:0.99785020
+Removed: 303022, Inserted: 363022: (101.69, 3.12)
+stab:1.00000000
+Removed: 305545, Inserted: 365545: (139.80, 35.67)
+stab:0.99999984
+Removed: 305677, Inserted: 365677: (-68.45, 18.72)
+stab:0.99999992
+Removed: 308006, Inserted: 368006: (-72.89, 41.32)
+stab:0.99999992
+Removed: 309782, Inserted: 369782: (98.95, 18.80)
+stab:0.99910034
+Removed: 319145, Inserted: 379145: (135.50, 34.76)
+stab:0.99999780
+Removed: 323278, Inserted: 383278: (34.31, 27.88)
+stab:0.99999996
+Removed: 324358, Inserted: 384358: (-122.26, 37.84)
+stab:1.00000000
+Removed: 326192, Inserted: 386192: (-178.22, 41.94)
+stab:0.99999977
+Removed: 329560, Inserted: 389560: (140.03, 35.65)
+stab:0.99999882
+Removed: 331702, Inserted: 391702: (139.71, 35.73)
+stab:0.94590919
+Removed: 344173, Inserted: 404173: (100.68, 13.80)
+stab:0.84404186
+Removed: 344800, Inserted: 404800: (-49.17, -16.66)
+stab:0.99999231
+Removed: 346287, Inserted: 406287: (-56.22, -34.10)
+stab:0.99999805
+Removed: 348243, Inserted: 408243: (-108.45, 25.57)
+stab:1.00000000
+Removed: 348833, Inserted: 408833: (153.34, -27.93)
+stab:0.98970736
+Removed: 351611, Inserted: 411611: (-84.00, 33.65)
+stab:0.90423691
+Removed: 357975, Inserted: 417975: (-74.39, 40.79)
+stab:0.99999947
+Removed: 357992, Inserted: 417992: (138.20, 34.84)
+stab:0.99998084
+Removed: 361154, Inserted: 421154: (-1.48, 50.92)
+stab:0.99876766
+Removed: 364020, Inserted: 424020: (-70.66, -33.44)
+stab:0.80628819
+Removed: 367473, Inserted: 427473: (-105.03, 39.74)
+stab:0.99997770
+Removed: 371846, Inserted: 431846: (121.04, 14.64)
+stab:0.87795676
+Removed: 371908, Inserted: 431908: (136.88, 35.17)
+stab:0.99974635
+Removed: 373099, Inserted: 433099: (176.82, -39.42)
+stab:0.99999958
+Removed: 373317, Inserted: 433317: (135.22, 34.65)
+stab:0.80632512
+Removed: 374313, Inserted: 434313: (-77.03, 38.92)
+stab:0.66418826
+Removed: 377486, Inserted: 437486: (127.11, 37.32)
+stab:0.99459419
+Removed: 380185, Inserted: 440185: (100.56, 13.82)
+stab:0.88201275
+Removed: 382143, Inserted: 442143: (-43.19, -22.94)
+stab:0.99999617
+Removed: 385131, Inserted: 445131: (101.58, 3.03)
+stab:1.00000000
+Removed: 387069, Inserted: 447069: (139.72, 35.56)
+stab:0.99999928
+Removed: 388826, Inserted: 448826: (101.70, 3.16)
+stab:0.99175892
+Removed: 394255, Inserted: 454255: (-83.19, 42.28)
+stab:0.87378311
+Removed: 399402, Inserted: 459402: (-1.23, 51.72)
+stab:0.99836933
+Removed: 400595, Inserted: 460595: (135.77, 34.97)
+stab:0.99999941
+Removed: 401272, Inserted: 461272: (-118.13, 33.94)
+stab:1.00000000
+Removed: 402207, Inserted: 462207: (100.60, 13.74)
+stab:0.99748607
+Removed: 408877, Inserted: 468877: (28.25, 36.84)
+stab:0.99996760
+Removed: 411672, Inserted: 471672: (0.38, 45.75)
+stab:0.99791314
+Removed: 412737, Inserted: 472737: (28.84, 40.96)
+stab:1.00000000
+Removed: 415923, Inserted: 475923: (-94.17, 36.07)
+stab:0.99787248
+Removed: 419593, Inserted: 479593: (130.40, 33.59)
+stab:0.79056967
+Removed: 421981, Inserted: 481981: (139.39, 35.75)
+stab:0.94316756
+Removed: 423762, Inserted: 483762: (-122.33, 47.57)
+stab:0.99980257
+Removed: 424017, Inserted: 484017: (149.69, -34.86)
+stab:0.99989238
+Removed: 424569, Inserted: 484569: (6.09, 52.53)
+stab:0.99976951
+Removed: 430990, Inserted: 490990: (120.56, 15.16)
+stab:0.99999994
+Removed: 431686, Inserted: 491686: (-5.61, 36.01)
+stab:0.98262414
+Removed: 431851, Inserted: 491851: (48.08, 29.34)
+stab:1.00000000
+Removed: 436075, Inserted: 496075: (19.45, 51.78)
+stab:0.99961307
+Removed: 438462, Inserted: 498462: (101.69, 3.12)
+stab:0.99999998
+Removed: 442154, Inserted: 502154: (138.18, 36.63)
+stab:0.99991326
+Removed: 443163, Inserted: 503163: (101.69, 3.08)
+stab:0.99999944
+Removed: 445449, Inserted: 505449: (140.88, 38.15)
+stab:0.99985485
+Removed: 447863, Inserted: 507863: (100.62, 13.66)
+stab:0.99999644
+Removed: 450176, Inserted: 510176: (5.75, 5.52)
+stab:0.99999765
+Removed: 450234, Inserted: 510234: (124.01, 10.29)
+stab:0.99987359
+Removed: 451972, Inserted: 511972: (126.99, 37.53)
+stab:1.00000000
+Removed: 458930, Inserted: 518930: (139.35, 35.33)
+stab:0.99545161
+Removed: 462361, Inserted: 522361: (37.71, 55.55)
+stab:0.99836986
+Removed: 464657, Inserted: 524657: (101.70, 3.16)
+stab:0.99999960
+Removed: 466701, Inserted: 526701: (-122.51, 49.11)
+stab:0.95334900
+Removed: 476456, Inserted: 536456: (-51.06, 0.04)
+stab:0.99999989
+Removed: 476522, Inserted: 536522: (139.71, 35.73)
+stab:0.94101828
+Removed: 477757, Inserted: 537757: (4.15, 51.15)
+stab:0.99999988
+Removed: 478317, Inserted: 538317: (11.00, 52.24)
+stab:0.99004438
+Removed: 488196, Inserted: 548196: (3.22, 51.21)
+stab:0.93854478
+Removed: 490887, Inserted: 550887: (-1.45, 52.93)
+stab:0.99999977
+Removed: 492566, Inserted: 552566: (101.72, 3.13)
+stab:0.99998067
+Removed: 493504, Inserted: 553504: (125.25, 24.72)
+stab:1.00000000
+Removed: 496581, Inserted: 556581: (34.80, 32.11)
+stab:0.99871643
+Removed: 496870, Inserted: 556870: (0.72, 47.39)
+stab:0.99999948
+Removed: 503809, Inserted: 563809: (-15.60, 27.74)
+stab:0.65046269
+Removed: 503936, Inserted: 563936: (101.69, 3.07)
+stab:0.99969856
+Removed: 506721, Inserted: 566721: (-44.10, -22.52)
+stab:0.69992626
+Removed: 512141, Inserted: 572141: (-38.51, -3.76)
+stab:0.99999985
+Removed: 512931, Inserted: 572931: (100.53, 13.74)
+stab:0.99999967
+Removed: 513458, Inserted: 573458: (109.32, -7.44)
+stab:0.99992023
+Removed: 515484, Inserted: 575484: (29.03, 40.98)
+stab:0.99991830
+Removed: 518771, Inserted: 578771: (4.31, 52.06)
+stab:0.99993177
+Removed: 520266, Inserted: 580266: (4.66, 52.07)
+stab:0.99822574
+Removed: 522811, Inserted: 582811: (139.71, 35.73)
+stab:0.99999991
+Removed: 527728, Inserted: 587728: (-1.71, 51.56)
+stab:0.69660357
+Removed: 530773, Inserted: 590773: (114.59, -3.32)
+stab:0.99993470
+Removed: 531880, Inserted: 591880: (103.85, 1.34)
+stab:0.99990710
+Removed: 532065, Inserted: 592065: (-66.05, 18.24)
+stab:0.99999784
+Removed: 535907, Inserted: 595907: (103.61, 1.60)
+stab:0.99999965
+Removed: 541908, Inserted: 601908: (77.25, 28.55)
+stab:0.99999996
+Removed: 543069, Inserted: 603069: (-74.01, 40.71)
+stab:1.00000000
+Removed: 547801, Inserted: 607801: (139.27, 35.79)
+stab:0.99990367
+Removed: 547992, Inserted: 607992: (-63.61, 44.79)
+stab:1.00000000
+Removed: 552931, Inserted: 612931: (100.35, -0.95)
+stab:0.99988733
+Removed: 554628, Inserted: 614628: (106.83, -6.29)
+stab:1.00000000
+Removed: 557755, Inserted: 617755: (151.21, -33.86)
+stab:0.99999942
+Removed: 561724, Inserted: 621724: (-73.98, 40.69)
+stab:0.99993277
+Removed: 562579, Inserted: 622579: (108.83, 59.46)
+stab:0.99999984
+Removed: 563597, Inserted: 623597: (136.91, 35.23)
+stab:0.89464539
+Removed: 563961, Inserted: 623961: (-73.93, 40.77)
+stab:0.99984045
+Removed: 573200, Inserted: 633200: (-76.26, 36.89)
+stab:0.99999982
+Removed: 575379, Inserted: 635379: (106.97, -6.27)
+stab:0.99999999
+Removed: 576834, Inserted: 636834: (43.99, 56.31)
+stab:0.99999759
+Removed: 578146, Inserted: 638146: (-73.13, 7.13)
+stab:0.72420530
+Removed: 581032, Inserted: 641032: (101.12, 4.62)
+stab:0.64558944
+Removed: 583387, Inserted: 643387: (48.09, 29.32)
+stab:0.99943393
+Removed: 583439, Inserted: 643439: (3.89, 50.96)
+stab:0.99998798
+Removed: 589945, Inserted: 649945: (-77.02, 38.90)
+stab:0.75615383
+Removed: 593227, Inserted: 653227: (-0.11, 46.73)
+stab:1.00000000
+Removed: 596322, Inserted: 656322: (139.76, 35.67)
+stab:0.86325347
+Removed: 600963, Inserted: 660963: (-48.46, -1.45)
+stab:0.99999986
+Removed: 604030, Inserted: 664030: (-102.55, 22.77)
+stab:0.99996157
+Removed: 606014, Inserted: 666014: (-119.69, 35.62)
+stab:1.00000000
+Removed: 609698, Inserted: 669698: (47.98, 29.37)
+stab:0.99999989
+Removed: 613452, Inserted: 673452: (102.57, 2.03)
+stab:0.99999670
+Removed: 614772, Inserted: 674772: (72.87, 19.23)
+stab:0.99963640
+Removed: 614784, Inserted: 674784: (-73.76, 40.76)
+stab:0.99906006
+Removed: 617675, Inserted: 677675: (34.59, 36.78)
+stab:0.96153893
+Removed: 621458, Inserted: 681458: (-73.82, 42.71)
+stab:1.00000000
+Removed: 625503, Inserted: 685503: (-87.02, 20.70)
+stab:0.98952552
+Removed: 626342, Inserted: 686342: (29.01, 41.08)
+stab:1.00000000
+Removed: 626372, Inserted: 686372: (-79.96, 37.32)
+stab:1.00000000
+Removed: 628302, Inserted: 688302: (-57.55, -25.17)
+stab:0.99999842
+Removed: 630013, Inserted: 690013: (-84.44, 33.64)
+stab:0.99999809
+Removed: 635050, Inserted: 695050: (5.70, 53.24)
+stab:0.99966011
+Removed: 635832, Inserted: 695832: (-73.20, 42.89)
+stab:1.00000000
+Removed: 638740, Inserted: 698740: (43.86, 26.38)
+stab:0.97095772
+Removed: 643333, Inserted: 703333: (12.83, 55.87)
+stab:0.99998610
+Removed: 644694, Inserted: 704694: (28.97, 41.04)
+stab:0.93902820
+Removed: 645188, Inserted: 705188: (-83.35, 42.60)
+stab:0.99987585
+Removed: 647780, Inserted: 707780: (139.74, 35.77)
+stab:0.59513722
+Removed: 648685, Inserted: 708685: (-101.35, 20.68)
+stab:0.99991531
+Removed: 648782, Inserted: 708782: (29.17, 40.89)
+stab:0.99812372
+Removed: 649989, Inserted: 709989: (-40.50, -9.40)
+stab:0.99999927
+Removed: 652731, Inserted: 712731: (-51.69, -29.93)
+stab:0.99999997
+Removed: 653180, Inserted: 713180: (-1.63, 49.65)
+stab:0.67361767
+Removed: 656960, Inserted: 716960: (3.20, 50.65)
+stab:0.99999981
+Removed: 664091, Inserted: 724091: (80.28, 13.08)
+stab:1.00000000
+Removed: 664933, Inserted: 724933: (37.03, 39.75)
+stab:0.99999996
+Removed: 666155, Inserted: 726155: (39.15, 21.58)
+stab:0.99999861
+Removed: 667852, Inserted: 727852: (-77.43, 38.89)
+stab:0.87360362
+Removed: 676287, Inserted: 736287: (50.22, 26.29)
+stab:0.99999507
+Removed: 677542, Inserted: 737542: (139.70, 35.66)
+stab:0.99373984
+Removed: 680565, Inserted: 740565: (-48.48, -25.72)
+stab:1.00000000
+Removed: 683650, Inserted: 743650: (102.38, 2.21)
+stab:0.99291518
+Removed: 685080, Inserted: 745080: (4.42, 50.86)
+stab:0.99965087
+Removed: 685276, Inserted: 745276: (-86.81, 33.41)
+stab:0.99999999
+Removed: 686104, Inserted: 746104: (27.86, 41.14)
+stab:1.00000000
+Removed: 693943, Inserted: 753943: (-74.21, 40.81)
+stab:1.00000000
+Removed: 698675, Inserted: 758675: (-97.23, 33.01)
+stab:1.00000000
+Removed: 702625, Inserted: 762625: (139.70, 35.70)
+stab:0.98447303
+Removed: 702753, Inserted: 762753: (-77.12, -12.06)
+stab:0.99984334
+Removed: 704965, Inserted: 764965: (48.05, 29.34)
+stab:0.95449922
+Removed: 708996, Inserted: 768996: (31.79, 41.46)
+stab:0.99297608
+Removed: 711786, Inserted: 771786: (29.02, 40.99)
+stab:0.99999814
+Removed: 716306, Inserted: 776306: (-103.33, 20.58)
+stab:0.99999910
+Removed: 719123, Inserted: 779123: (-38.50, -12.98)
+stab:1.00000000
+Removed: 719134, Inserted: 779134: (4.01, 47.34)
+stab:1.00000000
+Removed: 719666, Inserted: 779666: (-117.87, 33.79)
+stab:0.99998665
+Removed: 721290, Inserted: 781290: (28.82, 41.00)
+stab:0.99999999
+Removed: 724748, Inserted: 784748: (49.17, 55.78)
+stab:0.99999282
+Removed: 726458, Inserted: 786458: (7.10, 49.32)
+stab:0.99999995
+Removed: 729191, Inserted: 789191: (-34.91, -8.09)
+stab:0.99999999
+Removed: 729558, Inserted: 789558: (-122.35, 37.58)
+stab:0.99109924
+Removed: 731756, Inserted: 791756: (-90.45, 38.51)
+stab:0.99999997
+Removed: 731849, Inserted: 791849: (-96.64, 32.91)
+stab:0.92136163
+Removed: 736332, Inserted: 796332: (-77.01, 38.83)
+stab:0.99846938
+Removed: 739434, Inserted: 799434: (-99.17, 19.41)
+stab:0.99927696
+Removed: 744490, Inserted: 804490: (-121.37, 38.41)
+stab:0.94756673
+Removed: 751182, Inserted: 811182: (-81.95, 28.01)
+stab:0.99879709
+Removed: 752445, Inserted: 812445: (37.63, 55.74)
+stab:0.99999986
+Removed: 752732, Inserted: 812732: (-81.65, 30.33)
+stab:0.99802718
+Removed: 756262, Inserted: 816262: (-97.08, 32.75)
+stab:1.00000000
+Removed: 757257, Inserted: 817257: (-84.40, 33.75)
+stab:0.99549663
+Removed: 757405, Inserted: 817405: (-81.03, 34.92)
+stab:0.99983750
+Removed: 770250, Inserted: 830250: (-70.80, -33.50)
+stab:0.99999997
+Removed: 770925, Inserted: 830925: (-0.24, 52.59)
+stab:0.98076959
+Removed: 773114, Inserted: 833114: (-118.08, 33.76)
+stab:1.00000000
+Removed: 775434, Inserted: 835434: (-47.88, -15.80)
+stab:0.99937406
+Removed: 776575, Inserted: 836575: (-97.69, 30.37)
+stab:0.99999477
+Removed: 779881, Inserted: 839881: (14.38, 35.94)
+stab:0.99999999
+Removed: 781781, Inserted: 841781: (28.97, 41.04)
+stab:1.00000000
+Removed: 784479, Inserted: 844479: (2.34, 48.87)
+stab:0.87473448
+Removed: 785992, Inserted: 845992: (-77.58, 35.26)
+stab:1.00000000
+Removed: 790103, Inserted: 850103: (-87.35, 41.60)
+stab:0.99998913
+Removed: 790944, Inserted: 850944: (-73.97, 40.78)
+stab:0.98268115
+Removed: 793358, Inserted: 853358: (-97.13, 36.15)
+stab:0.99997715
+Removed: 794744, Inserted: 854744: (139.66, 35.58)
+stab:1.00000000
+Removed: 798192, Inserted: 858192: (-122.27, 37.79)
+stab:0.99999954
+Removed: 799635, Inserted: 859635: (-73.92, 40.71)
+stab:0.99980256
+Removed: 804716, Inserted: 864716: (-40.29, -20.32)
+stab:1.00000000
+Removed: 805378, Inserted: 865378: (-87.35, 41.60)
+stab:0.90067833
+Removed: 810243, Inserted: 870243: (28.97, 41.04)
+stab:1.00000000
+Removed: 810626, Inserted: 870626: (28.97, 41.04)
+stab:0.99996320
+Removed: 815624, Inserted: 875624: (-74.02, 41.50)
+stab:1.00000000
+Removed: 818462, Inserted: 878462: (-77.04, 38.91)
+stab:0.99988489
+Removed: 821812, Inserted: 881812: (-46.67, -23.50)
+stab:0.80903995
+Removed: 829799, Inserted: 889799: (-46.32, -23.40)
+stab:0.99987254
+Removed: 830100, Inserted: 890100: (-1.51, 48.64)
+stab:1.00000000
+Removed: 833459, Inserted: 893459: (-118.00, 33.66)
+stab:0.99999991
+Removed: 833824, Inserted: 893824: (-43.87, -19.77)
+stab:1.00000000
+Removed: 835769, Inserted: 895769: (-35.00, -8.48)
+stab:0.98375406
+Removed: 837521, Inserted: 897521: (-43.41, -22.82)
+stab:0.99986035
+Removed: 839205, Inserted: 899205: (-94.48, 39.05)
+stab:0.99992763
+Removed: 841744, Inserted: 901744: (-88.45, 42.15)
+stab:0.98484919
+Removed: 842711, Inserted: 902711: (-90.58, 41.65)
+stab:0.99992668
+Removed: 844048, Inserted: 904048: (-7.93, 37.02)
+stab:0.99999977
+Removed: 844848, Inserted: 904848: (-40.18, -20.11)
+stab:0.99969014
+Removed: 845220, Inserted: 905220: (151.26, -33.90)
+stab:0.99972091
+Removed: 849285, Inserted: 909285: (-81.59, 28.36)
+stab:0.99999965
+Removed: 854642, Inserted: 914642: (130.52, 33.74)
+stab:0.99833379
+Removed: 855592, Inserted: 915592: (20.12, 32.08)
+stab:0.99999810
+Removed: 858718, Inserted: 918718: (-121.86, 39.73)
+stab:0.99999826
+Removed: 859764, Inserted: 919764: (-79.38, 43.64)
+stab:0.98960940
+Removed: 861439, Inserted: 921439: (-34.86, -7.11)
+stab:0.99999987
+Removed: 861591, Inserted: 921591: (-96.82, 33.10)
+stab:1.00000000
+Removed: 867212, Inserted: 927212: (108.65, -7.68)
+stab:0.94918702
+Removed: 867487, Inserted: 927487: (-51.86, -29.80)
+stab:0.99299641
+Removed: 869555, Inserted: 929555: (101.72, 3.17)
+stab:0.79459464
+Removed: 875522, Inserted: 935522: (-57.61, -25.31)
+stab:1.00000000
+Removed: 876737, Inserted: 936737: (-70.68, -33.44)
+stab:1.00000000
+Removed: 878134, Inserted: 938134: (139.76, 35.67)
+stab:0.99895186
+Removed: 888931, Inserted: 948931: (100.04, 13.42)
+stab:0.99573026
+Removed: 889898, Inserted: 949898: (-46.66, -23.56)
+stab:0.99993187
+Removed: 892107, Inserted: 952107: (101.69, 3.14)
+stab:0.99999951
+Removed: 899079, Inserted: 959079: (-66.90, 10.50)
+stab:0.99996896
+Removed: 902916, Inserted: 962916: (-58.48, -34.61)
+stab:0.99999997
+Removed: 903636, Inserted: 963636: (112.52, -7.65)
+stab:0.99999997
+Removed: 904848, Inserted: 964848: (132.79, 33.85)
+stab:0.99649178
+Removed: 906606, Inserted: 966606: (135.22, 34.88)
+stab:0.99995263
+Removed: 910023, Inserted: 970023: (139.77, 35.50)
+stab:0.99314230
+Removed: 915028, Inserted: 975028: (-43.47, -22.75)
+stab:0.99998977
+Removed: 918126, Inserted: 978126: (139.45, 35.49)
+stab:0.99999710
+Removed: 926198, Inserted: 986198: (31.21, 30.01)
+stab:0.99367534
+Removed: 927165, Inserted: 987165: (108.50, -6.72)
+stab:0.96554459
+Removed: 929261, Inserted: 989261: (139.76, 35.97)
+stab:0.82314727
+Removed: 936272, Inserted: 996272: (-80.84, 35.23)
+stab:0.99999918
+Removed: 936612, Inserted: 996612: (-96.34, 30.61)
+stab:0.99992710
+Removed: 939562, Inserted: 999562: (136.76, 35.40)
+stab:0.99942939
+Removed: 940929, Inserted: 1000929: (140.86, 35.70)
+stab:1.00000000
+Removed: 944229, Inserted: 1004229: (18.11, 42.64)
+stab:0.99990940
+Removed: 945411, Inserted: 1005411: (82.79, 21.79)
+stab:0.86186937
+Removed: 950318, Inserted: 1010318: (135.50, 34.67)
+stab:0.99999986
+Removed: 951809, Inserted: 1011809: (139.04, 37.91)
+stab:1.00000000
+Removed: 953193, Inserted: 1013193: (-80.85, 35.24)
+stab:0.99999993
+Removed: 955873, Inserted: 1015873: (-74.44, 4.57)
+stab:0.99999713
+Removed: 957200, Inserted: 1017200: (-122.55, 38.00)
+stab:0.99999996
+Removed: 959389, Inserted: 1019389: (8.75, 50.11)
+stab:0.99975929
+Removed: 960252, Inserted: 1020252: (130.39, 33.59)
+stab:0.86359451
+Removed: 967131, Inserted: 1027131: (-121.55, 37.78)
+stab:0.99999997
+Removed: 967771, Inserted: 1027771: (95.31, 5.13)
+stab:0.99999992
+Removed: 968124, Inserted: 1028124: (-95.52, 29.75)
+stab:0.99999979
+Removed: 973035, Inserted: 1033035: (-122.68, 45.52)
+stab:0.99717722
+Removed: 973996, Inserted: 1033996: (139.76, 35.51)
+stab:0.99817364
+Removed: 976319, Inserted: 1036319: (116.08, 5.98)
+stab:0.83734524
+Removed: 977411, Inserted: 1037411: (-122.29, 37.83)
+stab:1.00000000
+Removed: 978113, Inserted: 1038113: (83.37, 18.17)
+stab:0.99994508
+Removed: 978452, Inserted: 1038452: (139.82, 35.70)
+stab:0.80643201
+Removed: 983148, Inserted: 1043148: (28.80, 40.97)
+stab:0.73098799
+Removed: 983575, Inserted: 1043575: (-0.16, 51.52)
+stab:0.81732102
+Removed: 988407, Inserted: 1048407: (135.19, 34.23)
+stab:0.99993507
+Removed: 989001, Inserted: 1049001: (141.35, 43.06)
+stab:0.99994459
+Removed: 995652, Inserted: 1055652: (139.76, 35.67)
+stab:0.91753465
+Removed: 995914, Inserted: 1055914: (54.39, 24.45)
+stab:0.97184982
+Removed: 1002374, Inserted: 1062374: (100.02, 13.36)
+stab:0.97065573
+Removed: 1005752, Inserted: 1065752: (27.30, 41.54)
+stab:1.00000000
+Removed: 1006526, Inserted: 1066526: (136.95, 35.19)
+stab:0.93775378
+Removed: 1007495, Inserted: 1067495: (100.47, 5.66)
+stab:0.99993732
+Removed: 1008667, Inserted: 1068667: (-1.14, 52.95)
+stab:1.00000000
+Removed: 1014597, Inserted: 1074597: (31.03, -17.86)
+stab:0.99940388
+Removed: 1018788, Inserted: 1078788: (-2.18, 53.02)
+stab:0.99808956
+Removed: 1018891, Inserted: 1078891: (139.53, 35.66)
+stab:0.99999999
+Removed: 1020594, Inserted: 1080594: (117.28, 31.86)
+stab:0.99638093
+Removed: 1026604, Inserted: 1086604: (107.60, -6.90)
+stab:0.99999905
+Removed: 1028295, Inserted: 1088295: (140.93, 38.13)
+stab:1.00000000
+Removed: 1029358, Inserted: 1089358: (138.81, 36.94)
+stab:0.99992519
+Removed: 1032518, Inserted: 1092518: (20.70, 61.71)
+stab:0.99959549
+Removed: 1032832, Inserted: 1092832: (-3.75, 40.41)
+stab:0.99998895
+Removed: 1035548, Inserted: 1095548: (121.57, 25.04)
+stab:0.97893761
+Removed: 1036353, Inserted: 1096353: (135.77, 35.00)
+stab:0.99928445
+Removed: 1036798, Inserted: 1096798: (139.75, 35.68)
+stab:0.99999948
+Removed: 1040440, Inserted: 1100440: (137.06, 35.19)
+stab:1.00000000
+Removed: 1041534, Inserted: 1101534: (29.01, 41.04)
+stab:0.79120869
+Removed: 1044729, Inserted: 1104729: (2.78, 48.87)
+stab:0.99857385
+Removed: 1045087, Inserted: 1105087: (139.71, 35.67)
+stab:0.99923636
+Removed: 1045734, Inserted: 1105734: (28.93, 41.03)
+stab:1.00000000
+Removed: 1045859, Inserted: 1105859: (39.61, 47.23)
+stab:0.97980120
+Removed: 1046736, Inserted: 1106736: (-84.36, 33.64)
+stab:1.00000000
+Removed: 1048531, Inserted: 1108531: (8.82, 44.68)
+stab:1.00000000
+Removed: 1050212, Inserted: 1110212: (139.43, 35.62)
+stab:0.99999946
+Removed: 1054046, Inserted: 1114046: (14.22, 40.83)
+stab:0.99999983
+Removed: 1055174, Inserted: 1115174: (101.51, 2.81)
+stab:0.99999634
+Removed: 1056692, Inserted: 1116692: (113.26, 23.13)
+stab:0.99491217
+Removed: 1061916, Inserted: 1121916: (121.91, 11.99)
+stab:1.00000000
+Removed: 1063733, Inserted: 1123733: (130.80, 32.84)
+stab:0.99347429
+Removed: 1063964, Inserted: 1123964: (-43.25, -22.81)
+stab:0.99366827
+Removed: 1067337, Inserted: 1127337: (103.86, 1.30)
+stab:0.99410357
+Removed: 1072133, Inserted: 1132133: (106.79, -6.18)
+stab:0.99999994
+Removed: 1076660, Inserted: 1136660: (120.93, 14.10)
+stab:0.99984911
+Removed: 1078277, Inserted: 1138277: (-48.67, -1.50)
+stab:0.99909400
+Removed: 1078597, Inserted: 1138597: (100.37, 6.07)
+stab:0.99999855
+Removed: 1080167, Inserted: 1140167: (-69.89, 18.47)
+stab:0.99999965
+Removed: 1080908, Inserted: 1140908: (127.08, 37.67)
+stab:1.00000000
+Removed: 1081654, Inserted: 1141654: (101.68, 3.21)
+stab:1.00000000
+Removed: 1082344, Inserted: 1142344: (29.11, 40.98)
+stab:0.99996028
+Removed: 1082391, Inserted: 1142391: (139.81, 35.71)
+stab:0.76978158
+Removed: 1082699, Inserted: 1142699: (6.96, 50.94)
+stab:0.99653585
+Removed: 1085391, Inserted: 1145391: (1.39, 49.45)
+stab:0.99999895
+Removed: 1089834, Inserted: 1149834: (120.94, 14.33)
+stab:1.00000000
+Removed: 1090805, Inserted: 1150805: (-0.14, 51.50)
+stab:0.99725092
+Removed: 1093589, Inserted: 1153589: (-157.84, 21.29)
+stab:0.99398722
+Removed: 1099866, Inserted: 1159866: (102.10, 2.58)
+stab:0.99686184
+Removed: 1100556, Inserted: 1160556: (-85.98, 41.68)
+stab:0.99726843
+Removed: 1102951, Inserted: 1162951: (-0.08, 51.53)
+stab:0.99999998
+Removed: 1117333, Inserted: 1177333: (107.61, -6.91)
+stab:0.82990062
+Removed: 1118332, Inserted: 1178332: (-2.18, 55.41)
+stab:1.00000000
+Removed: 1119131, Inserted: 1179131: (36.93, 37.58)
+stab:0.99950844
+Removed: 1119300, Inserted: 1179300: (29.06, 40.20)
+stab:0.99999738
+Removed: 1121114, Inserted: 1181114: (-84.41, 39.40)
+stab:0.99999999
+Removed: 1122785, Inserted: 1182785: (12.25, 46.58)
+stab:0.99999997
+Removed: 1126560, Inserted: 1186560: (135.78, 34.69)
+stab:0.96463907
+Removed: 1129905, Inserted: 1189905: (139.93, 35.87)
+stab:0.99999994
+Removed: 1132978, Inserted: 1192978: (-80.04, 33.00)
+stab:0.98978028
+Removed: 1133265, Inserted: 1193265: (-87.22, 20.51)
+stab:0.85339398
+Removed: 1135157, Inserted: 1195157: (10.97, 45.44)
+stab:0.76949306
+Removed: 1137334, Inserted: 1197334: (-49.21, -25.54)
+stab:0.99999604
+Removed: 1138577, Inserted: 1198577: (38.43, 36.97)
+stab:0.99877375
+Removed: 1147281, Inserted: 1207281: (13.52, 52.46)
+stab:0.76600792
+Removed: 1147750, Inserted: 1207750: (-74.07, 4.60)
+stab:0.99999947
+Removed: 1149640, Inserted: 1209640: (123.96, 10.32)
+stab:0.99999683
+Removed: 1150136, Inserted: 1210136: (-77.03, 38.95)
+stab:1.00000000
+Removed: 1152080, Inserted: 1212080: (-66.84, 10.46)
+stab:0.87516135
+Removed: 1152836, Inserted: 1212836: (55.28, 25.25)
+stab:0.99999983
+Removed: 1153708, Inserted: 1213708: (-75.84, 41.24)
+stab:1.00000000
+Removed: 1162878, Inserted: 1222878: (-73.57, 41.01)
+stab:1.00000000
+Removed: 1173421, Inserted: 1233421: (138.63, 35.14)
+stab:0.99998053
+Removed: 1174271, Inserted: 1234271: (-90.31, 38.63)
+stab:0.88634932
+Removed: 1180539, Inserted: 1240539: (-118.60, 34.26)
+stab:0.99976232
+Removed: 1182360, Inserted: 1242360: (47.93, 29.28)
+stab:0.99981216
+Removed: 1185404, Inserted: 1245404: (-86.09, 39.99)
+stab:0.99819534
+Removed: 1186538, Inserted: 1246538: (-81.72, 30.27)
+stab:0.88424584
+Removed: 1190167, Inserted: 1250167: (-99.18, 19.27)
+stab:1.00000000
+Removed: 1196046, Inserted: 1256046: (-78.23, 39.63)
+stab:0.91937464
+Removed: 1201744, Inserted: 1261744: (3.34, 6.60)
+stab:0.99996857
+Removed: 1204208, Inserted: 1264208: (-81.56, 28.36)
+stab:0.99996661
+Removed: 1204467, Inserted: 1264467: (-66.94, 10.51)
+stab:1.00000000
+Removed: 1204783, Inserted: 1264783: (-81.64, 39.55)
+stab:0.99998803
+Removed: 1207220, Inserted: 1267220: (-118.83, 35.20)
+stab:0.99999870
+Removed: 1214392, Inserted: 1274392: (-74.01, 40.71)
+stab:0.90322982
+Removed: 1215039, Inserted: 1275039: (107.76, -7.37)
+stab:0.92266228
+Removed: 1217417, Inserted: 1277417: (-47.36, -22.76)
+stab:0.99997961
+Removed: 1218177, Inserted: 1278177: (-9.79, 52.11)
+stab:1.00000000
+Removed: 1220973, Inserted: 1280973: (-112.10, 33.81)
+stab:1.00000000
+Removed: 1222828, Inserted: 1282828: (8.44, 46.81)
+stab:0.99992111
+Removed: 1223535, Inserted: 1283535: (-3.52, 50.37)
+stab:0.99580853
+Removed: 1226040, Inserted: 1286040: (111.10, -8.20)
+stab:1.00000000
+Removed: 1232605, Inserted: 1292605: (28.97, 41.04)
+stab:1.00000000
+Removed: 1234695, Inserted: 1294695: (-43.20, -22.91)
+stab:0.99999995
+Removed: 1239716, Inserted: 1299716: (-0.14, 51.50)
+stab:0.99864394
+Removed: 1243791, Inserted: 1303791: (-122.66, 45.52)
+stab:0.98857104
+Removed: 1244423, Inserted: 1304423: (-82.56, 28.18)
+stab:0.99999966
+Removed: 1246598, Inserted: 1306598: (-76.73, 39.11)
+stab:0.79202801
+Removed: 1247097, Inserted: 1307097: (76.96, 8.52)
+stab:0.99999998
+Removed: 1248931, Inserted: 1308931: (-122.33, 47.68)
+stab:0.77897055
+Removed: 1249578, Inserted: 1309578: (-82.69, 41.48)
+stab:0.99999999
+Removed: 1250802, Inserted: 1310802: (-74.21, 11.24)
+stab:0.99999970
+Removed: 1258475, Inserted: 1318475: (-92.09, 34.27)
+stab:0.99998629
+Removed: 1260268, Inserted: 1320268: (-3.56, 40.42)
+stab:1.00000000
+Removed: 1265703, Inserted: 1325703: (28.97, 41.04)
+stab:0.98947567
+Removed: 1269953, Inserted: 1329953: (30.01, 60.01)
+stab:0.99914809
+Removed: 1270570, Inserted: 1330570: (15.56, 38.19)
+stab:0.99903080
+Removed: 1274674, Inserted: 1334674: (-70.61, 43.18)
+stab:1.00000000
+Removed: 1277125, Inserted: 1337125: (29.09, 37.77)
+stab:1.00000000
+Removed: 1286857, Inserted: 1346857: (-3.54, 51.68)
+stab:0.93283863
+Removed: 1292996, Inserted: 1352996: (-5.37, 35.57)
+stab:0.99999949
+Removed: 1297505, Inserted: 1357505: (-117.13, 32.75)
+stab:1.00000000
+Removed: 1301470, Inserted: 1361470: (-86.78, 36.16)
+stab:0.99999998
+Removed: 1303635, Inserted: 1363635: (-6.54, 53.71)
+stab:0.99999940
+Removed: 1304603, Inserted: 1364603: (-77.04, 38.90)
+stab:1.00000000
+Removed: 1304911, Inserted: 1364911: (-2.00, 5.31)
+stab:0.99525103
+Removed: 1307242, Inserted: 1367242: (-71.42, 42.09)
+stab:0.96295784
+Removed: 1308533, Inserted: 1368533: (28.32, 37.92)
+stab:0.99965947
+Removed: 1310210, Inserted: 1370210: (-3.68, 40.40)
+stab:0.91898322
+Removed: 1315179, Inserted: 1375179: (-99.09, 19.53)
+stab:0.99997110
+Removed: 1319717, Inserted: 1379717: (-74.11, 39.75)
+stab:0.99999976
+Removed: 1323960, Inserted: 1383960: (-8.67, 41.23)
+stab:1.00000000
+Removed: 1324371, Inserted: 1384371: (-96.78, 32.78)
+stab:0.99999938
+Removed: 1325325, Inserted: 1385325: (-84.57, 42.78)
+stab:0.99863798
+Removed: 1325892, Inserted: 1385892: (46.73, 24.80)
+stab:0.99977470
+Removed: 1326320, Inserted: 1386320: (-101.89, 33.59)
+stab:0.85296900
+Removed: 1336546, Inserted: 1396546: (-74.20, 40.65)
+stab:0.99842703
+Removed: 1336914, Inserted: 1396914: (-95.24, 38.97)
+stab:0.99853479
+Removed: 1337092, Inserted: 1397092: (-122.95, 46.72)
+stab:0.99991983
+Removed: 1339090, Inserted: 1399090: (-75.70, 45.42)
+stab:0.99988039
+Removed: 1345924, Inserted: 1405924: (-5.86, 42.85)
+stab:0.99993764
+Removed: 1350124, Inserted: 1410124: (4.89, 52.37)
+stab:0.99999999
+Removed: 1353054, Inserted: 1413054: (-8.55, 37.12)
+stab:0.99367352
+Removed: 1361621, Inserted: 1421621: (-5.87, 37.58)
+stab:0.99180900
+Removed: 1362055, Inserted: 1422055: (-51.13, -29.69)
+stab:0.99999987
+Removed: 1367496, Inserted: 1427496: (-73.92, 40.70)
+stab:0.99106655
+Removed: 1371226, Inserted: 1431226: (-90.58, 41.51)
+stab:1.00000000
+Removed: 1371815, Inserted: 1431815: (-43.20, -22.98)
+stab:0.99999986
+Removed: 1372116, Inserted: 1432116: (-41.92, -22.51)
+stab:0.99993368
+Removed: 1372210, Inserted: 1432210: (130.74, 32.81)
+stab:1.00000000
+Removed: 1372762, Inserted: 1432762: (-3.54, 51.68)
+stab:0.76099964
+Removed: 1379300, Inserted: 1439300: (-65.05, -42.77)
+stab:0.99967710
+Removed: 1380618, Inserted: 1440618: (136.92, 35.11)
+stab:0.99999995
+Removed: 1383031, Inserted: 1443031: (-99.21, 19.29)
+stab:0.99999999
+Removed: 1383220, Inserted: 1443220: (-98.58, 29.38)
+stab:0.99996828
+Removed: 1384787, Inserted: 1444787: (-87.90, 41.97)
+stab:1.00000000
+Removed: 1394573, Inserted: 1454573: (139.34, 35.67)
+stab:0.99586344
+Removed: 1397390, Inserted: 1457390: (101.52, 3.07)
+stab:0.99999677
+Removed: 1400092, Inserted: 1460092: (-122.47, 37.77)
+stab:0.99991973
+Removed: 1403374, Inserted: 1463374: (-81.33, 29.92)
+stab:0.91187948
+Removed: 1403599, Inserted: 1463599: (112.95, -8.01)
+stab:0.99999992
+Removed: 1406322, Inserted: 1466322: (-97.15, 33.21)
+stab:0.99999824
+Removed: 1406934, Inserted: 1466934: (103.27, 3.77)
+stab:0.99999473
+Removed: 1412717, Inserted: 1472717: (-123.09, 44.05)
+stab:0.99996444
+Removed: 1420671, Inserted: 1480671: (-87.64, 41.94)
+stab:0.85452313
+Removed: 1424583, Inserted: 1484583: (-46.61, -23.51)
+stab:0.98365114
+Removed: 1427334, Inserted: 1487334: (28.97, 41.04)
+stab:0.99999909
+Removed: 1428145, Inserted: 1488145: (28.97, 41.04)
+stab:0.99960526
+Removed: 1428901, Inserted: 1488901: (149.69, -34.86)
+stab:1.00000000
+Removed: 1430353, Inserted: 1490353: (-1.40, 50.89)
+stab:0.86460981
+Removed: 1433809, Inserted: 1493809: (77.21, 28.61)
+stab:1.00000000
+Removed: 1438737, Inserted: 1498737: (-99.16, 19.44)
+stab:0.95133036
+Removed: 1441585, Inserted: 1501585: (100.93, 13.27)
+stab:0.99999999
+Removed: 1443293, Inserted: 1503293: (-119.82, 39.53)
+stab:0.99978707
+Removed: 1444908, Inserted: 1504908: (106.74, -6.27)
+stab:0.99999917
+Removed: 1448832, Inserted: 1508832: (136.92, 35.17)
+stab:0.99999908
+Removed: 1450116, Inserted: 1510116: (-118.25, 34.11)
+stab:1.00000000
+Removed: 1453400, Inserted: 1513400: (139.75, 35.70)
+stab:0.99998395
+Removed: 1454075, Inserted: 1514075: (-96.81, 33.14)
+stab:0.93524070
+Removed: 1464847, Inserted: 1524847: (-103.35, 20.67)
+stab:0.99999355
+Removed: 1465488, Inserted: 1525488: (-84.49, 42.77)
+stab:0.81803002
+Removed: 1470847, Inserted: 1530847: (101.37, 14.06)
+stab:0.99473658
+Removed: 1471264, Inserted: 1531264: (106.82, -6.21)
+stab:1.00000000
+Removed: 1471526, Inserted: 1531526: (-99.21, 19.57)
+stab:0.96486302
+Removed: 1474095, Inserted: 1534095: (-83.01, 39.99)
+stab:1.00000000
+Removed: 1474599, Inserted: 1534599: (-97.97, 29.84)
+stab:0.99999966
+Removed: 1475831, Inserted: 1535831: (121.55, 25.06)
+stab:0.96539316
+Removed: 1483137, Inserted: 1543137: (131.46, 33.29)
+stab:0.99136114
+Removed: 1485748, Inserted: 1545748: (27.14, 38.42)
+stab:0.98731030
+Removed: 1489165, Inserted: 1549165: (-43.21, -22.90)
+stab:0.78586435
+Removed: 1489494, Inserted: 1549494: (28.46, 41.14)
+stab:0.99999991
+Removed: 1509116, Inserted: 1569116: (139.43, 35.87)
+stab:1.00000000
+Removed: 1509446, Inserted: 1569446: (121.04, 14.64)
+stab:0.99902965
+Removed: 1510456, Inserted: 1570456: (55.35, 25.22)
+stab:0.99879435
+Removed: 1517631, Inserted: 1577631: (28.97, 41.04)
+stab:0.63898317
+Removed: 1518215, Inserted: 1578215: (140.15, 35.40)
+stab:0.99990626
+Removed: 1518834, Inserted: 1578834: (140.15, 35.73)
+stab:0.74260643
+Removed: 1525498, Inserted: 1585498: (139.78, 35.72)
+stab:0.99992932
+Removed: 1528217, Inserted: 1588217: (30.47, 36.40)
+stab:0.99999972
+Removed: 1530763, Inserted: 1590763: (140.28, 35.71)
+stab:0.99863786
+Removed: 1533971, Inserted: 1593971: (-123.12, 49.29)
+stab:0.97511611
+Removed: 1543276, Inserted: 1603276: (58.55, 23.61)
+stab:0.99669069
+Removed: 1544041, Inserted: 1604041: (-128.04, -28.64)
+stab:0.77672883
+Removed: 1550655, Inserted: 1610655: (28.98, -24.15)
+stab:0.86690399
+Removed: 1554414, Inserted: 1614414: (-75.55, 39.74)
+stab:0.99100370
+Removed: 1556326, Inserted: 1616326: (0.67, 51.55)
+stab:0.97596179
+Removed: 1558948, Inserted: 1618948: (18.07, 59.32)
+stab:1.00000000
+Removed: 1559733, Inserted: 1619733: (103.66, 1.48)
+stab:0.99999922
+Removed: 1565422, Inserted: 1625422: (107.59, -7.05)
+stab:0.99999814
+Removed: 1565754, Inserted: 1625754: (28.97, 41.04)
+stab:1.00000000
+Removed: 1570813, Inserted: 1630813: (139.63, 35.91)
+stab:0.97609464
+Removed: 1571343, Inserted: 1631343: (139.62, 35.91)
+stab:1.00000000
+Removed: 1571639, Inserted: 1631639: (139.71, 35.65)
+stab:0.99999981
+Removed: 1572213, Inserted: 1632213: (139.76, 35.70)
+stab:0.99999990
+Removed: 1574184, Inserted: 1634184: (139.76, 35.67)
+stab:0.99999990
+Removed: 1580467, Inserted: 1640467: (-0.03, 5.64)
+stab:0.99890407
+Removed: 1584420, Inserted: 1644420: (82.96, 54.99)
+stab:0.78501145
+Removed: 1585838, Inserted: 1645838: (-78.58, -0.25)
+stab:0.99999995
+Removed: 1587188, Inserted: 1647188: (-34.90, -8.05)
+stab:0.79839996
+Removed: 1588889, Inserted: 1648889: (-49.17, -25.54)
+stab:0.99685593
+Removed: 1592525, Inserted: 1652525: (151.21, -33.86)
+stab:0.79587318
+Removed: 1598369, Inserted: 1658369: (127.65, 26.21)
+stab:1.00000000
+Removed: 1598677, Inserted: 1658677: (-82.88, 40.11)
+stab:1.00000000
+Removed: 1600151, Inserted: 1660151: (-35.78, -9.54)
+stab:0.99982045
+Removed: 1600886, Inserted: 1660886: (-0.02, 51.47)
+stab:0.99999998
+Removed: 1601167, Inserted: 1661167: (121.52, 16.51)
+stab:0.99913864
+Removed: 1602867, Inserted: 1662867: (136.21, 35.13)
+stab:1.00000000
+Removed: 1604041, Inserted: 1664041: (35.49, 38.73)
+stab:0.99999999
+Removed: 1604203, Inserted: 1664203: (3.33, 6.65)
+stab:0.99999832
+Removed: 1604427, Inserted: 1664427: (-46.54, -22.93)
+stab:0.99850198
+Removed: 1605764, Inserted: 1665764: (23.60, 62.64)
+stab:0.99999990
+Removed: 1608098, Inserted: 1668098: (-83.92, 9.86)
+stab:0.99822928
+Removed: 1608744, Inserted: 1668744: (-0.31, 51.49)
+stab:0.99999693
+Removed: 1612031, Inserted: 1672031: (-42.54, -22.31)
+stab:0.99999999
+Removed: 1612365, Inserted: 1672365: (26.57, 41.67)
+stab:0.99999827
+Removed: 1613793, Inserted: 1673793: (-43.56, -22.71)
+stab:0.99938021
+Removed: 1618327, Inserted: 1678327: (100.57, 13.85)
+stab:0.99791312
+Removed: 1619152, Inserted: 1679152: (140.75, 41.82)
+stab:0.99999985
+Removed: 1621411, Inserted: 1681411: (139.95, 35.80)
+stab:0.99964109
+Removed: 1622415, Inserted: 1682415: (123.89, 10.31)
+stab:1.00000000
+Removed: 1624111, Inserted: 1684111: (-75.86, 40.31)
+stab:0.79557191
+Removed: 1625824, Inserted: 1685824: (135.15, 34.72)
+stab:0.87960414
+Removed: 1626924, Inserted: 1686924: (78.44, 1.09)
+stab:1.00000000
+Removed: 1631347, Inserted: 1691347: (-60.67, 2.83)
+stab:0.99999290
+Removed: 1632349, Inserted: 1692349: (-84.51, 39.10)
+stab:0.99999824
+Removed: 1635729, Inserted: 1695729: (-74.01, 40.71)
+stab:0.99997696
+Removed: 1636943, Inserted: 1696943: (-1.48, 53.70)
+stab:0.99979136
+Removed: 1638309, Inserted: 1698309: (-87.94, 42.89)
+stab:1.00000000
+Removed: 1643668, Inserted: 1703668: (-2.17, 43.29)
+stab:1.00000000
+Removed: 1644749, Inserted: 1704749: (109.32, -0.02)
+stab:0.99999840
+Removed: 1646977, Inserted: 1706977: (-77.95, 35.74)
+stab:0.93032489
+Removed: 1651358, Inserted: 1711358: (-78.70, 35.67)
+stab:0.99999927
+Removed: 1651403, Inserted: 1711403: (-89.42, 43.11)
+stab:0.83728513
+Removed: 1652375, Inserted: 1712375: (-2.22, 50.64)
+stab:0.99999866
+Removed: 1655997, Inserted: 1715997: (-72.84, 40.95)
+stab:0.99930017
+Removed: 1658567, Inserted: 1718567: (-121.98, 37.55)
+stab:0.99999989
+Removed: 1659869, Inserted: 1719869: (-118.24, 34.05)
+stab:0.99959550
+Removed: 1660803, Inserted: 1720803: (-74.44, 40.14)
+stab:1.00000000
+Removed: 1661288, Inserted: 1721288: (-6.04, 37.37)
+stab:0.99999993
+Removed: 1665677, Inserted: 1725677: (106.99, -6.24)
+stab:0.98926536
+Removed: 1666856, Inserted: 1726856: (115.17, -8.74)
+stab:1.00000000
+Removed: 1672321, Inserted: 1732321: (99.90, 8.64)
+stab:1.00000000
+Removed: 1676901, Inserted: 1736901: (-123.01, 37.70)
+stab:0.99999849
+Removed: 1678965, Inserted: 1738965: (-114.05, 51.17)
+stab:1.00000000
+Removed: 1683962, Inserted: 1743962: (101.77, 2.93)
+stab:0.97492336
+Removed: 1690599, Inserted: 1750599: (-2.74, 47.64)
+stab:0.99999987
+Removed: 1694614, Inserted: 1754614: (77.23, 28.66)
+stab:1.00000000
+Removed: 1695789, Inserted: 1755789: (-0.14, 51.51)
+stab:0.99999997
+Removed: 1697783, Inserted: 1757783: (-73.11, 41.20)
+stab:0.99770544
+Removed: 1701493, Inserted: 1761493: (72.83, 18.98)
+stab:0.88818931
+Removed: 1702840, Inserted: 1762840: (-74.03, 41.48)
+stab:0.87448284
+Removed: 1703228, Inserted: 1763228: (-74.08, 4.60)
+stab:0.99912760
+Removed: 1710024, Inserted: 1770024: (-99.13, 19.43)
+stab:0.99999787
+Removed: 1712797, Inserted: 1772797: (-81.75, 30.35)
+stab:0.86324294
+Removed: 1713048, Inserted: 1773048: (-92.76, 44.97)
+stab:0.99945964
+Removed: 1713647, Inserted: 1773647: (-106.17, 32.78)
+stab:0.82794003
+Removed: 1714369, Inserted: 1774369: (139.48, 35.31)
+stab:0.99999020
+Removed: 1721595, Inserted: 1781595: (-75.69, 38.21)
+stab:1.00000000
+Removed: 1724238, Inserted: 1784238: (13.38, 52.52)
+stab:0.99999983
+Removed: 1724631, Inserted: 1784631: (-6.79, 53.56)
+stab:0.99999801
+Removed: 1727403, Inserted: 1787403: (-72.52, 7.88)
+stab:0.99992126
+Removed: 1728566, Inserted: 1788566: (-73.21, 41.48)
+stab:1.00000000
+Removed: 1730877, Inserted: 1790877: (-91.77, 37.95)
+stab:1.00000000
+Removed: 1734768, Inserted: 1794768: (51.88, 47.08)
+stab:0.99999903
+Removed: 1735242, Inserted: 1795242: (-3.16, 55.95)
+stab:0.99999982
+Removed: 1742374, Inserted: 1802374: (-83.00, 39.96)
+stab:0.99999840
+Removed: 1742741, Inserted: 1802741: (-74.07, 40.69)
+stab:0.84374743
+Removed: 1744497, Inserted: 1804497: (149.69, -34.86)
+stab:0.99999999
+Removed: 1746524, Inserted: 1806524: (47.93, 29.33)
+stab:1.00000000
+Removed: 1746727, Inserted: 1806727: (46.61, 24.75)
+stab:1.00000000
+Removed: 1750191, Inserted: 1810191: (-46.59, -23.74)
+stab:0.99999973
+Removed: 1752872, Inserted: 1812872: (-34.89, -8.02)
+stab:0.99999983
+Removed: 1755106, Inserted: 1815106: (32.47, -25.97)
+stab:0.99999974
+Removed: 1757742, Inserted: 1817742: (27.14, 38.32)
+stab:0.99999342
+Removed: 1761393, Inserted: 1821393: (-94.58, 38.89)
+stab:0.99999410
+Removed: 1763496, Inserted: 1823496: (-74.12, 4.66)
+stab:0.99997350
+Removed: 1763764, Inserted: 1823764: (13.85, 44.87)
+stab:0.99999939
+Removed: 1764319, Inserted: 1824319: (-108.50, 45.78)
+stab:0.99172045
+Removed: 1766580, Inserted: 1826580: (30.52, 50.45)
+stab:0.99998478
+Removed: 1767217, Inserted: 1827217: (4.35, 54.30)
+stab:0.99961876
+Removed: 1767397, Inserted: 1827397: (-117.91, 34.13)
+stab:0.99999999
+Removed: 1767744, Inserted: 1827744: (-81.69, 41.50)
+stab:0.99454570
+Removed: 1773346, Inserted: 1833346: (29.06, 41.11)
+stab:0.99999949
+Removed: 1778046, Inserted: 1838046: (-68.78, 44.80)
+stab:0.99990836
+Removed: 1780919, Inserted: 1840919: (37.39, 37.05)
+stab:1.00000000
+Removed: 1781733, Inserted: 1841733: (-99.13, 19.43)
+stab:0.94781687
+Removed: 1783841, Inserted: 1843841: (107.60, -6.90)
+stab:0.99860370
+Removed: 1783906, Inserted: 1843906: (-117.91, 34.03)
+stab:0.99998077
+Removed: 1786451, Inserted: 1846451: (35.33, 37.00)
+stab:0.99992320
+Removed: 1789026, Inserted: 1849026: (-73.83, 41.16)
+stab:0.99923279
+Removed: 1795123, Inserted: 1855123: (-44.13, -22.50)
+stab:0.99999567
+Removed: 1795716, Inserted: 1855716: (-3.72, 40.42)
+stab:0.99535864
+Removed: 1796717, Inserted: 1856717: (-74.00, 40.74)
+stab:0.99998246
+Removed: 1797688, Inserted: 1857688: (-4.53, 36.60)
+stab:0.83447450
+Removed: 1798905, Inserted: 1858905: (-118.24, 34.05)
+stab:1.00000000
+Removed: 1800001, Inserted: 1860001: (28.85, 40.22)
+stab:0.87227018
+Removed: 1802963, Inserted: 1862963: (-117.13, 32.81)
+stab:0.99999361
+Removed: 1803443, Inserted: 1863443: (-104.76, 38.89)
+stab:0.99999988
+Removed: 1811591, Inserted: 1871591: (-47.82, -22.25)
+stab:0.99890351
+Removed: 1812262, Inserted: 1872262: (28.38, 37.17)
+stab:0.99999998
+Removed: 1812842, Inserted: 1872842: (-2.35, 52.06)
+stab:1.00000000
+Removed: 1821164, Inserted: 1881164: (28.79, 40.99)
+stab:0.89076678
+Removed: 1824371, Inserted: 1884371: (-96.73, 32.95)
+stab:0.99999970
+Removed: 1831214, Inserted: 1891214: (-84.26, 39.35)
+stab:0.98748477
+Removed: 1831876, Inserted: 1891876: (3.40, 6.45)
+stab:1.00000000
+Removed: 1832659, Inserted: 1892659: (-122.39, 37.79)
+stab:0.99999998
+Removed: 1837076, Inserted: 1897076: (-46.66, -23.55)
+stab:0.93837660
+Removed: 1846109, Inserted: 1906109: (-62.87, 8.12)
+stab:0.99999994
+Removed: 1847078, Inserted: 1907078: (-77.03, 38.90)
+stab:0.99998878
+Removed: 1848358, Inserted: 1908358: (-104.99, 39.74)
+stab:0.99999721
+Removed: 1855647, Inserted: 1915647: (-48.04, -15.83)
+stab:0.99999608
+Removed: 1858537, Inserted: 1918537: (105.28, -5.38)
+stab:0.99999999
+Removed: 1865035, Inserted: 1925035: (-50.97, -29.88)
+stab:0.99999986
+Removed: 1873698, Inserted: 1933698: (-118.16, 34.04)
+stab:0.99865304
+Removed: 1876730, Inserted: 1936730: (-70.63, -33.45)
+stab:0.99959866
+Removed: 1877526, Inserted: 1937526: (-75.17, 39.96)
+stab:0.99999773
+Removed: 1877682, Inserted: 1937682: (-73.94, 40.68)
+stab:0.86496993
+Removed: 1878633, Inserted: 1938633: (-118.37, 34.04)
+stab:0.99980429
+Removed: 1881018, Inserted: 1941018: (121.00, 14.62)
+stab:0.99259762
+Removed: 1882479, Inserted: 1942479: (-93.27, 44.89)
+stab:0.99994949
+Removed: 1883083, Inserted: 1943083: (39.92, 43.43)
+stab:0.99990010
+Removed: 1887163, Inserted: 1947163: (-71.86, 41.37)
+stab:0.99999673
+Removed: 1889328, Inserted: 1949328: (-122.23, 47.31)
+stab:0.99961489
+Removed: 1889935, Inserted: 1949935: (-81.32, 28.51)
+stab:1.00000000
+Removed: 1890294, Inserted: 1950294: (-99.12, 19.37)
+stab:0.99645541
+Removed: 1890463, Inserted: 1950463: (-99.29, 19.50)
+stab:0.99417872
+Removed: 1894557, Inserted: 1954557: (-56.44, -25.45)
+stab:0.99986567
+Removed: 1895317, Inserted: 1955317: (-74.70, 40.15)
+stab:0.97867293
+Removed: 1898623, Inserted: 1958623: (-72.23, 8.23)
+stab:0.95311858
+Removed: 1903297, Inserted: 1963297: (62.19, 34.35)
+stab:0.99779897
+Removed: 1903360, Inserted: 1963360: (101.75, 3.15)
+stab:0.99991790
+Removed: 1906273, Inserted: 1966273: (-77.94, -6.17)
+stab:0.99999896
+Removed: 1907035, Inserted: 1967035: (-122.44, 37.76)
+stab:0.99999978
+Removed: 1909325, Inserted: 1969325: (-87.22, 14.06)
+stab:0.80375201
+Removed: 1914224, Inserted: 1974224: (-43.40, -22.96)
+stab:0.99999863
+Removed: 1916921, Inserted: 1976921: (-80.01, 39.53)
+stab:0.99999973
+Removed: 1917839, Inserted: 1977839: (46.72, 24.69)
+stab:0.74364856
+Removed: 1920442, Inserted: 1980442: (-122.23, 47.38)
+stab:1.00000000
+Removed: 1923902, Inserted: 1983902: (140.40, 37.40)
+stab:0.99999987
+Removed: 1927634, Inserted: 1987634: (-105.08, 39.71)
+stab:0.99999638
+Removed: 1927763, Inserted: 1987763: (-100.22, 25.72)
+stab:0.99997371
+Removed: 1927890, Inserted: 1987890: (-76.29, 37.04)
+stab:0.99998373
+Removed: 1929490, Inserted: 1989490: (78.00, 34.00)
+stab:0.99996565
+Removed: 1933941, Inserted: 1993941: (47.94, 29.32)
+stab:0.99999849
+Removed: 1934092, Inserted: 1994092: (101.73, 3.08)
+stab:0.63070422
+Removed: 1936630, Inserted: 1996630: (151.19, -33.89)
+stab:0.96787781
+Removed: 1937637, Inserted: 1997637: (139.74, 35.60)
+stab:0.99852990
+Removed: 1939746, Inserted: 1999746: (-43.11, -22.91)
+stab:1.00000000
+Removed: 1943035, Inserted: 2003035: (-122.33, 47.61)
+stab:0.99781573
+Removed: 1948711, Inserted: 2008711: (-73.98, 40.73)
+stab:0.99999999
+Removed: 1953234, Inserted: 2013234: (6.09, 50.78)
+stab:0.98824735
+Removed: 1958508, Inserted: 2018508: (124.07, 9.66)
+stab:0.99999978
+Removed: 1960050, Inserted: 2020050: (8.67, 50.11)
+stab:0.99356593
+Removed: 1960367, Inserted: 2020367: (106.92, -6.23)
+stab:0.99995625
+Removed: 1964102, Inserted: 2024102: (-0.65, 38.00)
+stab:1.00000000
+Removed: 1966318, Inserted: 2026318: (-8.72, 53.79)
+stab:0.70062599
+Removed: 1966751, Inserted: 2026751: (0.12, 52.20)
+stab:0.99999982
+Removed: 1966822, Inserted: 2026822: (-115.14, 36.18)
+stab:0.90990568
+Removed: 1968808, Inserted: 2028808: (-3.66, 42.37)
+stab:0.99999997
+Removed: 1969150, Inserted: 2029150: (121.60, -4.19)
+stab:0.99999992
+Removed: 1973283, Inserted: 2033283: (139.96, 35.89)
+stab:0.86209585
+Removed: 1979332, Inserted: 2039332: (29.45, -26.47)
+stab:0.95980345
+Removed: 1980672, Inserted: 2040672: (-2.07, 51.90)
+stab:0.88792124
+Removed: 1981379, Inserted: 2041379: (130.40, 33.58)
+stab:0.70002790
+Removed: 1987310, Inserted: 2047310: (-77.86, 40.79)
+stab:1.00000000
+Removed: 1990848, Inserted: 2050848: (121.04, 14.75)
+stab:0.99999991
+Removed: 1993527, Inserted: 2053527: (-0.13, 51.51)
+stab:0.99995305
+Removed: 1998175, Inserted: 2058175: (-118.24, 34.05)
+stab:0.93116480
+Removed: 2004318, Inserted: 2064318: (-88.55, 47.12)
+stab:1.00000000
+Removed: 2007612, Inserted: 2067612: (-5.39, 50.10)
+stab:1.00000000
+Removed: 2012215, Inserted: 2072215: (139.93, 35.87)
+stab:0.99476463
+Removed: 2012900, Inserted: 2072900: (27.48, 60.39)
+stab:0.99999925
+Removed: 2013301, Inserted: 2073301: (99.88, 8.30)
+stab:0.99967215
+Removed: 2014428, Inserted: 2074428: (114.15, 22.29)
+stab:0.99999976
+Removed: 2014434, Inserted: 2074434: (101.46, 2.72)
+stab:0.67537395
+Removed: 2015312, Inserted: 2075312: (31.17, 40.90)
+stab:0.84772321
+Removed: 2016359, Inserted: 2076359: (103.37, 3.81)
+stab:1.00000000
+Removed: 2022855, Inserted: 2082855: (135.74, 35.03)
+stab:0.99947840
+Removed: 2025562, Inserted: 2085562: (28.98, 41.10)
+stab:0.99568434
+Removed: 2025679, Inserted: 2085679: (77.59, 12.97)
+stab:0.99999742
+Removed: 2025716, Inserted: 2085716: (-121.05, 39.24)
+stab:0.99999913
+Removed: 2027289, Inserted: 2087289: (137.01, 34.99)
+stab:0.99999999
+Removed: 2030751, Inserted: 2090751: (103.78, 1.56)
+stab:0.99999163
+Removed: 2038157, Inserted: 2098157: (27.12, 38.46)
+stab:0.99999989
+Removed: 2039061, Inserted: 2099061: (13.19, 32.88)
+stab:1.00000000
+Removed: 2039172, Inserted: 2099172: (-59.79, -32.39)
+stab:0.99999969
+Removed: 2039350, Inserted: 2099350: (0.20, 51.02)
+stab:1.00000000
+Removed: 2039624, Inserted: 2099624: (36.74, -1.26)
+stab:0.99613710
+Removed: 2049197, Inserted: 2109197: (139.61, 35.46)
+stab:0.92060816
+Removed: 2052761, Inserted: 2112761: (-1.23, 51.72)
+stab:0.99999985
+Removed: 2053862, Inserted: 2113862: (20.25, 63.83)
+stab:0.99999950
+Removed: 2054147, Inserted: 2114147: (27.10, 38.47)
+stab:0.64505719
+Removed: 2061008, Inserted: 2121008: (136.90, 35.17)
+stab:0.99620731
+Removed: 2061351, Inserted: 2121351: (40.99, 56.99)
+stab:0.99995698
+Removed: 2062860, Inserted: 2122860: (-43.94, -19.92)
+stab:0.56017950
+Removed: 2063943, Inserted: 2123943: (27.13, 38.42)
+stab:0.99999977
+Removed: 2065369, Inserted: 2125369: (7.53, 47.60)
+stab:0.99999990
+Removed: 2065931, Inserted: 2125931: (27.15, 38.39)
+stab:1.00000000
+Removed: 2067384, Inserted: 2127384: (-75.17, 39.95)
+stab:0.99952827
+Removed: 2068614, Inserted: 2128614: (101.52, 3.04)
+stab:0.95451919
+Removed: 2073810, Inserted: 2133810: (7.47, 46.30)
+stab:0.99969397
+Removed: 2079264, Inserted: 2139264: (139.09, 34.99)
+stab:1.00000000
+Removed: 2079484, Inserted: 2139484: (-83.27, 42.36)
+stab:0.99999955
+Removed: 2085506, Inserted: 2145506: (-76.78, 39.12)
+stab:0.99999945
+Removed: 2088790, Inserted: 2148790: (101.56, 3.09)
+stab:0.99992725
+Removed: 2089270, Inserted: 2149270: (-73.93, 40.71)
+stab:0.99993880
+Removed: 2090319, Inserted: 2150319: (101.53, 3.08)
+stab:0.99998545
+Removed: 2092480, Inserted: 2152480: (29.03, 40.99)
+stab:0.92666776
+Removed: 2093837, Inserted: 2153837: (142.40, 43.75)
+stab:0.99999209
+Removed: 2097086, Inserted: 2157086: (-70.00, 12.00)
+stab:0.99999989
+Removed: 2101282, Inserted: 2161282: (-74.02, 40.89)
+stab:0.99999991
+Removed: 2102090, Inserted: 2162090: (118.00, -2.00)
+stab:0.99998963
+Removed: 2104413, Inserted: 2164413: (121.06, 14.62)
+stab:0.99914149
+Removed: 2105065, Inserted: 2165065: (24.94, 60.17)
+stab:0.93979058
+Removed: 2106203, Inserted: 2166203: (31.22, 30.06)
+stab:0.99999958
+Removed: 2108459, Inserted: 2168459: (22.41, 39.65)
+stab:0.99999922
+Removed: 2108635, Inserted: 2168635: (-46.78, -23.57)
+stab:1.00000000
+Removed: 2109183, Inserted: 2169183: (-51.02, -30.27)
+stab:0.82299093
+Removed: 2109665, Inserted: 2169665: (-49.08, -26.89)
+stab:0.99990480
+Removed: 2110155, Inserted: 2170155: (-71.60, -40.77)
+stab:0.99997856
+Removed: 2115278, Inserted: 2175278: (139.70, 35.70)
+stab:1.00000000
+Removed: 2117550, Inserted: 2177550: (-84.51, 39.10)
+stab:1.00000000
+Removed: 2117932, Inserted: 2177932: (0.52, 51.27)
+stab:0.99986867
+Removed: 2121943, Inserted: 2181943: (115.16, -8.69)
+stab:0.99978749
+Removed: 2124839, Inserted: 2184839: (11.56, 48.14)
+stab:0.99999985
+Removed: 2125290, Inserted: 2185290: (121.06, 14.66)
+stab:0.99999238
+Removed: 2126740, Inserted: 2186740: (-0.09, 38.57)
+stab:0.85341988
+Removed: 2129359, Inserted: 2189359: (27.17, 38.39)
+stab:0.90654375
+Removed: 2130768, Inserted: 2190768: (28.97, 41.04)
+stab:0.99998919
+Removed: 2131330, Inserted: 2191330: (13.03, 41.86)
+stab:1.00000000
+Removed: 2132418, Inserted: 2192418: (-34.88, -8.00)
+stab:1.00000000
+Removed: 2135750, Inserted: 2195750: (-69.78, 44.31)
+stab:0.99999920
+Removed: 2140836, Inserted: 2200836: (0.72, 51.53)
+stab:0.99999463
+Removed: 2141204, Inserted: 2201204: (125.54, 8.95)
+stab:0.99999998
+Removed: 2141987, Inserted: 2201987: (-91.50, 44.81)
+stab:0.97656090
+Removed: 2145265, Inserted: 2205265: (3.20, 50.84)
+stab:0.98125415
+Removed: 2147483, Inserted: 2207483: (106.84, -6.19)
+stab:0.99999995
+Removed: 2150551, Inserted: 2210551: (29.11, 41.02)
+stab:0.99999835
+Removed: 2151568, Inserted: 2211568: (3.92, 7.40)
+stab:0.99996042
+Removed: 2152199, Inserted: 2212199: (-79.90, -2.20)
+stab:0.99999965
+Removed: 2152507, Inserted: 2212507: (-64.24, -31.47)
+stab:0.99999992
+Removed: 2158727, Inserted: 2218727: (6.01, 50.64)
+stab:0.98542276
+Removed: 2159094, Inserted: 2219094: (27.04, 38.40)
+stab:0.99999981
+Removed: 2160462, Inserted: 2220462: (-48.48, -27.55)
+stab:0.99999966
+Removed: 2165269, Inserted: 2225269: (9.57, 39.26)
+stab:0.99631407
+Removed: 2168503, Inserted: 2228503: (-79.45, 43.66)
+stab:0.99999895
+Removed: 2173269, Inserted: 2233269: (28.72, 40.98)
+stab:0.99999719
+Removed: 2173515, Inserted: 2233515: (103.85, 1.28)
+stab:0.96661543
+Removed: 2175971, Inserted: 2235971: (-98.22, 19.01)
+stab:0.99958835
+Removed: 2179220, Inserted: 2239220: (5.78, 43.83)
+stab:0.99999615
+Removed: 2180441, Inserted: 2240441: (-4.79, 37.89)
+stab:0.99999991
+Removed: 2183430, Inserted: 2243430: (28.97, 41.04)
+stab:0.92273097
+Removed: 2189526, Inserted: 2249526: (103.90, 1.30)
+stab:1.00000000
+Removed: 2196441, Inserted: 2256441: (-45.54, -20.03)
+stab:1.00000000
+Removed: 2197916, Inserted: 2257916: (-80.27, 27.17)
+stab:0.99947732
+Removed: 2197935, Inserted: 2257935: (28.97, 41.04)
+stab:0.99997254
+Removed: 2198438, Inserted: 2258438: (-82.81, 27.90)
+stab:0.92457322
+Removed: 2202350, Inserted: 2262350: (73.73, 32.93)
+stab:0.99999906
+Removed: 2203182, Inserted: 2263182: (49.60, 25.40)
+stab:0.99985270
+Removed: 2206707, Inserted: 2266707: (-60.34, -36.88)
+stab:0.99970381
+Removed: 2209537, Inserted: 2269537: (28.97, 41.04)
+stab:0.99954430
+Removed: 2210281, Inserted: 2270281: (8.00, 61.00)
+stab:0.99332218
+Removed: 2218004, Inserted: 2278004: (-96.10, 19.14)
+stab:0.99979565
+Removed: 2220466, Inserted: 2280466: (-118.33, 34.11)
+stab:1.00000000
+Removed: 2223223, Inserted: 2283223: (-74.00, 40.72)
+stab:1.00000000
+Removed: 2225965, Inserted: 2285965: (38.22, 38.33)
+stab:0.99998756
+Removed: 2226046, Inserted: 2286046: (-98.29, 26.21)
+stab:0.98782852
+Removed: 2230367, Inserted: 2290367: (-74.01, 40.71)
+stab:0.99999969
+Removed: 2232876, Inserted: 2292876: (-1.26, 51.76)
+stab:0.99999993
+Removed: 2234243, Inserted: 2294243: (28.97, 41.04)
+stab:0.99999828
+Removed: 2239944, Inserted: 2299944: (-121.97, 37.77)
+stab:0.99998331
+Removed: 2242505, Inserted: 2302505: (-89.41, 38.89)
+stab:0.99998936
+Removed: 2243834, Inserted: 2303834: (28.97, 41.04)
+stab:0.99999114
+Removed: 2245736, Inserted: 2305736: (-123.11, 49.29)
+stab:1.00000000
+Removed: 2245956, Inserted: 2305956: (28.97, 41.04)
+stab:0.99999997
+Removed: 2247786, Inserted: 2307786: (-88.26, 41.78)
+stab:0.98860847
+Removed: 2248174, Inserted: 2308174: (-43.29, -22.89)
+stab:0.99999939
+Removed: 2248240, Inserted: 2308240: (-3.70, 40.41)
+stab:0.99999993
+Removed: 2253351, Inserted: 2313351: (153.02, -27.47)
+stab:0.99999986
+Removed: 2254632, Inserted: 2314632: (-77.11, 38.88)
+stab:0.81819482
+Removed: 2258982, Inserted: 2318982: (-106.61, 35.09)
+stab:0.99960767
+Removed: 2261315, Inserted: 2321315: (-115.14, 36.18)
+stab:0.99814894
+Removed: 2264647, Inserted: 2324647: (140.40, 39.50)
+stab:0.99998850
+Removed: 2267023, Inserted: 2327023: (-118.33, 33.93)
+stab:0.79929066
+Removed: 2269555, Inserted: 2329555: (28.85, 40.22)
+stab:0.99999995
+Removed: 2270042, Inserted: 2330042: (-43.93, -19.79)
+stab:0.99662812
+Removed: 2272192, Inserted: 2332192: (50.20, 26.30)
+stab:0.99732296
+Removed: 2275011, Inserted: 2335011: (-85.17, 41.06)
+stab:0.99850452
+Removed: 2275685, Inserted: 2335685: (-73.98, 43.02)
+stab:0.90706910
+Removed: 2277694, Inserted: 2337694: (-99.27, 19.36)
+stab:0.99997478
+Removed: 2279017, Inserted: 2339017: (-43.46, -22.74)
+stab:0.99997405
+Removed: 2280048, Inserted: 2340048: (139.41, 35.70)
+stab:0.99999999
+Removed: 2282832, Inserted: 2342832: (-67.60, 10.24)
+stab:1.00000000
+Removed: 2286698, Inserted: 2346698: (-88.27, 41.86)
+stab:0.99082573
+Removed: 2289590, Inserted: 2349590: (-122.29, 37.83)
+stab:0.99996204
+Removed: 2290478, Inserted: 2350478: (48.11, 41.30)
+stab:0.82529143
+Removed: 2291849, Inserted: 2351849: (-74.17, 40.73)
+stab:0.99999969
+Removed: 2297371, Inserted: 2357371: (-76.78, 39.15)
+stab:0.99999814
+Removed: 2298826, Inserted: 2358826: (48.01, 29.30)
+stab:1.00000000
+Removed: 2303957, Inserted: 2363957: (-84.46, 33.88)
+stab:0.99976954
+Removed: 2307259, Inserted: 2367259: (133.06, 35.46)
+stab:0.77741489
+Removed: 2307754, Inserted: 2367754: (-73.21, 44.48)
+stab:0.88002835
+Removed: 2314039, Inserted: 2374039: (-49.73, -29.35)
+stab:0.99999999
+Removed: 2314799, Inserted: 2374799: (153.06, -26.40)
+stab:0.99993038
+Removed: 2318168, Inserted: 2378168: (-118.33, 33.88)
+stab:0.99963472
+Removed: 2318720, Inserted: 2378720: (28.36, 40.21)
+stab:0.96465997
+Removed: 2318802, Inserted: 2378802: (2.13, 48.80)
+stab:0.99999848
+Removed: 2323547, Inserted: 2383547: (106.87, -6.26)
+stab:1.00000000
+Removed: 2323594, Inserted: 2383594: (-87.46, 20.21)
+stab:1.00000000
+Removed: 2330129, Inserted: 2390129: (-3.77, 37.77)
+stab:0.90839785
+Removed: 2335114, Inserted: 2395114: (-46.63, -23.55)
+stab:0.99999980
+Removed: 2339132, Inserted: 2399132: (137.58, 34.93)
+stab:0.99999948
+Removed: 2339657, Inserted: 2399657: (-122.63, 38.24)
+stab:0.99953771
+Removed: 2347742, Inserted: 2407742: (104.32, 15.12)
+stab:0.99999999
+Removed: 2351299, Inserted: 2411299: (139.74, 35.63)
+stab:0.99998964
+Removed: 2351997, Inserted: 2411997: (-94.81, 39.77)
+stab:0.99993313
+Removed: 2356462, Inserted: 2416462: (-38.13, -5.15)
+stab:0.99998834
+Removed: 2358465, Inserted: 2418465: (-84.92, 33.73)
+stab:0.99999988
+Removed: 2363742, Inserted: 2423742: (32.86, 39.87)
+stab:0.99992539
+Removed: 2363876, Inserted: 2423876: (-88.12, 42.98)
+stab:0.99979169
+Removed: 2367812, Inserted: 2427812: (-112.07, 33.57)
+stab:0.88089948
+Removed: 2369511, Inserted: 2429511: (123.48, 9.63)
+stab:0.99999980
+Removed: 2370553, Inserted: 2430553: (120.98, 14.57)
+stab:1.00000000
+Removed: 2373185, Inserted: 2433185: (-86.96, 20.76)
+stab:0.82556132
+Removed: 2378016, Inserted: 2438016: (-122.80, 42.47)
+stab:0.99700667
+Removed: 2378119, Inserted: 2438119: (-80.28, 7.77)
+stab:0.99956088
+Removed: 2378916, Inserted: 2438916: (120.74, 15.59)
+stab:0.97995395
+Removed: 2379989, Inserted: 2439989: (-59.11, -34.57)
+stab:0.99989098
+Removed: 2384122, Inserted: 2444122: (-79.94, 37.27)
+stab:0.97779851
+Removed: 2384462, Inserted: 2444462: (135.42, 34.64)
+stab:0.94309849
+Removed: 2387262, Inserted: 2447262: (-74.08, 4.60)
+stab:0.99193969
+Removed: 2389925, Inserted: 2449925: (-1.13, 37.98)
+stab:0.99999931
+Removed: 2391404, Inserted: 2451404: (103.86, 1.28)
+stab:0.99971202
+Removed: 2398459, Inserted: 2458459: (139.78, 35.55)
+stab:0.99921802
+Removed: 2403482, Inserted: 2463482: (-94.49, 39.06)
+stab:0.99999792
+Removed: 2411046, Inserted: 2471046: (121.02, 14.56)
+stab:0.99900579
+Removed: 2416001, Inserted: 2476001: (136.52, 34.73)
+stab:0.89759033
+Removed: 2416046, Inserted: 2476046: (-98.20, 19.02)
+stab:1.00000000
+Removed: 2416345, Inserted: 2476345: (49.41, 53.52)
+stab:0.99999616
+Removed: 2420387, Inserted: 2480387: (72.88, 19.08)
+stab:1.00000000
+Removed: 2420795, Inserted: 2480795: (47.90, 29.32)
+stab:0.99873886
+Removed: 2423172, Inserted: 2483172: (-157.86, 21.31)
+stab:0.99784906
+Removed: 2425365, Inserted: 2485365: (4.94, 51.30)
+stab:1.00000000
+Removed: 2428711, Inserted: 2488711: (18.64, -33.87)
+stab:0.78632114
+Removed: 2430318, Inserted: 2490318: (29.01, 40.23)
+stab:0.99982440
+Removed: 2442772, Inserted: 2502772: (7.35, 45.74)
+stab:1.00000000
+Removed: 2445910, Inserted: 2505910: (-77.11, 38.88)
+stab:0.69113981
+Removed: 2446081, Inserted: 2506081: (-0.36, 49.18)
+stab:0.99883146
+Removed: 2448616, Inserted: 2508616: (-101.19, 19.77)
+stab:0.99799770
+Removed: 2451437, Inserted: 2511437: (112.97, -7.92)
+stab:0.99917138
+Removed: 2453173, Inserted: 2513173: (139.64, 35.42)
+stab:0.99998351
+Removed: 2459312, Inserted: 2519312: (100.48, 13.79)
+stab:0.99678680
+Removed: 2459981, Inserted: 2519981: (-0.13, 51.51)
+stab:0.99961118
+Removed: 2462237, Inserted: 2522237: (29.04, 41.00)
+stab:0.89776807
+Removed: 2473622, Inserted: 2533622: (35.59, 55.56)
+stab:0.99056446
+Removed: 2478253, Inserted: 2538253: (135.72, 34.69)
+stab:0.99978390
+Removed: 2478312, Inserted: 2538312: (-98.70, 29.75)
+stab:0.83471490
+Removed: 2478490, Inserted: 2538490: (175.26, -37.79)
+stab:0.99821411
+Removed: 2478844, Inserted: 2538844: (138.44, 35.00)
+stab:0.99999961
+Removed: 2482237, Inserted: 2542237: (-99.29, 19.50)
+stab:0.73336967
+Removed: 2483178, Inserted: 2543178: (-76.97, 38.93)
+stab:0.79347809
+Removed: 2491191, Inserted: 2551191: (28.99, 41.05)
+stab:0.77987073
+Removed: 2491689, Inserted: 2551689: (133.52, 33.52)
+stab:1.00000000
+Removed: 2493177, Inserted: 2553177: (12.57, 55.68)
+stab:0.99998970
+Removed: 2495644, Inserted: 2555644: (39.18, 21.53)
+stab:0.99999227
+Removed: 2500399, Inserted: 2560399: (-82.81, 27.87)
+stab:0.99556497
+Removed: 2500595, Inserted: 2560595: (29.02, 41.11)
+stab:0.99476105
+Removed: 2502132, Inserted: 2562132: (9.19, 45.46)
+stab:0.96473176
+Removed: 2504723, Inserted: 2564723: (-48.50, -1.47)
+stab:0.99999964
+Removed: 2506652, Inserted: 2566652: (-6.45, 53.54)
+stab:0.99757828
+Removed: 2507395, Inserted: 2567395: (-81.53, 30.16)
+stab:0.99999910
+Removed: 2508362, Inserted: 2568362: (72.88, 19.07)
+stab:0.99617079
+Removed: 2508798, Inserted: 2568798: (101.58, 3.05)
+stab:0.99999874
+Removed: 2509674, Inserted: 2569674: (139.79, 35.72)
+stab:0.99999997
+Removed: 2512134, Inserted: 2572134: (106.77, -6.17)
+stab:0.99999968
+Removed: 2512739, Inserted: 2572739: (-6.28, 53.31)
+stab:0.99999959
+Removed: 2512768, Inserted: 2572768: (-0.24, 51.48)
+stab:0.99999477
+Removed: 2514401, Inserted: 2574401: (108.83, 59.46)
+stab:0.99999999
+Removed: 2519288, Inserted: 2579288: (-47.93, -15.78)
+stab:0.99999977
+Removed: 2519544, Inserted: 2579544: (28.80, 40.96)
+stab:0.99999977
+Removed: 2522312, Inserted: 2582312: (47.91, 29.30)
+stab:0.94251858
+Removed: 2524988, Inserted: 2584988: (121.45, 31.24)
+stab:0.99797939
+Removed: 2525351, Inserted: 2585351: (1.52, 38.98)
+stab:1.00000000
+Removed: 2526480, Inserted: 2586480: (-2.30, 53.48)
+stab:0.99997864
+Removed: 2528934, Inserted: 2588934: (139.75, 35.70)
+stab:0.99999787
+Removed: 2530086, Inserted: 2590086: (-0.15, 51.52)
+stab:1.00000000
+Removed: 2533196, Inserted: 2593196: (9.20, 45.47)
+stab:0.77025520
+Removed: 2535300, Inserted: 2595300: (125.62, 7.10)
+stab:0.99998641
+Removed: 2537161, Inserted: 2597161: (-75.55, 10.43)
+stab:0.99820468
+Removed: 2538820, Inserted: 2598820: (111.59, -6.67)
+stab:0.99977390
+Removed: 2548143, Inserted: 2608143: (107.60, -6.90)
+stab:0.99758975
+Removed: 2549152, Inserted: 2609152: (-3.70, 40.43)
+stab:0.78490109
+Removed: 2553751, Inserted: 2613751: (-84.51, 39.11)
+stab:0.98658810
+Removed: 2556141, Inserted: 2616141: (100.70, 4.22)
+stab:0.99457192
+Removed: 2556704, Inserted: 2616704: (-38.50, -3.73)
+stab:0.99610608
+Removed: 2560560, Inserted: 2620560: (106.00, 16.00)
+stab:0.99416893
+Removed: 2561593, Inserted: 2621593: (30.98, 52.89)
+stab:0.99999976
+Removed: 2562605, Inserted: 2622605: (103.82, 1.36)
+stab:0.99996625
+Removed: 2567862, Inserted: 2627862: (28.97, 41.04)
+stab:0.99997658
+Removed: 2571820, Inserted: 2631820: (-121.49, 47.40)
+stab:0.99999992
+Removed: 2572487, Inserted: 2632487: (-96.57, 43.59)
+stab:1.00000000
+Removed: 2573387, Inserted: 2633387: (-98.49, 29.42)
+stab:0.99969538
+Removed: 2576629, Inserted: 2636629: (4.28, 51.88)
+stab:0.96460273
+Removed: 2580434, Inserted: 2640434: (-85.67, 38.20)
+stab:0.99999948
+Removed: 2581192, Inserted: 2641192: (-74.07, 40.95)
+stab:1.00000000
+Removed: 2581860, Inserted: 2641860: (13.94, 40.74)
+stab:0.99186276
+Removed: 2583496, Inserted: 2643496: (-58.65, -34.66)
+stab:0.99982915
+Removed: 2586415, Inserted: 2646415: (-7.00, 38.89)
+stab:0.99993750
+Removed: 2587971, Inserted: 2647971: (0.71, 51.54)
+stab:0.99977992
+Removed: 2590643, Inserted: 2650643: (31.05, -29.88)
+stab:0.99999997
+Removed: 2591322, Inserted: 2651322: (3.40, 6.45)
+stab:1.00000000
+Removed: 2592511, Inserted: 2652511: (140.88, 38.26)
+stab:0.98524595
+Removed: 2593283, Inserted: 2653283: (-47.89, -15.77)
+stab:0.99911609
+Removed: 2595643, Inserted: 2655643: (-121.89, 37.34)
+stab:0.99999927
+Removed: 2597462, Inserted: 2657462: (121.93, 11.96)
+stab:0.99960966
+Removed: 2598033, Inserted: 2658033: (10.43, 43.39)
+stab:0.93340613
+Removed: 2598135, Inserted: 2658135: (-77.41, 34.74)
+stab:0.90510559
+Removed: 2601147, Inserted: 2661147: (130.37, 32.78)
+stab:1.00000000
+Removed: 2602068, Inserted: 2662068: (56.07, 54.78)
+stab:0.99968844
+Removed: 2603377, Inserted: 2663377: (-89.21, 43.18)
+stab:0.99999991
+Removed: 2609380, Inserted: 2669380: (-84.37, 33.95)
+stab:1.00000000
+Removed: 2611313, Inserted: 2671313: (100.68, -0.37)
+stab:0.99999379
+Removed: 2613120, Inserted: 2673120: (6.64, 46.78)
+stab:0.99999999
+Removed: 2614302, Inserted: 2674302: (-3.18, 53.37)
+stab:0.99999999
+Removed: 2616696, Inserted: 2676696: (103.78, 1.44)
+stab:0.99999941
+Removed: 2619289, Inserted: 2679289: (-77.01, -12.09)
+stab:0.99999452
+Removed: 2620148, Inserted: 2680148: (35.69, 47.26)
+stab:0.99979280
+Removed: 2620223, Inserted: 2680223: (-74.21, 40.13)
+stab:0.99999991
+Removed: 2620399, Inserted: 2680399: (-122.33, 47.61)
+stab:0.99995613
+Removed: 2620937, Inserted: 2680937: (-73.96, 42.77)
+stab:0.99999686
+Removed: 2621867, Inserted: 2681867: (78.68, 10.82)
+stab:1.00000000
+Removed: 2630053, Inserted: 2690053: (-98.43, 29.50)
+stab:0.99687949
+Removed: 2630714, Inserted: 2690714: (-88.77, 43.08)
+stab:0.84871596
+Removed: 2635103, Inserted: 2695103: (-71.22, 42.40)
+stab:0.99977580
+Removed: 2635925, Inserted: 2695925: (127.65, 26.20)
+stab:0.99940813
+Removed: 2638608, Inserted: 2698608: (-70.05, 12.55)
+stab:0.99960522
+Removed: 2639685, Inserted: 2699685: (28.97, 41.04)
+stab:0.99999963
+Removed: 2641276, Inserted: 2701276: (-80.31, 25.88)
+stab:0.99987486
+Removed: 2652699, Inserted: 2712699: (-73.97, 40.76)
+stab:0.99999985
+Removed: 2654976, Inserted: 2714976: (-80.92, 35.19)
+stab:0.98513705
+Removed: 2655520, Inserted: 2715520: (-73.92, 40.81)
+stab:0.95613383
+Removed: 2662737, Inserted: 2722737: (-123.18, 49.20)
+stab:0.97361458
+Removed: 2663131, Inserted: 2723131: (-52.65, 5.15)
+stab:0.99999929
+Removed: 2664150, Inserted: 2724150: (-75.32, 40.02)
+stab:0.93003694
+Removed: 2665799, Inserted: 2725799: (-92.22, 29.88)
+stab:0.94122554
+Removed: 2672670, Inserted: 2732670: (28.97, 41.02)
+stab:0.99999981
+Removed: 2674776, Inserted: 2734776: (-81.96, 28.00)
+stab:0.99992623
+Removed: 2675190, Inserted: 2735190: (-83.58, 41.54)
+stab:0.99990776
+Removed: 2677921, Inserted: 2737921: (-78.87, 43.03)
+stab:0.99999988
+Removed: 2681980, Inserted: 2741980: (-76.49, 38.98)
+stab:0.99997738
+Removed: 2682053, Inserted: 2742053: (-74.15, 4.83)
+stab:0.99999996
+Removed: 2684667, Inserted: 2744667: (28.97, 41.04)
+stab:0.99986002
+Removed: 2685060, Inserted: 2745060: (28.97, 41.04)
+stab:0.99999975
+Removed: 2689022, Inserted: 2749022: (48.00, 29.36)
+stab:0.99995903
+Removed: 2692595, Inserted: 2752595: (-76.98, 38.54)
+stab:0.99194488
+Removed: 2693478, Inserted: 2753478: (-71.11, 42.37)
+stab:0.99999986
+Removed: 2695538, Inserted: 2755538: (-79.48, 43.65)
+stab:0.99956005
+Removed: 2695721, Inserted: 2755721: (47.99, 29.38)
+stab:1.00000000
+Removed: 2696800, Inserted: 2756800: (-38.56, -3.71)
+stab:0.96318346
+Removed: 2699313, Inserted: 2759313: (2.18, 41.38)
+stab:0.84092914
+Removed: 2702737, Inserted: 2762737: (-82.70, 33.46)
+stab:0.99999933
+Removed: 2704005, Inserted: 2764005: (-0.16, 51.49)
+stab:0.99999029
+Removed: 2711269, Inserted: 2771269: (39.80, 21.38)
+stab:0.99999995
+Removed: 2716855, Inserted: 2776855: (-74.61, 40.57)
+stab:0.73860361
+Removed: 2716869, Inserted: 2776869: (135.73, 35.01)
+stab:0.99964983
+Removed: 2720431, Inserted: 2780431: (-80.72, 40.06)
+stab:0.99799274
+Removed: 2726804, Inserted: 2786804: (-85.92, 39.99)
+stab:0.99977748
+Removed: 2727217, Inserted: 2787217: (-43.24, -23.00)
+stab:0.99999971
+Removed: 2731087, Inserted: 2791087: (-60.67, -32.95)
+stab:0.99999999
+Removed: 2733498, Inserted: 2793498: (-79.27, 36.10)
+stab:0.99999968
+Removed: 2735263, Inserted: 2795263: (55.26, 25.21)
+stab:0.87068722
+Removed: 2737468, Inserted: 2797468: (-74.00, 40.75)
+stab:1.00000000
+Removed: 2738692, Inserted: 2798692: (-70.99, 42.08)
+stab:0.99999963
+Removed: 2741711, Inserted: 2801711: (-117.57, 34.10)
+stab:0.79507800
+Removed: 2741855, Inserted: 2801855: (-92.22, 34.82)
+stab:0.99999933
+Removed: 2743597, Inserted: 2803597: (-79.90, -2.20)
+stab:0.84550285
+Removed: 2746742, Inserted: 2806742: (1.42, 51.37)
+stab:0.64833711
+Removed: 2753398, Inserted: 2813398: (47.96, 29.34)
+stab:0.88177698
+Removed: 2764049, Inserted: 2824049: (-0.13, 51.51)
+stab:0.99999989
+Removed: 2765390, Inserted: 2825390: (103.83, 1.37)
+stab:0.99999972
+Removed: 2766187, Inserted: 2826187: (-43.42, -22.77)
+stab:0.99404901
+Removed: 2766713, Inserted: 2826713: (-94.97, 35.91)
+stab:0.99999995
+Removed: 2769196, Inserted: 2829196: (-95.46, 30.17)
+stab:0.99999975
+Removed: 2770229, Inserted: 2830229: (-76.31, 40.04)
+stab:1.00000000
+Removed: 2771387, Inserted: 2831387: (-34.91, -8.14)
+stab:1.00000000
+Removed: 2772296, Inserted: 2832296: (11.38, 53.63)
+stab:0.99408164
+Removed: 2772977, Inserted: 2832977: (-82.90, 34.63)
+stab:0.99999963
+Removed: 2781632, Inserted: 2841632: (-117.04, 32.54)
+stab:0.98167050
+Removed: 2782983, Inserted: 2842983: (-82.86, 42.32)
+stab:1.00000000
+Removed: 2789188, Inserted: 2849188: (28.97, 41.04)
+stab:0.99995790
+Removed: 2792287, Inserted: 2852287: (-123.12, 49.28)
+stab:0.85381206
+Removed: 2796951, Inserted: 2856951: (-100.29, 25.65)
+stab:0.99999998
+Removed: 2797869, Inserted: 2857869: (114.81, 4.74)
+stab:0.99933768
+Removed: 2798226, Inserted: 2858226: (-43.29, -22.89)
+stab:0.98726799
+Removed: 2800199, Inserted: 2860199: (-40.50, -20.65)
+stab:1.00000000
+Removed: 2803585, Inserted: 2863585: (-80.76, 41.24)
+stab:0.99999780
+Removed: 2807034, Inserted: 2867034: (-72.68, 41.77)
+stab:0.99974238
+Removed: 2811960, Inserted: 2871960: (101.66, 2.92)
+stab:0.99999805
+Removed: 2819791, Inserted: 2879791: (-81.03, 34.00)
+stab:1.00000000
+Removed: 2820577, Inserted: 2880577: (121.03, 14.66)
+stab:0.98365414
+Removed: 2821823, Inserted: 2881823: (-71.30, -41.15)
+stab:0.86914510
+Removed: 2823093, Inserted: 2883093: (-105.27, 20.67)
+stab:0.99999982
+Removed: 2824418, Inserted: 2884418: (114.18, 22.30)
+stab:0.94972816
+Removed: 2828503, Inserted: 2888503: (-83.05, 42.33)
+stab:0.94919681
+Removed: 2835852, Inserted: 2895852: (3.35, 6.52)
+stab:0.99992985
+Removed: 2839970, Inserted: 2899970: (139.88, 35.63)
+stab:0.99999997
+Removed: 2842653, Inserted: 2902653: (139.75, 35.68)
+stab:0.99999917
+Removed: 2843599, Inserted: 2903599: (103.09, 1.86)
+stab:0.99588016
+Removed: 2846388, Inserted: 2906388: (150.73, -34.05)
+stab:0.99985716
+Removed: 2846941, Inserted: 2906941: (131.41, 31.94)
+stab:0.99995777
+Removed: 2847791, Inserted: 2907791: (18.46, 50.00)
+stab:0.99993562
+Removed: 2848687, Inserted: 2908687: (106.78, -6.30)
+stab:1.00000000
+Removed: 2859200, Inserted: 2919200: (-70.67, -33.45)
+stab:0.80616964
+Removed: 2859554, Inserted: 2919554: (139.48, 35.68)
+stab:0.70069940
+Removed: 2863210, Inserted: 2923210: (132.32, 34.30)
+stab:0.99999965
+Removed: 2863462, Inserted: 2923462: (-46.65, -23.56)
+stab:1.00000000
+Removed: 2867800, Inserted: 2927800: (139.55, 35.99)
+stab:0.99999983
+Removed: 2868331, Inserted: 2928331: (115.16, -8.67)
+stab:0.99999989
+Removed: 2872193, Inserted: 2932193: (110.34, -7.87)
+stab:0.72525015
+Removed: 2872299, Inserted: 2932299: (1.08, 49.93)
+stab:0.99878470
+Removed: 2874036, Inserted: 2934036: (-104.93, 39.71)
+stab:1.00000000
+Removed: 2876169, Inserted: 2936169: (10.01, 53.55)
+stab:0.99999992
+Removed: 2877976, Inserted: 2937976: (141.68, 42.79)
+stab:0.91441976
+Removed: 2882379, Inserted: 2942379: (-87.96, 43.05)
+stab:0.99999994
+Removed: 2882617, Inserted: 2942617: (-122.68, 45.51)
+stab:0.99999998
+Removed: 2896542, Inserted: 2956542: (134.83, 34.75)
+stab:0.99961993
+Removed: 2905142, Inserted: 2965142: (15.89, 58.47)
+stab:0.81182713
+Removed: 2916746, Inserted: 2976746: (101.61, 3.07)
+stab:0.91513014
+Removed: 2918751, Inserted: 2978751: (55.26, 25.21)
+stab:0.99999930
+Removed: 2919722, Inserted: 2979722: (-92.20, 34.80)
+stab:0.90204330
+Removed: 2923924, Inserted: 2983924: (39.33, 43.91)
+stab:0.99999998
+Removed: 2924412, Inserted: 2984412: (2.35, 48.86)
+stab:0.98806506
+Removed: 2929537, Inserted: 2989537: (132.75, 33.77)
+stab:0.74765874
+Removed: 2932254, Inserted: 2992254: (5.75, 58.97)
+stab:0.99999998
+Removed: 2932727, Inserted: 2992727: (139.63, 35.71)
+stab:0.99999995
+Removed: 2933243, Inserted: 2993243: (-77.32, 18.18)
+stab:0.61844869
+Removed: 2935754, Inserted: 2995754: (107.61, -6.91)
+stab:1.00000000
+Removed: 2943170, Inserted: 3003170: (-112.12, 33.69)
+stab:0.60644536
+Removed: 2948170, Inserted: 3008170: (-2.58, 51.45)
+stab:0.62707921
+Removed: 2958347, Inserted: 3018347: (5.97, 52.22)
+stab:0.97883429
+Removed: 2960932, Inserted: 3020932: (23.71, 38.03)
+stab:0.99999471
+Removed: 2961799, Inserted: 3021799: (32.63, 46.64)
+stab:0.97445590
+Removed: 2962949, Inserted: 3022949: (109.09, -6.88)
+stab:0.99962833
+Removed: 2977314, Inserted: 3037314: (110.34, -7.78)
+stab:0.73903006
+Removed: 2984074, Inserted: 3044074: (-74.31, 40.35)
+stab:1.00000000
+Removed: 2984273, Inserted: 3044273: (8.67, 45.77)
+stab:1.00000000
+Removed: 2984898, Inserted: 3044898: (135.46, 34.67)
+stab:0.57133983
+Removed: 2985350, Inserted: 3045350: (-0.85, 37.91)
+stab:0.99960235
+Removed: 2985351, Inserted: 3045351: (-123.07, 49.27)
+stab:0.63869210
+Removed: 2985812, Inserted: 3045812: (2.32, 48.84)
+stab:0.82808102
+Removed: 2986050, Inserted: 3046050: (-54.97, -28.41)
+stab:1.00000000
+Removed: 2987702, Inserted: 3047702: (-74.01, 40.87)
+stab:0.99999998
+Removed: 2987990, Inserted: 3047990: (28.37, 37.19)
+stab:0.99999989
+Removed: 2989267, Inserted: 3049267: (-123.01, 37.70)
+stab:0.99472125
+Removed: 2989602, Inserted: 3049602: (-0.15, 51.52)
+stab:0.99999996
+Removed: 2990098, Inserted: 3050098: (28.98, 41.01)
+stab:0.99999980
+Removed: 2992674, Inserted: 3052674: (-103.39, 20.75)
+stab:0.97441391
+Removed: 2998480, Inserted: 3058480: (143.21, 42.92)
+stab:0.94557259
+Removed: 2999022, Inserted: 3059022: (7.90, 5.03)
+stab:0.99999961
+Removed: 3000188, Inserted: 3060188: (28.31, -26.20)
+stab:0.99999702
+Removed: 3000659, Inserted: 3060659: (-1.15, 52.95)
+stab:0.99982670
+Removed: 3002374, Inserted: 3062374: (139.54, 35.65)
+stab:1.00000000
+Removed: 3003146, Inserted: 3063146: (-38.53, -3.75)
+stab:0.99999022
+Removed: 3003839, Inserted: 3063839: (-73.96, 40.78)
+stab:0.99999824
+Removed: 3010044, Inserted: 3070044: (109.64, -6.89)
+stab:0.99999985
+Removed: 3015457, Inserted: 3075457: (-99.27, 19.38)
+stab:1.00000000
+Removed: 3016845, Inserted: 3076845: (130.40, 33.58)
+stab:0.98241243
+Removed: 3020616, Inserted: 3080616: (7.85, 49.49)
+stab:0.98228358
+Removed: 3025389, Inserted: 3085389: (-43.42, -22.74)
+stab:0.97994332
+Removed: 3028061, Inserted: 3088061: (28.36, 40.22)
+stab:0.99999995
+Removed: 3030704, Inserted: 3090704: (100.52, 13.74)
+stab:0.99041017
+Removed: 3033757, Inserted: 3093757: (-38.92, -5.29)
+stab:0.99999646
+Removed: 3037039, Inserted: 3097039: (100.57, 13.75)
+stab:0.99999827
+Removed: 3037427, Inserted: 3097427: (-77.48, 37.52)
+stab:0.98973428
+Removed: 3037935, Inserted: 3097935: (13.78, 45.65)
+stab:0.99993490
+Removed: 3040362, Inserted: 3100362: (139.95, 37.50)
+stab:0.83138164
+Removed: 3041004, Inserted: 3101004: (5.03, 35.92)
+stab:0.99999984
+Removed: 3042146, Inserted: 3102146: (10.98, 45.43)
+stab:0.93216109
+Removed: 3043576, Inserted: 3103576: (39.05, 36.87)
+stab:0.99108182
+Removed: 3044667, Inserted: 3104667: (139.97, 35.86)
+stab:0.99999831
+Removed: 3050240, Inserted: 3110240: (77.42, 23.27)
+stab:0.99999936
+Removed: 3051281, Inserted: 3111281: (-34.91, -8.06)
+stab:0.92870903
+Removed: 3054881, Inserted: 3114881: (-99.19, 19.43)
+stab:0.99999995
+Removed: 3062745, Inserted: 3122745: (-92.92, 17.99)
+stab:0.90346840
+Removed: 3068237, Inserted: 3128237: (-3.00, 53.41)
+stab:1.00000000
+Removed: 3069036, Inserted: 3129036: (-70.24, 43.64)
+stab:0.88453244
+Removed: 3080693, Inserted: 3140693: (-90.13, 29.99)
+stab:0.91978758
+Removed: 3085538, Inserted: 3145538: (-77.04, 38.91)
+stab:0.99999925
+Removed: 3086472, Inserted: 3146472: (35.53, 33.90)
+stab:0.99999327
+Removed: 3088496, Inserted: 3148496: (-80.19, 25.77)
+stab:0.99997451
+Removed: 3090349, Inserted: 3150349: (-35.98, -8.27)
+stab:0.87270191
+Removed: 3093307, Inserted: 3153307: (28.97, 41.04)
+stab:0.99999937
+Removed: 3094804, Inserted: 3154804: (116.05, 5.89)
+stab:1.00000000
+Removed: 3101265, Inserted: 3161265: (-96.75, 32.93)
+stab:0.88048910
+Removed: 3102187, Inserted: 3162187: (-123.01, 37.70)
+stab:1.00000000
+Removed: 3103580, Inserted: 3163580: (-87.32, 20.40)
+stab:0.99967024
+Removed: 3106194, Inserted: 3166194: (-57.10, -29.72)
+stab:0.99999975
+Removed: 3106205, Inserted: 3166205: (29.01, 41.07)
+stab:0.99998590
+Removed: 3109870, Inserted: 3169870: (13.12, 43.65)
+stab:0.96196562
+Removed: 3112202, Inserted: 3172202: (2.35, 48.86)
+stab:0.90484689
+Removed: 3112772, Inserted: 3172772: (77.45, 28.57)
+stab:0.99999883
+Removed: 3115816, Inserted: 3175816: (-76.60, 39.40)
+stab:0.99665948
+Removed: 3118379, Inserted: 3178379: (28.97, 41.04)
+stab:0.99999971
+Removed: 3118931, Inserted: 3178931: (100.61, 14.04)
+stab:0.90533648
+Removed: 3119527, Inserted: 3179527: (98.82, 8.04)
+stab:0.99991454
+Removed: 3125237, Inserted: 3185237: (-74.63, 40.93)
+stab:0.99999988
+Removed: 3125327, Inserted: 3185327: (121.07, 14.58)
+stab:0.99999933
+Removed: 3127533, Inserted: 3187533: (-80.33, 26.16)
+stab:0.99999229
+Removed: 3128483, Inserted: 3188483: (-87.91, 42.89)
+stab:0.99985770
+Removed: 3129486, Inserted: 3189486: (-6.19, 36.48)
+stab:1.00000000
+Removed: 3130858, Inserted: 3190858: (6.29, 52.25)
+stab:1.00000000
+Removed: 3131005, Inserted: 3191005: (36.88, -1.27)
+stab:1.00000000
+Removed: 3131350, Inserted: 3191350: (29.50, 39.54)
+stab:0.99947577
+Removed: 3133482, Inserted: 3193482: (27.23, 38.25)
+stab:0.99999980
+Removed: 3141752, Inserted: 3201752: (30.46, 38.79)
+stab:0.99588244
+Removed: 3143962, Inserted: 3203962: (-96.72, 17.00)
+stab:0.89083932
+Removed: 3144232, Inserted: 3204232: (37.65, 55.88)
+stab:0.97127679
+Removed: 3147839, Inserted: 3207839: (-74.00, 40.71)
+stab:0.99999198
+Removed: 3148316, Inserted: 3208316: (-120.05, 36.72)
+stab:0.94555400
+Removed: 3152748, Inserted: 3212748: (-72.69, 41.76)
+stab:1.00000000
+Removed: 3158383, Inserted: 3218383: (101.72, 3.14)
+stab:0.99227158
+Removed: 3160166, Inserted: 3220166: (-112.07, 33.46)
+stab:0.99999986
+Removed: 3162412, Inserted: 3222412: (-73.69, 40.85)
+stab:0.99999983
+Removed: 3163573, Inserted: 3223573: (-48.06, -16.01)
+stab:0.99999434
+Removed: 3167403, Inserted: 3227403: (2.58, 50.45)
+stab:0.99977406
+Removed: 3167821, Inserted: 3227821: (-99.14, 19.31)
+stab:0.99999738
+Removed: 3170484, Inserted: 3230484: (-75.16, 39.95)
+stab:0.99999124
+Removed: 3182841, Inserted: 3242841: (39.82, 21.38)
+stab:0.99999979
+Removed: 3183612, Inserted: 3243612: (-90.36, 38.48)
+stab:0.99999778
+Removed: 3185262, Inserted: 3245262: (-83.65, 41.02)
+stab:0.99974649
+Removed: 3186016, Inserted: 3246016: (29.18, 40.99)
+stab:0.99995724
+Removed: 3187793, Inserted: 3247793: (-96.84, 32.81)
+stab:0.99999988
+Removed: 3190216, Inserted: 3250216: (-74.00, 40.72)
+stab:0.93031720
+Removed: 3192055, Inserted: 3252055: (-121.08, 38.90)
+stab:0.99995056
+Removed: 3193037, Inserted: 3253037: (-105.00, 39.91)
+stab:0.99999275
+Removed: 3196423, Inserted: 3256423: (-58.42, -34.68)
+stab:0.91518310
+Removed: 3200243, Inserted: 3260243: (-2.63, 51.46)
+stab:0.99999983
+Removed: 3202942, Inserted: 3262942: (-85.62, 42.95)
+stab:0.99999997
+Removed: 3203291, Inserted: 3263291: (-73.93, 40.70)
+stab:0.99999997
+Removed: 3203941, Inserted: 3263941: (6.09, 50.79)
+stab:0.99999999
+Removed: 3204132, Inserted: 3264132: (3.36, 6.61)
+stab:0.99999994
+Removed: 3207986, Inserted: 3267986: (143.21, 42.92)
+stab:1.00000000
+Removed: 3208306, Inserted: 3268306: (-73.94, 40.68)
+stab:0.99999598
+Removed: 3209204, Inserted: 3269204: (-84.25, 33.76)
+stab:0.99976365
+Removed: 3210039, Inserted: 3270039: (-98.18, 19.07)
+stab:1.00000000
+Removed: 3210847, Inserted: 3270847: (-79.07, 38.15)
+stab:0.99999995
+Removed: 3215577, Inserted: 3275577: (-0.09, 51.52)
+stab:0.99715550
+Removed: 3217951, Inserted: 3277951: (-71.10, 42.36)
+stab:0.88394230
+Removed: 3218248, Inserted: 3278248: (-34.83, -7.12)
+stab:1.00000000
+Removed: 3225433, Inserted: 3285433: (55.13, 25.08)
+stab:0.99973719
+Removed: 3226135, Inserted: 3286135: (8.21, 53.14)
+stab:0.99955753
+Removed: 3226276, Inserted: 3286276: (51.42, 25.29)
+stab:0.99999963
+Removed: 3226516, Inserted: 3286516: (-92.97, 48.17)
+stab:0.99943299
+Removed: 3231446, Inserted: 3291446: (139.70, 35.71)
+stab:0.99999966
+Removed: 3231654, Inserted: 3291654: (-79.12, 33.43)
+stab:0.99901027
+Removed: 3231681, Inserted: 3291681: (-51.86, -29.80)
+stab:0.94567726
+Removed: 3232147, Inserted: 3292147: (-1.53, 53.40)
+stab:0.99999615
+Removed: 3238036, Inserted: 3298036: (-82.79, 27.91)
+stab:0.99999192
+Removed: 3238476, Inserted: 3298476: (-94.45, 39.25)
+stab:1.00000000
+Removed: 3243409, Inserted: 3303409: (-122.18, 37.38)
+stab:0.70794036
+Removed: 3243929, Inserted: 3303929: (140.66, 36.59)
+stab:0.99999997
+Removed: 3246091, Inserted: 3306091: (-93.35, 44.97)
+stab:0.97367584
+Removed: 3248877, Inserted: 3308877: (127.65, 26.21)
+stab:0.99999678
+Removed: 3250691, Inserted: 3310691: (-43.19, -22.99)
+stab:0.99999948
+Removed: 3251734, Inserted: 3311734: (134.05, 34.32)
+stab:1.00000000
+Removed: 3253753, Inserted: 3313753: (-95.42, 29.80)
+stab:0.72365266
+Removed: 3260655, Inserted: 3320655: (-47.63, -22.74)
+stab:0.99999990
+Removed: 3265227, Inserted: 3325227: (-58.37, -34.61)
+stab:0.99998674
+Removed: 3271448, Inserted: 3331448: (-46.68, -23.53)
+stab:1.00000000
+Removed: 3272158, Inserted: 3332158: (48.33, 28.68)
+stab:0.99999985
+Removed: 3272862, Inserted: 3332862: (-119.02, 35.37)
+stab:0.99999558
+Removed: 3275842, Inserted: 3335842: (-88.45, 42.61)
+stab:0.99993218
+Removed: 3279244, Inserted: 3339244: (98.82, 8.04)
+stab:0.88243531
+Removed: 3280604, Inserted: 3340604: (-43.41, -22.80)
+stab:0.99882561
+Removed: 3282014, Inserted: 3342014: (-112.10, 33.44)
+stab:0.99909472
+Removed: 3287833, Inserted: 3347833: (-57.53, -25.31)
+stab:0.99999944
+Removed: 3288316, Inserted: 3348316: (-117.67, 33.55)
+stab:0.99995147
+Removed: 3293974, Inserted: 3353974: (101.21, 6.85)
+stab:0.99999808
+Removed: 3299946, Inserted: 3359946: (-73.96, 40.77)
+stab:0.99145894
+Removed: 3303096, Inserted: 3363096: (114.17, 22.30)
+stab:0.99999959
+Removed: 3303250, Inserted: 3363250: (-98.31, 56.95)
+stab:0.99999969
+Removed: 3304904, Inserted: 3364904: (116.81, -8.98)
+stab:0.99999939
+Removed: 3305550, Inserted: 3365550: (-66.43, 18.22)
+stab:1.00000000
+Removed: 3306660, Inserted: 3366660: (-58.39, -34.58)
+stab:0.99999929
+Removed: 3307297, Inserted: 3367297: (-74.26, 40.75)
+stab:0.99999963
+Removed: 3313517, Inserted: 3373517: (127.72, 26.22)
+stab:0.99943791
+Removed: 3314047, Inserted: 3374047: (101.70, 3.24)
+stab:0.99923396
+Removed: 3314789, Inserted: 3374789: (-74.08, 4.60)
+stab:0.99999995
+Removed: 3322324, Inserted: 3382324: (101.68, 2.86)
+stab:0.84420822
+Removed: 3324379, Inserted: 3384379: (8.89, 48.94)
+stab:0.99999685
+Removed: 3326786, Inserted: 3386786: (-3.44, 55.38)
+stab:0.99999040
+Removed: 3337422, Inserted: 3397422: (-81.69, 41.50)
+stab:0.99999986
+Removed: 3343403, Inserted: 3403403: (12.25, 45.52)
+stab:0.99999813
+Removed: 3347165, Inserted: 3407165: (4.89, 52.37)
+stab:0.99999682
+Removed: 3354624, Inserted: 3414624: (-121.05, 39.24)
+stab:0.99958675
+Removed: 3357480, Inserted: 3417480: (-35.74, -9.55)
+stab:0.99997055
+Removed: 3359223, Inserted: 3419223: (103.25, 16.25)
+stab:0.99962250
+Removed: 3362041, Inserted: 3422041: (139.63, 35.46)
+stab:0.73780657
+Removed: 3364434, Inserted: 3424434: (121.45, 31.23)
+stab:0.99999954
+Removed: 3365279, Inserted: 3425279: (-79.69, 44.39)
+stab:0.99999922
+Removed: 3367021, Inserted: 3427021: (-101.19, 19.70)
+stab:0.81027765
+Removed: 3369988, Inserted: 3429988: (103.86, 1.29)
+stab:0.99948640
+Removed: 3371219, Inserted: 3431219: (-76.29, 36.77)
+stab:0.72920570
+Removed: 3373580, Inserted: 3433580: (144.92, -37.79)
+stab:1.00000000
+Removed: 3377925, Inserted: 3437925: (28.23, -25.75)
+stab:1.00000000
+Removed: 3378848, Inserted: 3438848: (106.71, -6.18)
+stab:1.00000000
+Removed: 3386089, Inserted: 3446089: (139.79, 35.63)
+stab:0.99999741
+Removed: 3395503, Inserted: 3455503: (55.43, 25.35)
+stab:0.99997142
+Removed: 3399182, Inserted: 3459182: (-73.00, 44.51)
+stab:0.99999991
+Removed: 3401500, Inserted: 3461500: (77.32, 28.57)
+stab:0.91493778
+Removed: 3402722, Inserted: 3462722: (29.08, 41.08)
+stab:0.99999855
+Removed: 3404428, Inserted: 3464428: (135.21, 34.70)
+stab:0.99908697
+Removed: 3405112, Inserted: 3465112: (47.99, 29.33)
+stab:0.93997493
+Removed: 3407525, Inserted: 3467525: (-82.25, 9.33)
+stab:0.99260121
+Removed: 3410896, Inserted: 3470896: (-103.46, 25.54)
+stab:0.94327211
+Removed: 3416528, Inserted: 3476528: (100.63, 13.67)
+stab:0.99999407
+Removed: 3419654, Inserted: 3479654: (-74.07, 40.94)
+stab:0.94288706
+Removed: 3421882, Inserted: 3481882: (4.36, 50.83)
+stab:0.99789758
+Removed: 3424051, Inserted: 3484051: (112.52, -7.88)
+stab:0.99817999
+Removed: 3424274, Inserted: 3484274: (-115.17, 36.11)
+stab:0.82344355
+Removed: 3424812, Inserted: 3484812: (18.73, -33.45)
+stab:0.97020267
+Removed: 3429113, Inserted: 3489113: (28.66, 67.67)
+stab:0.99996049
+Removed: 3433758, Inserted: 3493758: (-72.72, 41.75)
+stab:0.99998525
+Removed: 3433771, Inserted: 3493771: (10.64, 49.49)
+stab:0.99972293
+Removed: 3435289, Inserted: 3495289: (30.52, 50.45)
+stab:0.79743975
+Removed: 3436054, Inserted: 3496054: (30.32, 59.95)
+stab:0.99707699
+Removed: 3439997, Inserted: 3499997: (139.70, 35.65)
+stab:0.89931924
+Removed: 3445840, Inserted: 3505840: (144.96, -37.81)
+stab:0.99999856
+Removed: 3454857, Inserted: 3514857: (-157.84, 21.28)
+stab:0.99938144
+Removed: 3457071, Inserted: 3517071: (26.98, 39.50)
+stab:0.99999989
+Removed: 3461348, Inserted: 3521348: (-49.38, -28.04)
+stab:0.99999985
+Removed: 3464416, Inserted: 3524416: (-58.37, -34.61)
+stab:0.99880077
+Removed: 3466181, Inserted: 3526181: (30.52, 39.77)
+stab:0.99999139
+Removed: 3470762, Inserted: 3530762: (35.15, 42.03)
+stab:0.99444029
+Removed: 3472931, Inserted: 3532931: (-48.10, -15.82)
+stab:0.98636333
+Removed: 3484019, Inserted: 3544019: (124.85, 6.50)
+stab:0.99999997
+Removed: 3484991, Inserted: 3544991: (-0.13, 51.51)
+stab:0.98347254
+Removed: 3485959, Inserted: 3545959: (103.80, 1.55)
+stab:0.72245526
+Removed: 3491204, Inserted: 3551204: (-80.16, 48.28)
+stab:0.99999948
+Removed: 3491432, Inserted: 3551432: (-35.70, -9.66)
+stab:0.99979605
+Removed: 3493258, Inserted: 3553258: (27.55, 53.91)
+stab:0.99999996
+Removed: 3497408, Inserted: 3557408: (-58.35, -34.67)
+stab:0.99998718
+Removed: 3505529, Inserted: 3565529: (5.33, 50.23)
+stab:0.99999954
+Removed: 3505901, Inserted: 3565901: (135.77, 35.12)
+stab:0.99999953
+Removed: 3508075, Inserted: 3568075: (124.75, 10.25)
+stab:0.85133588
+Removed: 3509761, Inserted: 3569761: (-86.34, 39.95)
+stab:0.99999991
+Removed: 3512176, Inserted: 3572176: (140.98, 41.95)
+stab:0.99997710
+Removed: 3520620, Inserted: 3580620: (100.51, 13.74)
+stab:0.99999994
+Removed: 3523623, Inserted: 3583623: (139.65, 35.67)
+stab:0.99999925
+Removed: 3523771, Inserted: 3583771: (51.44, 25.26)
+stab:0.99999904
+Removed: 3524119, Inserted: 3584119: (-71.06, 42.36)
+stab:0.97032008
+Removed: 3524515, Inserted: 3584515: (135.50, 34.67)
+stab:0.99996698
+Removed: 3528848, Inserted: 3588848: (-77.03, 38.90)
+stab:0.99999881
+Removed: 3528859, Inserted: 3588859: (-42.95, -21.11)
+stab:0.91824195
+Removed: 3529616, Inserted: 3589616: (-73.48, 40.74)
+stab:0.99994584
+Removed: 3533350, Inserted: 3593350: (-74.95, 40.36)
+stab:0.88253079
+Removed: 3535348, Inserted: 3595348: (3.82, 40.05)
+stab:0.99999871
+Removed: 3536715, Inserted: 3596715: (76.96, 43.24)
+stab:0.86000905
+Removed: 3539545, Inserted: 3599545: (101.71, 3.15)
+stab:0.99999930
+Removed: 3539828, Inserted: 3599828: (106.87, -6.24)
+stab:0.99999932
+Removed: 3542442, Inserted: 3602442: (-79.82, 36.08)
+stab:0.99937525
+Removed: 3544724, Inserted: 3604724: (103.85, 1.30)
+stab:0.77541738
+Removed: 3555388, Inserted: 3615388: (-99.13, 19.43)
+stab:0.99999843
+Removed: 3556181, Inserted: 3616181: (-99.14, 19.44)
+stab:0.99991109
+Removed: 3557971, Inserted: 3617971: (-83.63, 42.99)
+stab:0.99998788
+Removed: 3564816, Inserted: 3624816: (-1.93, 52.76)
+stab:0.99959091
+Removed: 3565468, Inserted: 3625468: (-43.22, -22.91)
+stab:1.00000000
+Removed: 3567685, Inserted: 3627685: (-86.78, 36.16)
+stab:0.99984352
+Removed: 3570554, Inserted: 3630554: (142.37, 43.81)
+stab:0.84341974
+Removed: 3574092, Inserted: 3634092: (-38.58, -3.71)
+stab:0.99999994
+Removed: 3574748, Inserted: 3634748: (-97.40, 27.74)
+stab:1.00000000
+Removed: 3578568, Inserted: 3638568: (-115.17, 36.11)
+stab:1.00000000
+Removed: 3578628, Inserted: 3638628: (-115.14, 36.11)
+stab:0.99999892
+Removed: 3579361, Inserted: 3639361: (-117.13, 32.81)
+stab:0.99999985
+Removed: 3580584, Inserted: 3640584: (-83.12, 40.09)
+stab:0.99999970
+Removed: 3582913, Inserted: 3642913: (121.92, 11.98)
+stab:0.99999149
+Removed: 3584038, Inserted: 3644038: (-74.29, 40.82)
+stab:0.99993614
+Removed: 3586636, Inserted: 3646636: (-97.35, 32.71)
+stab:0.99936059
+Removed: 3587181, Inserted: 3647181: (111.15, -7.50)
+stab:0.77832287
+Removed: 3590527, Inserted: 3650527: (44.57, 24.26)
+stab:0.99999973
+Removed: 3590535, Inserted: 3650535: (29.24, 40.88)
+stab:0.99999990
+Removed: 3591720, Inserted: 3651720: (-80.13, 25.79)
+stab:0.99803694
+Removed: 3592242, Inserted: 3652242: (29.05, 40.19)
+stab:1.00000000
+Removed: 3604265, Inserted: 3664265: (139.71, 35.73)
+stab:1.00000000
+Removed: 3604673, Inserted: 3664673: (10.54, 52.25)
+stab:1.00000000
+Removed: 3607867, Inserted: 3667867: (-0.07, 51.42)
+stab:0.99812074
+Removed: 3610112, Inserted: 3670112: (121.04, 14.42)
+stab:0.99999982
+Removed: 3610969, Inserted: 3670969: (-74.08, 4.60)
+stab:0.99999936
+Removed: 3611049, Inserted: 3671049: (-93.23, 45.16)
+stab:0.99956268
+Removed: 3613288, Inserted: 3673288: (-71.52, -33.01)
+stab:0.89558449
+Removed: 3616368, Inserted: 3676368: (-2.11, 51.89)
+stab:0.98142063
+Removed: 3623099, Inserted: 3683099: (-103.35, 20.66)
+stab:0.97661727
+Removed: 3630256, Inserted: 3690256: (28.97, 41.04)
+stab:0.81626391
+Removed: 3635329, Inserted: 3695329: (-91.54, 41.62)
+stab:0.96375462
+Removed: 3639817, Inserted: 3699817: (47.99, 29.38)
+stab:0.99960782
+Removed: 3641378, Inserted: 3701378: (-8.42, 42.97)
+stab:0.99995820
+Removed: 3643622, Inserted: 3703622: (9.52, 44.87)
+stab:0.99961184
+Removed: 3647212, Inserted: 3707212: (8.68, 47.70)
+stab:0.99928738
+Removed: 3652346, Inserted: 3712346: (-2.01, 48.65)
+stab:1.00000000
+Removed: 3657652, Inserted: 3717652: (127.85, 36.45)
+stab:1.00000000
+Removed: 3662753, Inserted: 3722753: (-75.17, 39.95)
+stab:0.99999999
+Removed: 3665734, Inserted: 3725734: (-73.92, 41.08)
+stab:1.00000000
+Removed: 3666343, Inserted: 3726343: (-96.78, 32.78)
+stab:0.99997842
+Removed: 3668876, Inserted: 3728876: (-75.15, 38.38)
+stab:0.98982987
+Removed: 3670829, Inserted: 3730829: (28.97, 41.04)
+stab:0.99999996
+Removed: 3671090, Inserted: 3731090: (-118.46, 33.99)
+stab:1.00000000
+Removed: 3672850, Inserted: 3732850: (28.94, 41.08)
+stab:1.00000000
+Removed: 3673158, Inserted: 3733158: (101.57, 3.16)
+stab:1.00000000
+Removed: 3673882, Inserted: 3733882: (-83.63, 41.56)
+stab:0.88883684
+Removed: 3675646, Inserted: 3735646: (-90.19, 38.62)
+stab:0.99999995
+Removed: 3675801, Inserted: 3735801: (101.72, 3.14)
+stab:0.99999975
+Removed: 3676398, Inserted: 3736398: (-118.24, 34.05)
+stab:0.99990859
+Removed: 3681416, Inserted: 3741416: (-87.40, 37.96)
+stab:0.99999943
+Removed: 3683261, Inserted: 3743261: (-90.60, 14.60)
+stab:0.99094211
+Removed: 3683318, Inserted: 3743318: (-4.07, 50.40)
+stab:0.99965783
+Removed: 3688343, Inserted: 3748343: (-40.30, -20.28)
+stab:0.99998354
+Removed: 3690578, Inserted: 3750578: (-100.37, 25.65)
+stab:1.00000000
+Removed: 3692727, Inserted: 3752727: (28.97, 38.40)
+stab:0.99448351
+Removed: 3697813, Inserted: 3757813: (28.97, 41.04)
+stab:1.00000000
+Removed: 3702662, Inserted: 3762662: (-77.11, 39.00)
+stab:0.99640356
+Removed: 3712070, Inserted: 3772070: (-121.95, 37.35)
+stab:0.99978033
+Removed: 3715294, Inserted: 3775294: (-85.76, 38.25)
+stab:0.94739455
+Removed: 3716357, Inserted: 3776357: (-96.17, 43.09)
+stab:0.99846851
+Removed: 3717106, Inserted: 3777106: (147.19, -42.72)
+stab:0.99950637
+Removed: 3724542, Inserted: 3784542: (-64.21, -31.34)
+stab:1.00000000
+Removed: 3726328, Inserted: 3786328: (-96.62, 33.09)
+stab:0.99999217
+Removed: 3727272, Inserted: 3787272: (-90.34, 38.61)
+stab:0.99999986
+Removed: 3727410, Inserted: 3787410: (-78.51, 35.98)
+stab:0.99999857
+Removed: 3732321, Inserted: 3792321: (-71.49, -32.72)
+stab:0.99999992
+Removed: 3732376, Inserted: 3792376: (-77.31, 38.85)
+stab:0.82084563
+Removed: 3733204, Inserted: 3793204: (19.10, 42.10)
+stab:0.99999926
+Removed: 3735068, Inserted: 3795068: (-80.19, 25.76)
+stab:0.99999955
+Removed: 3736552, Inserted: 3796552: (-88.28, 42.32)
+stab:0.99779528
+Removed: 3738492, Inserted: 3798492: (-117.13, 32.83)
+stab:0.94580497
+Removed: 3739266, Inserted: 3799266: (-0.13, 51.51)
+stab:0.99812470
+Removed: 3742930, Inserted: 3802930: (112.74, -7.28)
+stab:0.99999978
+Removed: 3743032, Inserted: 3803032: (-43.41, -22.98)
+stab:0.97785527
+Removed: 3744189, Inserted: 3804189: (-82.78, 28.01)
+stab:0.99999991
+Removed: 3745122, Inserted: 3805122: (-98.45, 29.74)
+stab:1.00000000
+Removed: 3746371, Inserted: 3806371: (-1.64, 47.21)
+stab:0.95609695
+Removed: 3746539, Inserted: 3806539: (-73.96, 40.82)
+stab:0.99999961
+Removed: 3746540, Inserted: 3806540: (-89.05, 30.40)
+stab:1.00000000
+Removed: 3746951, Inserted: 3806951: (35.95, 31.93)
+stab:0.99999981
+Removed: 3749150, Inserted: 3809150: (-87.14, 39.52)
+stab:0.99996518
+Removed: 3754300, Inserted: 3814300: (31.03, -17.86)
+stab:0.99703022
+Removed: 3756552, Inserted: 3816552: (-118.26, 34.05)
+stab:1.00000000
+Removed: 3762231, Inserted: 3822231: (174.78, -36.91)
+stab:0.99999993
+Removed: 3767277, Inserted: 3827277: (-87.19, 14.09)
+stab:0.99990205
+Removed: 3768618, Inserted: 3828618: (28.98, 41.03)
+stab:0.99999988
+Removed: 3772628, Inserted: 3832628: (-104.77, 38.85)
+stab:0.99999997
+Removed: 3775398, Inserted: 3835398: (-34.85, -7.21)
+stab:0.99395212
+Removed: 3776440, Inserted: 3836440: (136.59, 35.02)
+stab:0.93533681
+Removed: 3778888, Inserted: 3838888: (31.35, 30.07)
+stab:0.90550813
+Removed: 3780872, Inserted: 3840872: (-80.37, 27.65)
+stab:0.99999996
+Removed: 3780925, Inserted: 3840925: (1.44, 43.60)
+stab:0.86668872
+Removed: 3790717, Inserted: 3850717: (151.26, -33.88)
+stab:0.99986826
+Removed: 3795582, Inserted: 3855582: (-43.70, -22.75)
+stab:1.00000000
+Removed: 3797766, Inserted: 3857766: (87.19, 53.80)
+stab:1.00000000
+Removed: 3800812, Inserted: 3860812: (-78.37, -0.14)
+stab:0.99999533
+Removed: 3802715, Inserted: 3862715: (-123.01, 37.70)
+stab:0.99999777
+Removed: 3808977, Inserted: 3868977: (-111.95, 33.42)
+stab:0.99999862
+Removed: 3810385, Inserted: 3870385: (-1.51, 52.41)
+stab:0.98968254
+Removed: 3814097, Inserted: 3874097: (141.26, 40.57)
+stab:0.99801520
+Removed: 3815809, Inserted: 3875809: (-1.01, 45.62)
+stab:0.99998651
+Removed: 3816438, Inserted: 3876438: (-84.39, 33.75)
+stab:0.87717004
+Removed: 3818273, Inserted: 3878273: (106.96, -6.69)
+stab:0.99999522
+Removed: 3820681, Inserted: 3880681: (139.85, 35.74)
+stab:1.00000000
+Removed: 3825229, Inserted: 3885229: (-89.58, 21.02)
+stab:0.82692493
+Removed: 3826274, Inserted: 3886274: (-118.45, 34.07)
+stab:1.00000000
+Removed: 3826935, Inserted: 3886935: (-83.39, 33.95)
+stab:0.99999722
+Removed: 3829487, Inserted: 3889487: (135.44, 34.79)
+stab:0.99999996
+Removed: 3833774, Inserted: 3893774: (-118.32, 34.17)
+stab:0.90733013
+Removed: 3837012, Inserted: 3897012: (-87.91, 43.05)
+stab:0.99999999
+Removed: 3841274, Inserted: 3901274: (-46.69, -23.73)
+stab:0.99999999
+Removed: 3851310, Inserted: 3911310: (-46.69, -23.67)
+stab:0.98993082
+Removed: 3852470, Inserted: 3912470: (-79.34, 43.72)
+stab:1.00000000
+Removed: 3854679, Inserted: 3914679: (-103.37, 20.54)
+stab:0.99999412
+Removed: 3863934, Inserted: 3923934: (-46.60, -23.54)
+stab:0.99943635
+Removed: 3866313, Inserted: 3926313: (-79.49, 43.76)
+stab:1.00000000
+Removed: 3870627, Inserted: 3930627: (139.67, 35.61)
+stab:1.00000000
+Removed: 3871690, Inserted: 3931690: (141.45, 40.53)
+stab:0.84937288
+Removed: 3874632, Inserted: 3934632: (-101.26, 21.02)
+stab:0.75236488
+Removed: 3885177, Inserted: 3945177: (-88.09, 42.03)
+stab:0.99999924
+Removed: 3889640, Inserted: 3949640: (139.45, 35.34)
+stab:0.99995379
+Removed: 3892527, Inserted: 3952527: (139.70, 35.66)
+stab:0.99999031
+Removed: 3897140, Inserted: 3957140: (139.75, 35.67)
+stab:1.00000000
+Removed: 3898878, Inserted: 3958878: (174.70, -36.85)
+stab:0.82281338
+Removed: 3900667, Inserted: 3960667: (136.88, 35.17)
+stab:0.99999999
+Removed: 3904666, Inserted: 3964666: (126.90, 37.52)
+stab:0.99999156
+Removed: 3907963, Inserted: 3967963: (106.80, -6.23)
+stab:0.92444588
+Removed: 3914453, Inserted: 3974453: (138.88, 37.68)
+stab:0.99627643
+Removed: 3917386, Inserted: 3977386: (-89.62, 21.00)
+stab:0.99979793
+Removed: 3919640, Inserted: 3979640: (139.74, 35.61)
+stab:0.99736306
+Removed: 3921487, Inserted: 3981487: (100.61, 13.67)
+stab:0.80386435
+Removed: 3929349, Inserted: 3989349: (139.45, 35.54)
+stab:0.99745007
+Removed: 3929417, Inserted: 3989417: (-96.05, 41.24)
+stab:0.99868498
+Removed: 3930812, Inserted: 3990812: (139.70, 35.69)
+stab:0.99941533
+Removed: 3932312, Inserted: 3992312: (140.58, 37.57)
+stab:0.98757761
+Removed: 3932821, Inserted: 3992821: (124.82, 6.53)
+stab:0.99999749
+Removed: 3936499, Inserted: 3996499: (101.67, 2.93)
+stab:0.99999875
+Removed: 3938215, Inserted: 3998215: (13.12, 52.38)
+stab:0.99099743
+Removed: 3940881, Inserted: 4000881: (119.09, 31.68)
+stab:0.81863968
+Removed: 3941108, Inserted: 4001108: (91.98, 21.42)
+stab:0.80655062
+Removed: 3941697, Inserted: 4001697: (-157.50, 21.64)
+stab:0.99999985
+Removed: 3942789, Inserted: 4002789: (135.43, 34.67)
+stab:0.99938896
+Removed: 3944330, Inserted: 4004330: (110.36, -7.80)
+stab:1.00000000
+Removed: 3948676, Inserted: 4008676: (138.81, 36.94)
+stab:0.99994196
+Removed: 3951830, Inserted: 4011830: (113.68, -8.18)
+stab:0.99890781
+Removed: 3954816, Inserted: 4014816: (139.76, 35.67)
+stab:0.88503738
+Removed: 3956432, Inserted: 4016432: (4.50, 51.92)
+stab:1.00000000
+Removed: 3956669, Inserted: 4016669: (-54.72, -2.43)
+stab:0.98095029
+Removed: 3957726, Inserted: 4017726: (136.21, 36.06)
+stab:0.99999440
+Removed: 3961766, Inserted: 4021766: (151.78, -32.93)
+stab:0.99999419
+Removed: 3964772, Inserted: 4024772: (34.51, 36.73)
+stab:0.99999683
+Removed: 3967958, Inserted: 4027958: (55.66, 25.57)
+stab:0.99999978
+Removed: 3971509, Inserted: 4031509: (-46.30, -23.94)
+stab:0.99999523
+Removed: 3972184, Inserted: 4032184: (29.57, 40.84)
+stab:0.99995553
+Removed: 3972600, Inserted: 4032600: (135.48, 34.72)
+stab:0.98705634
+Removed: 3972854, Inserted: 4032854: (111.50, -11.42)
+stab:0.98734697
+Removed: 3973650, Inserted: 4033650: (-97.37, 27.71)
+stab:0.99999947
+Removed: 3977181, Inserted: 4037181: (37.56, 55.72)
+stab:0.98403607
+Removed: 3977196, Inserted: 4037196: (-1.72, 53.74)
+stab:0.83387721
+Removed: 3977979, Inserted: 4037979: (106.99, -6.38)
+stab:1.00000000
+Removed: 3980234, Inserted: 4040234: (139.77, 35.70)
+stab:0.69335900
+Removed: 3980436, Inserted: 4040436: (-83.08, 42.51)
+stab:0.99991858
+Removed: 3981623, Inserted: 4041623: (76.24, 9.97)
+stab:1.00000000
+Removed: 3989576, Inserted: 4049576: (-43.21, -22.90)
+stab:0.99576604
+Removed: 3990215, Inserted: 4050215: (141.35, 43.06)
+stab:0.99252162
+Removed: 3990569, Inserted: 4050569: (12.51, 41.89)
+stab:0.99999183
+Removed: 4001330, Inserted: 4061330: (106.80, -6.23)
+stab:1.00000000
+Removed: 4004042, Inserted: 4064042: (130.52, 33.38)
+stab:0.99999721
+Removed: 4005104, Inserted: 4065104: (2.34, 48.88)
+stab:0.99999013
+Removed: 4006140, Inserted: 4066140: (116.41, 39.90)
+stab:0.99566163
+Removed: 4007234, Inserted: 4067234: (103.81, 1.60)
+stab:0.99999976
+Removed: 4008440, Inserted: 4068440: (27.33, 37.91)
+stab:0.99691492
+Removed: 4009752, Inserted: 4069752: (17.01, 63.16)
+stab:0.99999990
+Removed: 4010381, Inserted: 4070381: (135.58, 34.75)
+stab:0.99999993
+Removed: 4013453, Inserted: 4073453: (-109.91, 22.88)
+stab:0.99999989
+Removed: 4013463, Inserted: 4073463: (-55.00, -10.00)
+stab:1.00000000
+Removed: 4014342, Inserted: 4074342: (132.48, 34.40)
+stab:1.00000000
+Removed: 4015230, Inserted: 4075230: (29.38, 40.87)
+stab:0.99999986
+Removed: 4016502, Inserted: 4076502: (55.28, 25.25)
+stab:0.99999992
+Removed: 4016815, Inserted: 4076815: (12.57, 55.67)
+stab:0.97891356
+Removed: 4017050, Inserted: 4077050: (27.15, 38.30)
+stab:0.99996326
+Removed: 4017145, Inserted: 4077145: (114.94, 4.89)
+stab:0.99413276
+Removed: 4017536, Inserted: 4077536: (16.32, 48.23)
+stab:0.99954461
+Removed: 4019611, Inserted: 4079611: (140.14, 35.93)
+stab:0.99999711
+Removed: 4019989, Inserted: 4079989: (-63.49, 44.61)
+stab:1.00000000
+Removed: 4020853, Inserted: 4080853: (102.25, 2.19)
+stab:0.99999971
+Removed: 4028960, Inserted: 4088960: (-2.48, 52.68)
+stab:0.99999997
+Removed: 4029976, Inserted: 4089976: (88.36, 22.55)
+stab:0.99936281
+Removed: 4033916, Inserted: 4093916: (4.55, 7.78)
+stab:0.99724496
+Removed: 4035994, Inserted: 4095994: (139.54, 35.70)
+stab:0.85547507
+Removed: 4037453, Inserted: 4097453: (55.53, -21.11)
+stab:0.99999903
+Removed: 4040844, Inserted: 4100844: (28.89, 41.05)
+stab:0.99999954
+Removed: 4044788, Inserted: 4104788: (98.67, 3.69)
+stab:0.99587534
+Removed: 4045533, Inserted: 4105533: (-0.14, 51.51)
+stab:0.99999648
+Removed: 4053793, Inserted: 4113793: (101.12, 4.63)
+stab:0.99997709
+Removed: 4055315, Inserted: 4115315: (141.17, 38.76)
+stab:0.99934794
+Removed: 4055432, Inserted: 4115432: (100.63, 13.67)
+stab:0.99999988
+Removed: 4061811, Inserted: 4121811: (-73.68, 41.02)
+stab:0.99999995
+Removed: 4062865, Inserted: 4122865: (-95.59, 30.09)
+stab:0.99981818
+Removed: 4063742, Inserted: 4123742: (12.34, 43.78)
+stab:0.77405309
+Removed: 4066267, Inserted: 4126267: (-60.67, 2.82)
+stab:0.99963765
+Removed: 4068201, Inserted: 4128201: (82.79, 21.79)
+stab:0.99989962
+Removed: 4070079, Inserted: 4130079: (139.68, 35.68)
+stab:0.99989536
+Removed: 4070563, Inserted: 4130563: (119.46, -5.18)
+stab:1.00000000
+Removed: 4071633, Inserted: 4131633: (135.83, 34.69)
+stab:0.90915555
+Removed: 4077607, Inserted: 4137607: (129.23, 35.83)
+stab:0.99999901
+Removed: 4078134, Inserted: 4138134: (106.80, -6.24)
+stab:0.99999841
+Removed: 4078562, Inserted: 4138562: (-85.75, 38.23)
+stab:0.99999731
+Removed: 4088918, Inserted: 4148918: (27.14, 38.44)
+stab:0.99999663
+Removed: 4091474, Inserted: 4151474: (-2.96, 43.26)
+stab:0.90383261
+Removed: 4096512, Inserted: 4156512: (141.55, 42.62)
+stab:0.86822371
+Removed: 4097157, Inserted: 4157157: (-70.10, 43.86)
+stab:0.99999979
+Removed: 4098672, Inserted: 4158672: (36.29, 33.51)
+stab:0.99978665
+Removed: 4101892, Inserted: 4161892: (36.93, 37.57)
+stab:0.99998862
+Removed: 4105689, Inserted: 4165689: (-21.12, 64.25)
+stab:1.00000000
+Removed: 4106176, Inserted: 4166176: (119.41, -5.14)
+stab:1.00000000
+Removed: 4107674, Inserted: 4167674: (2.34, 48.89)
+stab:0.99994331
+Removed: 4108630, Inserted: 4168630: (102.25, 2.21)
+stab:1.00000000
+Removed: 4108986, Inserted: 4168986: (123.06, 0.56)
+stab:0.89355214
+Removed: 4112411, Inserted: 4172411: (100.53, 13.74)
+stab:1.00000000
+Removed: 4114081, Inserted: 4174081: (-60.32, -33.35)
+stab:0.99999948
+Removed: 4116566, Inserted: 4176566: (103.86, 1.29)
+stab:0.99999156
+Removed: 4120939, Inserted: 4180939: (2.21, 46.23)
+stab:0.99997762
+Removed: 4121100, Inserted: 4181100: (-66.43, 18.22)
+stab:1.00000000
+Removed: 4121793, Inserted: 4181793: (-73.36, 41.13)
+stab:1.00000000
+Removed: 4122286, Inserted: 4182286: (-3.19, 55.95)
+stab:1.00000000
+Removed: 4127636, Inserted: 4187636: (114.16, 22.30)
+stab:0.99999975
+Removed: 4131069, Inserted: 4191069: (-86.08, 35.48)
+stab:0.99999963
+Removed: 4135499, Inserted: 4195499: (123.85, 9.65)
+stab:0.88078483
+Removed: 4139469, Inserted: 4199469: (106.69, -6.30)
+stab:0.93660765
+Removed: 4140640, Inserted: 4200640: (9.04, 39.27)
+stab:0.83482000
+Removed: 4149913, Inserted: 4209913: (-122.33, 47.60)
+stab:0.99847660
+Removed: 4152836, Inserted: 4212836: (112.78, -7.18)
+stab:0.98383294
+Removed: 4153911, Inserted: 4213911: (43.14, 11.59)
+stab:0.99738532
+Removed: 4154149, Inserted: 4214149: (-66.58, 10.48)
+stab:0.96102810
+Removed: 4162948, Inserted: 4222948: (-0.46, 51.47)
+stab:0.99999993
+Removed: 4166167, Inserted: 4226167: (120.98, 14.53)
+stab:1.00000000
+Removed: 4167886, Inserted: 4227886: (-97.35, 32.79)
+stab:0.99998013
+Removed: 4168317, Inserted: 4228317: (-1.51, 48.64)
+stab:0.92483518
+Removed: 4169065, Inserted: 4229065: (-47.26, -22.75)
+stab:0.99967813
+Removed: 4169414, Inserted: 4229414: (127.00, 40.00)
+stab:0.88706592
+Removed: 4170248, Inserted: 4230248: (-80.77, 41.18)
+stab:0.99999676
+Removed: 4172084, Inserted: 4232084: (29.12, 40.93)
+stab:0.93771898
+Removed: 4173888, Inserted: 4233888: (-84.52, 37.99)
+stab:0.99997826
+Removed: 4174102, Inserted: 4234102: (-123.11, 49.34)
+stab:0.99993587
+Removed: 4175596, Inserted: 4235596: (139.64, 35.45)
+stab:0.99999999
+Removed: 4177017, Inserted: 4237017: (48.08, 29.20)
+stab:1.00000000
+Removed: 4177947, Inserted: 4237947: (-71.06, 42.36)
+stab:1.00000000
+Removed: 4182199, Inserted: 4242199: (-34.90, -8.12)
+stab:0.99999999
+Removed: 4188942, Inserted: 4248942: (-3.62, 40.43)
+stab:0.93236373
+Removed: 4189347, Inserted: 4249347: (-53.52, -26.75)
+stab:0.96130159
+Removed: 4198289, Inserted: 4258289: (-0.14, 51.54)
+stab:0.99999920
+Removed: 4199006, Inserted: 4259006: (-43.21, -22.99)
+stab:0.99962166
+Removed: 4202805, Inserted: 4262805: (-96.00, 36.13)
+stab:0.96198588
+Removed: 4205298, Inserted: 4265298: (-74.13, 40.84)
+stab:0.99964956
+Removed: 4205749, Inserted: 4265749: (-86.79, 36.17)
+stab:0.97062816
+Removed: 4205960, Inserted: 4265960: (-103.41, 20.71)
+stab:0.99999992
+Removed: 4206723, Inserted: 4266723: (-85.55, 42.91)
+stab:0.85227382
+Removed: 4209649, Inserted: 4269649: (103.86, 1.28)
+stab:0.99999997
+Removed: 4210482, Inserted: 4270482: (18.84, 42.28)
+stab:0.99999881
+Removed: 4211613, Inserted: 4271613: (28.99, 41.10)
+stab:0.89732613
+Removed: 4214012, Inserted: 4274012: (-87.89, 42.01)
+stab:0.94844671
+Removed: 4214922, Inserted: 4274922: (-106.06, 34.76)
+stab:0.95863431
+Removed: 4217336, Inserted: 4277336: (0.68, 47.38)
+stab:0.76932688
+Removed: 4224129, Inserted: 4284129: (8.23, 46.80)
+stab:0.99999985
+Removed: 4225481, Inserted: 4285481: (-34.85, -8.01)
+stab:0.98164106
+Removed: 4228476, Inserted: 4288476: (28.97, 41.04)
+stab:0.98438314
+Removed: 4228994, Inserted: 4288994: (-86.26, 39.88)
+stab:0.99999090
+Removed: 4230205, Inserted: 4290205: (36.25, 41.35)
+stab:0.74998411
+Removed: 4231023, Inserted: 4291023: (26.30, 38.34)
+stab:0.99999999
+Removed: 4234608, Inserted: 4294608: (-83.83, 39.94)
+stab:0.99999478
+Removed: 4234766, Inserted: 4294766: (-3.67, 40.42)
+stab:0.98255817
+Removed: 4238395, Inserted: 4298395: (-80.32, 26.15)
+stab:0.99984754
+Removed: 4239681, Inserted: 4299681: (107.60, -6.88)
+stab:0.99971054
+Removed: 4245961, Inserted: 4305961: (-98.49, 33.91)
+stab:0.96653306
+Removed: 4246204, Inserted: 4306204: (-97.44, 35.21)
+stab:0.99999999
+Removed: 4248563, Inserted: 4308563: (35.27, 37.02)
+stab:0.75601499
+Removed: 4249786, Inserted: 4309786: (-122.61, 45.53)
+stab:0.99984619
+Removed: 4250238, Inserted: 4310238: (28.97, 41.04)
+stab:1.00000000
+Removed: 4250909, Inserted: 4310909: (-35.98, -8.28)
+stab:0.99987916
+Removed: 4259377, Inserted: 4319377: (-86.20, 41.72)
+stab:1.00000000
+Removed: 4267445, Inserted: 4327445: (-9.42, 38.70)
+stab:0.99985103
+Removed: 4267682, Inserted: 4327682: (-115.47, 32.65)
+stab:0.99996584
+Removed: 4269159, Inserted: 4329159: (123.90, 10.32)
+stab:0.99767736
+Removed: 4269844, Inserted: 4329844: (-79.94, 37.27)
+stab:0.99759633
+Removed: 4270095, Inserted: 4330095: (41.02, 30.98)
+stab:0.99984540
+Removed: 4275605, Inserted: 4335605: (-60.01, -3.11)
+stab:0.99992681
+Removed: 4275774, Inserted: 4335774: (-84.49, 33.60)
+stab:0.99999997
+Removed: 4281719, Inserted: 4341719: (-76.61, 39.91)
+stab:0.70930238
+Removed: 4282160, Inserted: 4342160: (-85.60, 38.18)
+stab:0.99965925
+Removed: 4282594, Inserted: 4342594: (-102.33, 31.86)
+stab:0.99978604
+Removed: 4284704, Inserted: 4344704: (36.13, 36.20)
+stab:1.00000000
+Removed: 4286585, Inserted: 4346585: (-118.26, 33.72)
+stab:0.92533485
+Removed: 4287592, Inserted: 4347592: (-84.37, 33.81)
+stab:0.99999569
+Removed: 4289190, Inserted: 4349190: (-84.40, 33.76)
+stab:0.99999964
+Removed: 4292180, Inserted: 4352180: (-77.39, 38.97)
+stab:0.99996077
+Removed: 4294928, Inserted: 4354928: (-70.61, -33.42)
+stab:0.99682003
+Removed: 4296144, Inserted: 4356144: (-71.06, 42.36)
+stab:0.99999951
+Removed: 4296582, Inserted: 4356582: (-105.00, 39.75)
+stab:0.99999992
+Removed: 4296870, Inserted: 4356870: (-85.75, 38.20)
+stab:0.99999892
+Removed: 4300119, Inserted: 4360119: (-66.84, 10.51)
+stab:0.99999992
+Removed: 4302435, Inserted: 4362435: (-81.34, 41.14)
+stab:0.84139989
+Removed: 4305886, Inserted: 4365886: (-51.05, 0.03)
+stab:0.99999873
+Removed: 4307244, Inserted: 4367244: (-81.23, 33.91)
+stab:1.00000000
+Removed: 4315644, Inserted: 4375644: (-44.23, -2.60)
+stab:0.99999999
+Removed: 4319489, Inserted: 4379489: (-82.76, 27.97)
+stab:0.99992374
+Removed: 4320593, Inserted: 4380593: (-104.79, 38.86)
+stab:1.00000000
+Removed: 4322692, Inserted: 4382692: (-77.61, 43.09)
+stab:0.99934427
+Removed: 4323743, Inserted: 4383743: (28.36, 37.21)
+stab:0.99999851
+Removed: 4328334, Inserted: 4388334: (-82.61, 39.85)
+stab:0.99999939
+Removed: 4328729, Inserted: 4388729: (-79.98, 32.78)
+stab:0.99999884
+Removed: 4330182, Inserted: 4390182: (6.78, 51.27)
+stab:0.99999990
+Removed: 4331022, Inserted: 4391022: (71.43, 51.18)
+stab:0.99991104
+Removed: 4331892, Inserted: 4391892: (15.65, 46.55)
+stab:0.99999998
+Removed: 4333435, Inserted: 4393435: (-76.63, 39.32)
+stab:0.99968148
+Removed: 4335956, Inserted: 4395956: (-97.74, 30.36)
+stab:0.99999959
+Removed: 4336376, Inserted: 4396376: (-121.29, 38.78)
+stab:1.00000000
+Removed: 4338713, Inserted: 4398713: (-47.93, -15.78)
+stab:0.99774278
+Removed: 4340211, Inserted: 4400211: (-89.47, 31.28)
+stab:1.00000000
+Removed: 4340355, Inserted: 4400355: (-67.01, 10.36)
+stab:0.99999906
+Removed: 4340839, Inserted: 4400839: (-96.84, 39.03)
+stab:0.99559823
+Removed: 4341736, Inserted: 4401736: (-83.61, 41.66)
+stab:0.99954727
+Removed: 4346394, Inserted: 4406394: (-116.53, 33.78)
+stab:0.94780992
+Removed: 4350738, Inserted: 4410738: (-34.96, -8.36)
+stab:0.99985331
+Removed: 4354131, Inserted: 4414131: (-71.28, 42.86)
+stab:0.69035606
+Removed: 4354173, Inserted: 4414173: (-97.48, 25.92)
+stab:0.99999988
+Removed: 4356382, Inserted: 4416382: (-87.45, 37.94)
+stab:0.99998484
+Removed: 4363942, Inserted: 4423942: (139.70, 35.67)
+stab:0.99999955
+Removed: 4366349, Inserted: 4426349: (139.76, 35.70)
+stab:0.99999998
+Removed: 4368110, Inserted: 4428110: (-118.24, 34.05)
+stab:1.00000000
+Removed: 4368523, Inserted: 4428523: (73.70, 21.87)
+stab:0.96408406
+Removed: 4369403, Inserted: 4429403: (-121.31, 37.99)
+stab:0.99999995
+Removed: 4370056, Inserted: 4430056: (140.36, 35.56)
+stab:0.99999997
+Removed: 4374050, Inserted: 4434050: (-86.33, 39.76)
+stab:0.99983468
+Removed: 4374343, Inserted: 4434343: (-73.99, 40.76)
+stab:0.63996671
+Removed: 4378019, Inserted: 4438019: (-79.79, 36.07)
+stab:0.91502351
+Removed: 4378139, Inserted: 4438139: (-79.36, 43.68)
+stab:1.00000000
+Removed: 4379254, Inserted: 4439254: (-21.93, 64.15)
+stab:0.99996365
+Removed: 4379772, Inserted: 4439772: (0.52, 46.30)
+stab:1.00000000
+Removed: 4382862, Inserted: 4442862: (-73.95, 42.08)
+stab:0.99988852
+Removed: 4384193, Inserted: 4444193: (-118.29, 34.01)
+stab:0.99999535
+Removed: 4385063, Inserted: 4445063: (-89.19, 37.73)
+stab:0.99999957
+Removed: 4385483, Inserted: 4445483: (-90.44, 38.55)
+stab:0.99992657
+Removed: 4387365, Inserted: 4447365: (-118.04, 33.85)
+stab:0.99999973
+Removed: 4388156, Inserted: 4448156: (-80.91, -1.07)
+stab:0.99754623
+Removed: 4389103, Inserted: 4449103: (139.35, 35.61)
+stab:1.00000000
+Removed: 4395002, Inserted: 4455002: (-74.01, 40.71)
+stab:0.99998938
+Removed: 4397289, Inserted: 4457289: (-81.29, 28.25)
+stab:0.99992891
+Removed: 4402560, Inserted: 4462560: (-110.95, 31.32)
+stab:0.99999998
+Removed: 4403299, Inserted: 4463299: (-73.81, 40.67)
+stab:0.98189337
+Removed: 4406128, Inserted: 4466128: (-38.35, -12.95)
+stab:0.99952320
+Removed: 4407397, Inserted: 4467397: (-50.80, -29.57)
+stab:0.99965990
+Removed: 4407966, Inserted: 4467966: (-49.09, -26.48)
+stab:1.00000000
+Removed: 4408279, Inserted: 4468279: (-117.92, 33.81)
+stab:0.86373942
+Removed: 4411932, Inserted: 4471932: (139.75, 35.68)
+stab:0.97257783
+Removed: 4412308, Inserted: 4472308: (139.46, 35.76)
+stab:0.81095268
+Removed: 4413842, Inserted: 4473842: (-46.54, -23.65)
+stab:0.93445570
+Removed: 4425080, Inserted: 4485080: (-95.18, 30.05)
+stab:0.99640956
+Removed: 4425366, Inserted: 4485366: (139.32, 35.72)
+stab:1.00000000
+Removed: 4427114, Inserted: 4487114: (-43.09, -22.88)
+stab:0.99802822
+Removed: 4437042, Inserted: 4497042: (135.46, 34.53)
+stab:0.89630887
+Removed: 4438804, Inserted: 4498804: (139.87, 35.77)
+stab:0.95000207
+Removed: 4439595, Inserted: 4499595: (-69.00, 45.50)
+stab:0.99891997
+Removed: 4442513, Inserted: 4502513: (-95.72, 29.67)
+stab:1.00000000
+Removed: 4446871, Inserted: 4506871: (128.00, 36.00)
+stab:0.99999952
+Removed: 4451498, Inserted: 4511498: (139.71, 35.67)
+stab:0.99964388
+Removed: 4453290, Inserted: 4513290: (141.35, 43.07)
+stab:1.00000000
+Removed: 4455339, Inserted: 4515339: (-3.54, 51.68)
+stab:0.99951516
+Removed: 4459238, Inserted: 4519238: (-87.67, 41.88)
+stab:0.99999997
